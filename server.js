@@ -36,12 +36,15 @@ app.get('/', function(req, res){
   });
 });
 
-app.get('/file/:token', function(req, res){
-  console.log("GET request for " +req.params.token)
+app.get("/file/:token", function(req, res){
+  var token = req.params.token;
+  console.log("GET request for " + token);
+  res.send("token: " + token);
 });
 
-app.put('/file/:token', function(req, res){
-  console.log("PUT for " +req.params.token)
+app.put("/file/:token", function(req, res){
+  var token = req.params.token;
+  console.log("PUT for " + token);
 });
 
 app.listen(parseInt(process.env.PORT) || 3000, null, function(){
