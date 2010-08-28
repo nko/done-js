@@ -31,7 +31,7 @@ app.configure('production', function(){
 app.get('/', function(req, res){
   res.render('index.jade', {
     locals: {
-      title: 'Team Done.js'
+      title: 'Drop Node'
     }
   });
 });

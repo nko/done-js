@@ -4,6 +4,15 @@ html
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
   body
-    a(href:"http://nodeknockout.com/teams/donejs", target:"nko", title:"Help me win Node.js KO!")
-      img(id:"votenodeko", src:"http://nodeknockout.com/images/voteko.png", alt:"Help me win Node.js KO!")
-    #content!= body
+    #wrapper
+      h1 DropNode
+      #content
+        != body
+      
+      footer
+        .advert 
+          |Brought to you by 
+          a(href:"http://nodeknockout.com/teams/donejs") Team Done.js
+        a(href:"http://nodeknockout.com/teams/donejs", target:"nko", title:"Help me win Node.js KO!")
+          img(id:"votenodeko", src:"http://nodeknockout.com/images/voteko.png", alt:"Help me win Node.js KO!")
+
