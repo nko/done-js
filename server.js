@@ -5,6 +5,7 @@ require.paths.unshift(__dirname+"/lib/")
 require.paths.unshift(__dirname + '/vendor/')
 var express = require('express'),
   connect = require('connect'),
+  transfer = require('transfer'),
   websocket = require('websocket-server');
 
 var app = express.createServer();
@@ -37,15 +38,19 @@ app.get('/', function(req, res){
   });
 });
 
+// REMOVE THIS -- creates Channel, which the websocket code will eventually do
+transfer.TOKENS["abc"] = new transfer.Channel("thing.txt");
+
 app.get("/file/:token", function(req, res){
   var token = req.params.token;
   console.log("GET request for " + token);
-  res.send("token: " + token);
+  transfer.getFile(token, res);
 });
 
 app.put("/file/:token", function(req, res){
   var token = req.params.token;
   console.log("PUT for " + token);
+  transfer.putFile(token, req.rawBody, res);
 });
 
 app.listen(parseInt(process.env.PORT) || 3000, null, function(){
