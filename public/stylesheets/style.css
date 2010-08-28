@@ -35,8 +35,17 @@ footer {
 }
 #dropbox p {
   display: block;
+}
+#step1, #step2 {
   font-size: 4em;
   text-align: center;
+  margin: 10px;
+  color: #aaa;
+}
+.active {
+  color: #000 !important;
+}
+#step2 {
   margin-top: 10%;
 }
 #dropbox.hilight {
