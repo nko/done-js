@@ -10,6 +10,7 @@ var express = require('express'),
   websocket = require('websocket-server'),
   ResourceMan = require('resourceman');
 
+var BASE_URL = 'http://done-js.no.de:3000'
 var WS_PORT = 3081;
 
 var app = express.createServer();
@@ -72,4 +73,4 @@ app.listen(parseInt(process.env.PORT) || 3000, null, function(){
 
 var wsserver = websocket.createServer();
 wsserver.listen(WS_PORT);
-var resourceman = new ResourceMan(wsserver);
+var resourceman = new ResourceMan(wsserver, BASE_URL);

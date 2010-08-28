@@ -4,6 +4,11 @@ $(function(){
   $("#shortenButton").click(function(){
     shortenUrl("abc"); //TODO dynamically create this
   });
+
+  $('#connectButton').click(function() {
+    wsConnect('ws://localhost:3081');
+  });
+
   $("#shortenDialog").dialog(
     {
       height: 140,
@@ -66,4 +71,16 @@ function shortenUrl(token){
  
   };
   $.get(url, callback);
+}
+
+// Trivial example of WebSocket connection
+function wsConnect(wsurl) {
+  console.log('Opening socket to ' + wsurl);
+  var socket = new WebSocket(wsurl);
+  socket.onopen = function() {
+    console.log('Socket open to ' + wsurl);
+  };
+  socket.onmessage = function(msg) {
+    console.log('Received: ' + msg.data);
+  }
 }
