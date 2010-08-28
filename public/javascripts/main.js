@@ -12,7 +12,7 @@ $(function(){
     tweetToken("abc"); //TODO dynamically create this
   });
   $("#shareDialog").dialog(
-y    {
+   {
       height: 140,
       modal: true,
       autoOpen: false
