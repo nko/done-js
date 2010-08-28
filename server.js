@@ -4,7 +4,8 @@
 require.paths.unshift(__dirname+"/lib/")
 require.paths.unshift(__dirname + '/vendor/')
 var express = require('express'),
-  connect = require('connect');
+  connect = require('connect'),
+  websocket = require('websocket-server');
 
 var app = express.createServer();
 // Configuration
@@ -50,3 +51,6 @@ app.put("/file/:token", function(req, res){
 app.listen(parseInt(process.env.PORT) || 3000, null, function(){
   console.log("Server started on port 3000")
 });
+
+var wsserver = websocket.createServer({server: app})
+// TODO: nifty websocket sharer/server control comms
