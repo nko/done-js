@@ -1,16 +1,18 @@
 $(function(){
   handleDragAndDrop($('#dropbox').get(0))
 
-  $("#shortenButton").click(function(){
+  $("#shareButton").click(function(){
     shortenUrl("abc"); //TODO dynamically create this
+    $("#shareDialog").dialog('open');
   });
-
   $('#connectButton').click(function() {
     wsConnect('ws://localhost:3081');
   });
-
-  $("#shortenDialog").dialog(
-    {
+  $("#twitterDMButton").click(function(){
+    tweetToken("abc"); //TODO dynamically create this
+  });
+  $("#shareDialog").dialog(
+y    {
       height: 140,
       modal: true,
       autoOpen: false
@@ -62,10 +64,31 @@ function noop(e) {
   e.preventDefault();
 }
 
+function tweetToken(token){
+  var handle = $("#twitterHandle");
+  // verify that they entered something
+  if ($.trim(handle.val()).length == 0) {
+    return
+  }
+  var url = '/tweet/' + token;
+  $.ajax({
+    url: url,
+    type: 'POST',
+    data: {'handle': handle.val()},
+    success: function(){
+      $("#shareDialog").dialog('close');
+      // clear out the username
+      handle.val("");
+    },
+    error: function(request, status, error){
+      //$("#shareDialog").dialog('open');
+      handle.effect("highlight", {color: 'red'}, 3000);
+    }
+  });
+}
+
 function shortenUrl(token){
   var url = '/shorten/' + token;
-  $("#shortenDialog").dialog('open');
-
   var callback = function(data) {
     $("#shortenedUrlDisplay").val(data);
  
