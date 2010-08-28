@@ -36,6 +36,14 @@ app.get('/', function(req, res){
   });
 });
 
+app.get('/file/:token', function(req, res){
+  console.log("GET request for " +req.params.token)
+});
+
+app.put('/file/:token', function(req, res){
+  console.log("PUT for " +req.params.token)
+});
+
 app.listen(parseInt(process.env.PORT) || 3000, null, function(){
   console.log("Server started on port 3000")
 });
