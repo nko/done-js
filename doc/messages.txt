@@ -7,7 +7,7 @@ share file notification
 sharer -> server
 {
   'request' : 'share-file',
-  'location' : '${file_location_on_client}',
+  'name' : '${file_name}'
   'size' : '${file_size}',
   'type' : '${mime-type}'
 }
@@ -15,7 +15,8 @@ sharer -> server
 server -> sharer
 {
   'response' : 'ok',
-  'location' : '${file_location_on_client}'
+  'name' : '${file_name}'
+  'url' : '${server_URL}'
 }
 
 ----------------------------------------
@@ -25,14 +26,12 @@ file request
 server -> sharer
 {
   'request' : 'get'
-  'location' : '${file_location_on_client}'
-  'url' : '${resource_url_on_server}'
+  'url' : '${server_URL}'
 }
 
 sharer -> server
 {
   'response' : 'sending'
-  'location' : '${file_location_on_client}'
   'url' : '${resource_url_on_server}'
 }
 
