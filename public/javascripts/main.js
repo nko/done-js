@@ -17,7 +17,6 @@ function handleDragAndDrop(dropbox){
 
   var drop = function(e){
     noop.apply(this, arguments)
-    console.log('test')
     var files = e.dataTransfer.files
     $('#step2').text("Shared " + files[0].name + " of type " + files[0].type+"!")
     setTimeout(function(){
@@ -37,7 +36,7 @@ function handleDragAndDrop(dropbox){
  dropbox.addEventListener("dragexit", noop, false);
  dropbox.addEventListener("dragover", noop, false);
  dropbox.addEventListener("dragenter", function(e){
-   $('#step2').text('DROP!')
+   $('#step2').text('3. DROP!')
    e.stopPropagation();
    e.preventDefault();
  }, false);
