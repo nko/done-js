@@ -1,0 +1,21 @@
+{
+  "name": "donejs",
+  "description": "Single drop file sharing",
+  "version": "0.0.1",
+  "contributors": [ 
+    { "name": "James Carr", "email": "james.r.carr@gmail.com" },
+    { "name": "Aditya Siram", "email": "aditya.siram@gmail.com" },
+    { "name": "John Paulett", "email": "john@paulett.org" },
+    { "name": "Kevin Archie", "email": "karchie@alumni.caltech.edu" }
+  ],
+  "directories": { "lib": "./lib/" },
+  "engines": { "node": ">= 0.2.0" },
+  "dependencies":{
+    "express":"1.0.0rc",
+    "connect":"0.2.3",
+    "jade":"0.3.0",
+    "cradle":"0.2.0",
+    "request":"0.10.0",
+    "less":"1.0.21"
+  }
+}
