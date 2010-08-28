@@ -1,5 +1,15 @@
 $(function(){
-    handleDragAndDrop($('#dropbox').get(0))
+  handleDragAndDrop($('#dropbox').get(0))
+
+  $("#shortenButton").click(function(){
+    shortenUrl("abc"); //TODO dynamically create this
+  });
+  $("#shortenDialog").dialog(
+    {
+      height: 140,
+      modal: true,
+      autoOpen: false
+    });
 })
 
 function handleDragAndDrop(dropbox){
@@ -45,4 +55,15 @@ function handleDragAndDrop(dropbox){
 function noop(e) {
   e.stopPropagation();
   e.preventDefault();
+}
+
+function shortenUrl(token){
+  var url = '/shorten/' + token;
+  $("#shortenDialog").dialog('open');
+
+  var callback = function(data) {
+    $("#shortenedUrlDisplay").val(data);
+
+  };
+  $.get(url, callback);
 }
