@@ -1,0 +1,39 @@
+sharer client opens persistent WS connection to server
+
+----------------------------------------
+
+share file notification
+
+sharer -> server
+{
+  'request' : 'share-file',
+  'location' : '${file_location_on_client}',
+  'size' : '${file_size}',
+  'type' : '${mime-type}'
+}
+
+server -> sharer
+{
+  'response' : 'ok',
+  'location' : '${file_location_on_client}'
+}
+
+----------------------------------------
+
+file request
+
+server -> sharer
+{
+  'request' : 'get'
+  'location' : '${file_location_on_client}'
+  'url' : '${resource_url_on_server}'
+}
+
+sharer -> server
+{
+  'response' : 'sending'
+  'location' : '${file_location_on_client}'
+  'url' : '${resource_url_on_server}'
+}
+
+----------------------------------------
