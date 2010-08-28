@@ -1,6 +1,10 @@
 /**
  * Damn dirty spiek to se ehow attachments work 
  */
+// run "node couch-attachments save" to save, go look at http://donejs.couchone.com/_utils to view
+// run "node couch-attachments getfile" to get document with full file
+// run "node couch-attachments getnofile" to fetch document without attachment
+// run "node couch-attachments remove" to remove it.
 var cradle = require('../vendor/cradle'),
     fs = require('fs'),
     sys = require('sys')
