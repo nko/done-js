@@ -6,6 +6,7 @@ require.paths.unshift(__dirname + '/vendor/')
 var express = require('express'),
   connect = require('connect'),
   transfer = require('transfer'),
+  bitly = require('bitly'),
   websocket = require('websocket-server'),
   ResourceMan = require('resourceman');
 
@@ -54,6 +55,15 @@ app.put("/file/:token", function(req, res){
   var token = req.params.token;
   console.log("PUT for " + token);
   transfer.putFile(token, req.rawBody, res);
+});
+
+app.get("/shorten/:token", function(req, res){
+  var token = req.params.token;
+  // FIXME detect the host & port
+  var url = "http://done-js.no.de/file/" + token;
+  bitly.shorten(url, function(err, result) {
+    res.send(result);
+  });
 });
 
 app.listen(parseInt(process.env.PORT) || 3000, null, function(){
