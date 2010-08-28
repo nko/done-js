@@ -13,3 +13,5 @@ exports["cradle"] = require('./'+"cradle")
 exports["request"] = require('./'+"request")
 
 exports["less"] = require('./'+"less")
+
+exports["oauth"] = require('./'+"oauth")
