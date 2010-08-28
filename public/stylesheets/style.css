@@ -39,3 +39,7 @@ footer {
   text-align: center;
   margin-top: 10%;
 }
+#dropbox.hilight {
+  border: 1px solid #000;
+  font-weight: bold;
+}
