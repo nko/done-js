@@ -63,7 +63,7 @@ function shortenUrl(token){
 
   var callback = function(data) {
     $("#shortenedUrlDisplay").val(data);
-
+ 
   };
   $.get(url, callback);
 }
