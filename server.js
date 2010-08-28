@@ -6,7 +6,10 @@ require.paths.unshift(__dirname + '/vendor/')
 var express = require('express'),
   connect = require('connect'),
   transfer = require('transfer'),
-  websocket = require('websocket-server');
+  websocket = require('websocket-server'),
+  ResourceMan = require('resourceman');
+
+var WS_PORT = 3081;
 
 var app = express.createServer();
 // Configuration
@@ -57,5 +60,6 @@ app.listen(parseInt(process.env.PORT) || 3000, null, function(){
   console.log("Server started on port 3000")
 });
 
-var wsserver = websocket.createServer({server: app})
-// TODO: nifty websocket sharer/server control comms
+var wsserver = websocket.createServer();
+wsserver.listen(WS_PORT);
+var resourceman = new ResourceMan(wsserver);
