@@ -2,7 +2,7 @@
 git pull origin master &&
 vows &&
 git add * &&
-git commit -am 'autocommit' &&
+git commit -a &&
 git push origin master &&
 git push joyent master
 
