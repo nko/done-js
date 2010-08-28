@@ -2,8 +2,7 @@
  * Module dependencies.
  */ 
 require.paths.unshift(__dirname+"/lib/")
-require(__dirname+"/vendor/") // local vendor libs
-
+require.paths.unshift(__dirname + '/vendor/')
 var express = require('express'),
   connect = require('connect');
 
