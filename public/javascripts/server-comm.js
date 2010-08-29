@@ -21,6 +21,10 @@ function wsConnect(wsurl) {
       $("#emailUrl").attr("href", "mailto:?subject="+res.name+" on done-js.no.de&body=You can download "+res.name+" at "+url);
       $('#shortenedUrlDisplay').val(url)
       $("#shareDialog").dialog('open');
+      
+      $("#fileList").append('<li><a target="_blank" href="'+url+'">'+res.name+'</li>');
+      $("#fileListBox").show('slow');
+
     }else if(res.request && res.request == 'get'){
       $('body').trigger('url-recvd', [res])
     }
