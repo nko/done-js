@@ -36,7 +36,7 @@ function wsConnect(wsurl) {
             data: e.target.result,
             dataType: file.type,
             success:function(){
-              alert("sent \n"+e.target.result)
+              console.log("data sent")
             }
           });
         }
