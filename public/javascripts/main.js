@@ -25,17 +25,18 @@ function handleDragAndDrop(dropbox){
   document.addEventListener('drop', noop, false);
   document.addEventListener('dragenter', function(e){
     $('#step').text(steps[1]);
-    $('#dropbox').addClass('activeBox');
+    $('#dropbox').addClass('around');
     noop.apply(this, arguments)
   }, false);
   document.addEventListener('dragexit', function(e){
     $('#step').text(steps[0]);
+    $('#dropbox').removeClass('above').removeClass('around');
     noop.apply(this, arguments)
   }, false)
 
   var drop = function(e){
     noop.apply(this, arguments)
-    $('#dropbox').removeClass('activeBox');
+    $('#dropbox').removeClass('above').removeClass('around');
     var files = e.dataTransfer.files
     $('body').trigger('uploadfile', [files]);
     
@@ -55,6 +56,7 @@ function handleDragAndDrop(dropbox){
   dropbox.addEventListener("dragover", noop, false);
   dropbox.addEventListener("dragenter", function(e){
     $('#step').text(steps[2]);
+    $('#dropbox').addClass('above').removeClass('around');
     e.stopPropagation();
     e.preventDefault();
   }, false);
