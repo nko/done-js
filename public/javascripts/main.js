@@ -101,9 +101,19 @@ function wsConnect(wsurl) {
   console.log('Opening socket to ' + wsurl);
   var socket = new WebSocket(wsurl);
   socket.onopen = function() {
-    console.log('Socket open to ' + wsurl);
+    console.log('Socket open to ' + wsurl + '; sending share request');
+
+    var sharemsg = { 'request' : 'share-file',
+		     'name' : 'my-file.txt',
+		     'size' : '128',
+		     'type' : 'application/text'
+		   };
+    socket.send(JSON.stringify(sharemsg));
   };
   socket.onmessage = function(msg) {
     console.log('Received: ' + msg.data);
   }
+
+
+  socket
 }
