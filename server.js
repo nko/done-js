@@ -5,11 +5,9 @@ require.paths.unshift(__dirname+"/lib/")
 require.paths.unshift(__dirname + '/vendor/')
 var express = require('express'),
   connect = require('connect'),
-  transfer = require('transfer'),
-  bitly = require('bitly'),
-  twitter = require('twitter'),
   websocket = require('websocket-server'),
   ResourceMan = require('resourceman'),
+  routes = require('routes')
   config = require('config');
 
 var app = express.createServer();
@@ -36,59 +34,10 @@ app.configure('production', function(){
 var settings = config.load(app.settings['env']);
 
 // Routes
-
-app.get('/', function(req, res){
-  res.render('index.jade', {
-    locals: {
-      title: 'Drop Node'
-    }
-  });
-});
-
-// REMOVE THIS -- creates Channel, which the websocket code will eventually do
-transfer.TOKENS["abc"] = new transfer.Channel("thing.txt");
-
-app.get("/file/:token", function(req, res){
-  var token = req.params.token;
-  console.log("GET request for " + token);
-  transfer.getFile(token, res);
-});
-
-app.put("/file/:token", function(req, res){
-  var token = req.params.token;
-  console.log("PUT for " + token);
-  transfer.putFile(token, req.rawBody, res);
-});
+routes.wire(app, settings)
 
 
-var shorten = function(token, callback){
-  var url = settings.baseUrl + "file/" + token;
-  bitly.shorten(url, callback);
-};
 
-app.get("/shorten/:token", function(req, res){
-  var token = req.params.token;
-  shorten(token, function(err, result) {
-   res.send(result);
-  });
-});
-
-app.post("/tweet/:token", function(req, res){
-  var token = req.params.token;
-  var handle = req.body.handle;
-  shorten(token, function(err, url) {
-    var message = "Dropnode file available at " + url;
-    twitter.dm(handle, message, function(err, result){
-      if (err) {
-        // for now, incorrectly assume that the DM failed because the handle 
-        // is not following donejs
-        res.send("Could not DM " + handle + ". Please make sure they are following <a href='http://twitter.com/donejs'>donejs</a>.", 400)
-      } else {
-        res.send(200);
-      }
-    });
-  });
-});
 
 
 app.listen(parseInt(process.env.PORT) || 3000, null, function(){
