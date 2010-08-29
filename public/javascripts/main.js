@@ -1,5 +1,5 @@
 $(function(){
-  wsConnect('ws://localhost:3081');
+  wsConnect('ws://'+location.host+':3081');
   handleDragAndDrop($('#dropbox').get(0))
 
   $("#shareButton").click(function(){
