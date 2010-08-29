@@ -18,7 +18,6 @@ function wsConnect(wsurl) {
     var res = JSON.parse(msg.data);
     if(res.response && res.response == "ok"){
       var url = res.url.replace(/file/g, "preview");
-      $("#emailUrl").attr("href", "mailto:?subject="+res.name+" on done-js.no.de&body=You can download "+res.name+" at "+url);
       $('#shortenedUrlDisplay').val(url)
       $("#shareDialog").dialog('open');
       
