@@ -48,6 +48,8 @@ footer {
 }
 #wrapper .navlink {
   float: right;
+  display: block;
+  padding: 5px;
 }
 #wrapper #downloadbox {
   width: 200px;
@@ -61,6 +63,7 @@ footer {
   background: #ddd;
   padding: 5px;
   height: 280px;
+  margin: 30px 10px;
 }
 #dropbox p {
   display: block;
@@ -90,4 +93,18 @@ input#shortenedUrlDisplay {
 }
 #fileListBox {
   display: none;
+}
+#browsers {
+  display: block;
+  margin-left: 5%;
+  list-style-type: none;
+}
+#browsers li {
+  display: block;
+  width: 128px;
+  float: left;
+  margin-right: 10%;
+}
+#browsers li a {
+  text-decoration: none;
 }
