@@ -1,1 +1,11 @@
-{}
+{
+  "bitly": {
+    "key": "R_662058d252606f03a5dc03aad930d7ec",
+    "user": "donejs",
+    "host": "api.bit.ly",
+    "path": "/v3/shorten"
+  },
+  "twitter": {
+    "": ""
+  }
+}
