@@ -23,7 +23,9 @@ function wsConnect(wsurl) {
       $("#shareDialog").dialog('open');
       
       $("#fileList").append('<li><a target="_blank" href="'+url+'">'+res.name+'</a> ('+res.sizeDisplay+')</li>');
+      $("#instructions").hide();
       $("#fileListBox").show('slow');
+
 
     }else if(res.request && res.request == 'get'){
       $('body').trigger('url-recvd', [res])

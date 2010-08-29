@@ -40,9 +40,10 @@ function handleDragAndDrop(dropbox){
     var files = e.dataTransfer.files
     $('body').trigger('uploadfile', [files]);
     
-    $('#step').text("Shared " + files[0].name + " of type " + files[0].type+"!")
+    //$('#step').text("Shared " + files[0].name + " of type " + files[0].type+"!")
+    $('#step').text("Shared")
     setTimeout(function(){
-      $('#step').fadeOut(3000, function(){
+      $('#step').fadeOut(1000, function(){
         $('#step')
           .text(steps[0])
           .fadeIn(2000)
