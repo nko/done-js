@@ -41,7 +41,7 @@ app.get('/', function(req, res){
   res.render('index.jade', {
     locals: {
       title: 'Drop Node',
-      env: app.settings.env
+      env: require('sys').inspect(process.env)
     }
   });
 });
