@@ -17,7 +17,7 @@ function wsConnect(wsurl) {
   socket.onmessage = function(msg) {
     var res = JSON.parse(msg.data);
     if(res.response && res.response == "ok"){
-      $('#shortenedUrlDisplay').text(res.url)
+      $('#shortenedUrlDisplay').val(res.url)
       $("#shareDialog").dialog('open');
     }else if(res.request && res.request == 'get'){
       $('body').trigger('url-recvd', [res])

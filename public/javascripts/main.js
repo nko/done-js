@@ -1,12 +1,15 @@
 $(function(){
   wsConnect('ws://'+location.hostname+':3081');
   handleDragAndDrop($('#dropbox').get(0))
-
+  $('#shortenedUrlDisplay').click(function(){
+    $(this).select()
+  })
   $("#twitterDMButton").click(function(){
     tweetToken("abc"); //TODO dynamically create this
   });
   $("#shareDialog").dialog(
    {
+      width: 400,
       height: 140,
       modal: true,
       autoOpen: false
