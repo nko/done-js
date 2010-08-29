@@ -26,6 +26,7 @@ file request
 server -> sharer
 {
   'request' : 'get'
+  'name' : '${file_name}'
   'url' : '${server_URL}'
 }
 
