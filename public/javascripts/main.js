@@ -15,15 +15,15 @@ $(function(){
       $("#twitterDMButton").click(function(){
         tweetToken("abc"); //TODO dynamically create this
       });
-      $("#shareDialog").dialog(
-        {  width: 400,
-           height: 160,
-           modal: true,
-           autoOpen: false
-        });
 
       warnOnUnload();
     })()
+    $("#shareDialog").dialog(
+      {  width: 400,
+         height: 160,
+         modal: true,
+         autoOpen: false
+      });
 })
 
 function handleDragAndDrop(dropbox){
