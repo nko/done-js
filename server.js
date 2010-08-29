@@ -7,7 +7,7 @@ var express = require('express'),
   connect = require('connect'),
   transfer = require('transfer'),
   bitly = require('bitly'),
-twitter = require('twitter'),
+  twitter = require('twitter'),
   websocket = require('websocket-server'),
   ResourceMan = require('resourceman');
 
