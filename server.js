@@ -29,7 +29,7 @@ var app = (function(){
     app.use(connect.errorHandler()); 
   });
   return app;
-}();
+})();
 // Custom config management
 var settings = config.load(app.settings['env']);
 
