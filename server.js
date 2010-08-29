@@ -9,7 +9,8 @@ var express = require('express'),
   bitly = require('bitly'),
   twitter = require('twitter'),
   websocket = require('websocket-server'),
-  ResourceMan = require('resourceman');
+  ResourceMan = require('resourceman'),
+  config = require('config');
 
 var BASE_URL = 'http://done-js.no.de:3000'
 var WS_PORT = 3081;
@@ -33,6 +34,9 @@ app.configure('development', function(){
 app.configure('production', function(){
   app.use(connect.errorHandler()); 
 });
+
+// Custom config management
+config.load(app.settings['env']);
 
 // Routes
 
