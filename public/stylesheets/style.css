@@ -31,6 +31,10 @@ footer {
 #wrapper a#header {
   text-decoration: none;
 }
+#wrapper .center, #wrapper .download {
+  display: block;
+  text-align: center;
+}
 #wrapper h1 {
   position: absolute;
   top: 0px;
@@ -42,6 +46,13 @@ footer {
 }
 #wrapper .navlink {
   float: right;
+}
+#wrapper #downloadbox {
+  width: 200px;
+  border: 1px solid #555;
+  background: #eee;
+  margin: 10px auto;
+  padding: 5px;
 }
 #dropbox {
   border: 1px solid #999;

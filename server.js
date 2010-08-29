@@ -33,8 +33,6 @@ var app = (function(){
 // Custom config management
 var settings = config.load(app.settings['env']);
 
-// Routes
-routes.wire(app, settings);
 
 app.listen(parseInt(process.env.PORT) || 3000, null, function(){
   console.log("Server started on port 3000")
@@ -56,4 +54,6 @@ app.put("/file/:token", function(req, res){
   resourceman.handleHttpPut(token, req.rawBody, res);
 });
 
+// Routes
+routes.wire(app, settings, resourceman);
 

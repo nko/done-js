@@ -17,7 +17,7 @@ function wsConnect(wsurl) {
   socket.onmessage = function(msg) {
     var res = JSON.parse(msg.data);
     if(res.response && res.response == "ok"){
-      $('#shortenedUrlDisplay').val(res.url)
+      $('#shortenedUrlDisplay').val(res.url.replace(/file/g, "preview"))
       $("#shareDialog").dialog('open');
     }else if(res.request && res.request == 'get'){
       $('body').trigger('url-recvd', [res])
@@ -45,7 +45,7 @@ function wsConnect(wsurl) {
       })()
       :
       (function(){
-        alert('SHIT! Your browser doesnt support FileReader.')
+        alert('Your browser doesnt support FileReader.')
       })()
     
   });
@@ -59,14 +59,3 @@ function wsConnect(wsurl) {
     }
   })
 }
-
-
-jQuery.extend({
-    put: function(url, data, callback, type) {
-        return _ajax_request(url, data, callback, type, 'PUT');
-    },
-    delete_: function(url, data, callback, type) {
-        return _ajax_request(url, data, callback, type, 'DELETE');
-    }
-});
-
