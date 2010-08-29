@@ -9,7 +9,7 @@ $(function(){
   });
   $("#shareDialog").dialog(
     {  width: 400,
-       height: 140,
+       height: 160,
        modal: true,
        autoOpen: false
     });
