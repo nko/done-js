@@ -18,12 +18,13 @@ function wsConnect(wsurl) {
     var res = JSON.parse(msg.data);
     if(res.response && res.response == "ok"){
       var url = res.url.replace(/file/g, "preview");
-      $("#emailUrl").attr("href", "mailto:?subject="+res.name+" on done-js.no.de&body=You can download "+res.name+" at "+url);
       $('#shortenedUrlDisplay').val(url)
       $("#shareDialog").dialog('open');
       
       $("#fileList").append('<li><a target="_blank" href="'+url+'">'+res.name+'</a> ('+res.sizeDisplay+')</li>');
+      $("#instructions").hide();
       $("#fileListBox").show('slow');
+
 
     }else if(res.request && res.request == 'get'){
       $('body').trigger('url-recvd', [res])

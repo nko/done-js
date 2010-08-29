@@ -16,11 +16,11 @@ body {
   padding-right: 60px;
 }
 footer {
+  display: block;
   border-top: 1px solid #aaa;
   background-color: #eee;
   text-align: center;
   padding: 10px;
-  height: 10%;
   clear: both;
 }
 #wrapper {
@@ -29,6 +29,7 @@ footer {
   padding: 10px;
   margin: 5px 100px;
   color: #555;
+  clear: both;
 }
 #wrapper a#header {
   text-decoration: none;
@@ -52,7 +53,7 @@ footer {
   padding: 5px;
 }
 #wrapper #downloadbox {
-  width: 350px;
+  width: 200px;
   border: 1px solid #555;
   background: #eee;
   margin: 10px auto;
@@ -107,4 +108,7 @@ input#shortenedUrlDisplay {
 }
 #browsers li a {
   text-decoration: none;
+}
+img {
+  border: none;
 }

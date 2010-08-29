@@ -1,20 +1,29 @@
 $(function(){
-  wsConnect('ws://'+location.hostname+':3081');
-  handleDragAndDrop($('#dropbox').get(0))
-  $('#shortenedUrlDisplay').click(function(){
-    $(this).select()
-  })
-  $("#twitterDMButton").click(function(){
-    tweetToken("abc"); //TODO dynamically create this
-  });
-  $("#shareDialog").dialog(
-    {  width: 400,
-       height: 160,
-       modal: true,
-       autoOpen: false
-    });
 
-  warnOnUnload();
+  // verify that they support it
+  typeof FileReader == 'undefined'?
+    (function(){
+      $('#content').html("<div id='step'>Your browser does not support FileReader. Check the <a href='/browsers'>supported browsers</a></div>")
+    })()
+    :
+    (function(){
+      wsConnect('ws://'+location.hostname+':3081');
+      handleDragAndDrop($('#dropbox').get(0))
+      $('#shortenedUrlDisplay').click(function(){
+        $(this).select()
+      })
+      $("#twitterDMButton").click(function(){
+        tweetToken("abc"); //TODO dynamically create this
+      });
+
+      warnOnUnload();
+    })()
+    $("#shareDialog").dialog(
+      {  width: 400,
+         height: 160,
+         modal: true,
+         autoOpen: false
+      });
 })
 
 function handleDragAndDrop(dropbox){
@@ -40,9 +49,10 @@ function handleDragAndDrop(dropbox){
     var files = e.dataTransfer.files
     $('body').trigger('uploadfile', [files]);
     
-    $('#step').text("Shared " + files[0].name + " of type " + files[0].type+"!")
+    //$('#step').text("Shared " + files[0].name + " of type " + files[0].type+"!")
+    $('#step').text("Shared")
     setTimeout(function(){
-      $('#step').fadeOut(3000, function(){
+      $('#step').fadeOut(1000, function(){
         $('#step')
           .text(steps[0])
           .fadeIn(2000)

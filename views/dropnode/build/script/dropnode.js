@@ -25,7 +25,7 @@ qx.$$loader = {
   parts : {"boot":[0]},
   uris : [["__out__:dropnode.js"]],
   urisBefore : [],
-  packageHashes : {"0":"ad9338d343db"},
+  packageHashes : {"0":"a31cba23b67b"},
   boot : "boot",
   closureParts : {},
   bootIsInline : true,
@@ -157,7 +157,7 @@ qx.$$loader.init = function(){
 }
 })();
 
-qx.$$packageData['ad9338d343db']={"locales":{"C":{"alternateQuotationEnd":"’","alternateQuotationStart":"‘","cldr_am":"AM","cldr_date_format_full":"EEEE, MMMM d, y","cldr_date_format_long":"MMMM d, y","cldr_date_format_medium":"MMM d, y","cldr_date_format_short":"M/d/yy","cldr_date_time_format_EEEd":"d EEE","cldr_date_time_format_Hm":"H:mm","cldr_date_time_format_Hms":"H:mm:ss","cldr_date_time_format_M":"L","cldr_date_time_format_MEd":"E, M/d","cldr_date_time_format_MMM":"LLL","cldr_date_time_format_MMMEd":"E, MMM d","cldr_date_time_format_MMMMEd":"E, MMMM d","cldr_date_time_format_MMMMd":"MMMM d","cldr_date_time_format_MMMd":"MMM d","cldr_date_time_format_Md":"M/d","cldr_date_time_format_d":"d","cldr_date_time_format_hm":"h:mm a","cldr_date_time_format_ms":"mm:ss","cldr_date_time_format_y":"y","cldr_date_time_format_yM":"M/yyyy","cldr_date_time_format_yMEd":"EEE, M/d/yyyy","cldr_date_time_format_yMMM":"MMM y","cldr_date_time_format_yMMMEd":"EEE, MMM d, y","cldr_date_time_format_yMMMM":"MMMM y","cldr_date_time_format_yQ":"Q yyyy","cldr_date_time_format_yQQQ":"QQQ y","cldr_day_format_abbreviated_fri":"Fri","cldr_day_format_abbreviated_mon":"Mon","cldr_day_format_abbreviated_sat":"Sat","cldr_day_format_abbreviated_sun":"Sun","cldr_day_format_abbreviated_thu":"Thu","cldr_day_format_abbreviated_tue":"Tue","cldr_day_format_abbreviated_wed":"Wed","cldr_day_format_narrow_fri":"F","cldr_day_format_narrow_mon":"M","cldr_day_format_narrow_sat":"S","cldr_day_format_narrow_sun":"S","cldr_day_format_narrow_thu":"T","cldr_day_format_narrow_tue":"T","cldr_day_format_narrow_wed":"W","cldr_day_format_wide_fri":"Friday","cldr_day_format_wide_mon":"Monday","cldr_day_format_wide_sat":"Saturday","cldr_day_format_wide_sun":"Sunday","cldr_day_format_wide_thu":"Thursday","cldr_day_format_wide_tue":"Tuesday","cldr_day_format_wide_wed":"Wednesday","cldr_day_stand-alone_abbreviated_fri":"Fri","cldr_day_stand-alone_abbreviated_mon":"Mon","cldr_day_stand-alone_abbreviated_sat":"Sat","cldr_day_stand-alone_abbreviated_sun":"Sun","cldr_day_stand-alone_abbreviated_thu":"Thu","cldr_day_stand-alone_abbreviated_tue":"Tue","cldr_day_stand-alone_abbreviated_wed":"Wed","cldr_day_stand-alone_narrow_fri":"F","cldr_day_stand-alone_narrow_mon":"M","cldr_day_stand-alone_narrow_sat":"S","cldr_day_stand-alone_narrow_sun":"S","cldr_day_stand-alone_narrow_thu":"T","cldr_day_stand-alone_narrow_tue":"T","cldr_day_stand-alone_narrow_wed":"W","cldr_day_stand-alone_wide_fri":"Friday","cldr_day_stand-alone_wide_mon":"Monday","cldr_day_stand-alone_wide_sat":"Saturday","cldr_day_stand-alone_wide_sun":"Sunday","cldr_day_stand-alone_wide_thu":"Thursday","cldr_day_stand-alone_wide_tue":"Tuesday","cldr_day_stand-alone_wide_wed":"Wednesday","cldr_month_format_abbreviated_1":"Jan","cldr_month_format_abbreviated_10":"Oct","cldr_month_format_abbreviated_11":"Nov","cldr_month_format_abbreviated_12":"Dec","cldr_month_format_abbreviated_2":"Feb","cldr_month_format_abbreviated_3":"Mar","cldr_month_format_abbreviated_4":"Apr","cldr_month_format_abbreviated_5":"May","cldr_month_format_abbreviated_6":"Jun","cldr_month_format_abbreviated_7":"Jul","cldr_month_format_abbreviated_8":"Aug","cldr_month_format_abbreviated_9":"Sep","cldr_month_format_wide_1":"January","cldr_month_format_wide_10":"October","cldr_month_format_wide_11":"November","cldr_month_format_wide_12":"December","cldr_month_format_wide_2":"February","cldr_month_format_wide_3":"March","cldr_month_format_wide_4":"April","cldr_month_format_wide_5":"May","cldr_month_format_wide_6":"June","cldr_month_format_wide_7":"July","cldr_month_format_wide_8":"August","cldr_month_format_wide_9":"September","cldr_month_stand-alone_narrow_1":"J","cldr_month_stand-alone_narrow_10":"O","cldr_month_stand-alone_narrow_11":"N","cldr_month_stand-alone_narrow_12":"D","cldr_month_stand-alone_narrow_2":"F","cldr_month_stand-alone_narrow_3":"M","cldr_month_stand-alone_narrow_4":"A","cldr_month_stand-alone_narrow_5":"M","cldr_month_stand-alone_narrow_6":"J","cldr_month_stand-alone_narrow_7":"J","cldr_month_stand-alone_narrow_8":"A","cldr_month_stand-alone_narrow_9":"S","cldr_number_decimal_separator":".","cldr_number_group_separator":",","cldr_number_percent_format":"#,##0%","cldr_pm":"PM","cldr_time_format_full":"h:mm:ss a zzzz","cldr_time_format_long":"h:mm:ss a z","cldr_time_format_medium":"h:mm:ss a","cldr_time_format_short":"h:mm a","quotationEnd":"”","quotationStart":"“"},"en":{"alternateQuotationEnd":"’","alternateQuotationStart":"‘","cldr_am":"AM","cldr_date_format_full":"EEEE, MMMM d, y","cldr_date_format_long":"MMMM d, y","cldr_date_format_medium":"MMM d, y","cldr_date_format_short":"M/d/yy","cldr_date_time_format_EEEd":"d EEE","cldr_date_time_format_Hm":"H:mm","cldr_date_time_format_Hms":"H:mm:ss","cldr_date_time_format_M":"L","cldr_date_time_format_MEd":"E, M/d","cldr_date_time_format_MMM":"LLL","cldr_date_time_format_MMMEd":"E, MMM d","cldr_date_time_format_MMMMEd":"E, MMMM d","cldr_date_time_format_MMMMd":"MMMM d","cldr_date_time_format_MMMd":"MMM d","cldr_date_time_format_Md":"M/d","cldr_date_time_format_d":"d","cldr_date_time_format_hm":"h:mm a","cldr_date_time_format_ms":"mm:ss","cldr_date_time_format_y":"y","cldr_date_time_format_yM":"M/yyyy","cldr_date_time_format_yMEd":"EEE, M/d/yyyy","cldr_date_time_format_yMMM":"MMM y","cldr_date_time_format_yMMMEd":"EEE, MMM d, y","cldr_date_time_format_yMMMM":"MMMM y","cldr_date_time_format_yQ":"Q yyyy","cldr_date_time_format_yQQQ":"QQQ y","cldr_day_format_abbreviated_fri":"Fri","cldr_day_format_abbreviated_mon":"Mon","cldr_day_format_abbreviated_sat":"Sat","cldr_day_format_abbreviated_sun":"Sun","cldr_day_format_abbreviated_thu":"Thu","cldr_day_format_abbreviated_tue":"Tue","cldr_day_format_abbreviated_wed":"Wed","cldr_day_format_narrow_fri":"F","cldr_day_format_narrow_mon":"M","cldr_day_format_narrow_sat":"S","cldr_day_format_narrow_sun":"S","cldr_day_format_narrow_thu":"T","cldr_day_format_narrow_tue":"T","cldr_day_format_narrow_wed":"W","cldr_day_format_wide_fri":"Friday","cldr_day_format_wide_mon":"Monday","cldr_day_format_wide_sat":"Saturday","cldr_day_format_wide_sun":"Sunday","cldr_day_format_wide_thu":"Thursday","cldr_day_format_wide_tue":"Tuesday","cldr_day_format_wide_wed":"Wednesday","cldr_day_stand-alone_abbreviated_fri":"Fri","cldr_day_stand-alone_abbreviated_mon":"Mon","cldr_day_stand-alone_abbreviated_sat":"Sat","cldr_day_stand-alone_abbreviated_sun":"Sun","cldr_day_stand-alone_abbreviated_thu":"Thu","cldr_day_stand-alone_abbreviated_tue":"Tue","cldr_day_stand-alone_abbreviated_wed":"Wed","cldr_day_stand-alone_narrow_fri":"F","cldr_day_stand-alone_narrow_mon":"M","cldr_day_stand-alone_narrow_sat":"S","cldr_day_stand-alone_narrow_sun":"S","cldr_day_stand-alone_narrow_thu":"T","cldr_day_stand-alone_narrow_tue":"T","cldr_day_stand-alone_narrow_wed":"W","cldr_day_stand-alone_wide_fri":"Friday","cldr_day_stand-alone_wide_mon":"Monday","cldr_day_stand-alone_wide_sat":"Saturday","cldr_day_stand-alone_wide_sun":"Sunday","cldr_day_stand-alone_wide_thu":"Thursday","cldr_day_stand-alone_wide_tue":"Tuesday","cldr_day_stand-alone_wide_wed":"Wednesday","cldr_month_format_abbreviated_1":"Jan","cldr_month_format_abbreviated_10":"Oct","cldr_month_format_abbreviated_11":"Nov","cldr_month_format_abbreviated_12":"Dec","cldr_month_format_abbreviated_2":"Feb","cldr_month_format_abbreviated_3":"Mar","cldr_month_format_abbreviated_4":"Apr","cldr_month_format_abbreviated_5":"May","cldr_month_format_abbreviated_6":"Jun","cldr_month_format_abbreviated_7":"Jul","cldr_month_format_abbreviated_8":"Aug","cldr_month_format_abbreviated_9":"Sep","cldr_month_format_wide_1":"January","cldr_month_format_wide_10":"October","cldr_month_format_wide_11":"November","cldr_month_format_wide_12":"December","cldr_month_format_wide_2":"February","cldr_month_format_wide_3":"March","cldr_month_format_wide_4":"April","cldr_month_format_wide_5":"May","cldr_month_format_wide_6":"June","cldr_month_format_wide_7":"July","cldr_month_format_wide_8":"August","cldr_month_format_wide_9":"September","cldr_month_stand-alone_narrow_1":"J","cldr_month_stand-alone_narrow_10":"O","cldr_month_stand-alone_narrow_11":"N","cldr_month_stand-alone_narrow_12":"D","cldr_month_stand-alone_narrow_2":"F","cldr_month_stand-alone_narrow_3":"M","cldr_month_stand-alone_narrow_4":"A","cldr_month_stand-alone_narrow_5":"M","cldr_month_stand-alone_narrow_6":"J","cldr_month_stand-alone_narrow_7":"J","cldr_month_stand-alone_narrow_8":"A","cldr_month_stand-alone_narrow_9":"S","cldr_number_decimal_separator":".","cldr_number_group_separator":",","cldr_number_percent_format":"#,##0%","cldr_pm":"PM","cldr_time_format_full":"h:mm:ss a zzzz","cldr_time_format_long":"h:mm:ss a z","cldr_time_format_medium":"h:mm:ss a","cldr_time_format_short":"h:mm a","quotationEnd":"”","quotationStart":"“"}},"resources":{"dropnode/test.png":[32,32,"png","dropnode"],"qx/decoration/Classic/arrows-combined.gif":[124,7,"gif","qx"],"qx/decoration/Classic/arrows/down-invert.gif":[7,4,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-38,0],"qx/decoration/Classic/arrows/down-small-invert.gif":[5,3,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-87,0],"qx/decoration/Classic/arrows/down-small.gif":[5,3,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-53,0],"qx/decoration/Classic/arrows/down.gif":[7,4,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-113,0],"qx/decoration/Classic/arrows/forward-invert.gif":[8,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-30,0],"qx/decoration/Classic/arrows/forward.gif":[8,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-18,0],"qx/decoration/Classic/arrows/left-invert.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-92,0],"qx/decoration/Classic/arrows/left-small-invert.gif":[3,5,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-58,0],"qx/decoration/Classic/arrows/left-small.gif":[3,5,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-15,0],"qx/decoration/Classic/arrows/left.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-120,0],"qx/decoration/Classic/arrows/next-invert.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-80,0],"qx/decoration/Classic/arrows/next.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-109,0],"qx/decoration/Classic/arrows/previous-invert.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-69,0],"qx/decoration/Classic/arrows/previous.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-65,0],"qx/decoration/Classic/arrows/rewind-invert.gif":[8,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-45,0],"qx/decoration/Classic/arrows/rewind.gif":[8,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-101,0],"qx/decoration/Classic/arrows/right-invert.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-61,0],"qx/decoration/Classic/arrows/right-small-invert.gif":[3,5,"gif","qx","qx/decoration/Classic/arrows-combined.gif",0,0],"qx/decoration/Classic/arrows/right-small.gif":[3,5,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-84,0],"qx/decoration/Classic/arrows/right.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-26,0],"qx/decoration/Classic/arrows/up-invert.gif":[7,4,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-73,0],"qx/decoration/Classic/arrows/up-small-invert.gif":[5,3,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-96,0],"qx/decoration/Classic/arrows/up-small.gif":[5,3,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-3,0],"qx/decoration/Classic/arrows/up.gif":[7,4,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-8,0],"qx/decoration/Classic/checkbox-radiobutton-combined.png":[504,14,"png","qx"],"qx/decoration/Classic/colorselector-combined.gif":[46,11,"gif","qx"],"qx/decoration/Classic/colorselector/brightness-field.png":[19,256,"png","qx"],"qx/decoration/Classic/colorselector/brightness-handle.gif":[35,11,"gif","qx","qx/decoration/Classic/colorselector-combined.gif",-11,0],"qx/decoration/Classic/colorselector/huesaturation-field.jpg":[256,256,"jpeg","qx"],"qx/decoration/Classic/colorselector/huesaturation-handle.gif":[11,11,"gif","qx","qx/decoration/Classic/colorselector-combined.gif",0,0],"qx/decoration/Classic/cursors-combined.gif":[71,20,"gif","qx"],"qx/decoration/Classic/cursors/alias.gif":[19,15,"gif","qx","qx/decoration/Classic/cursors-combined.gif",-52,0],"qx/decoration/Classic/cursors/copy.gif":[19,15,"gif","qx","qx/decoration/Classic/cursors-combined.gif",-20,0],"qx/decoration/Classic/cursors/move.gif":[13,9,"gif","qx","qx/decoration/Classic/cursors-combined.gif",-39,0],"qx/decoration/Classic/cursors/nodrop.gif":[20,20,"gif","qx","qx/decoration/Classic/cursors-combined.gif",0,0],"qx/decoration/Classic/datechooser/last-month-invert.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/last-month.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/last-year-invert.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/last-year.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/next-month-invert.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/next-month.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/next-year-invert.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/next-year.png":[16,16,"png","qx"],"qx/decoration/Classic/form/checkbox-checked-disabled.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-336,0],"qx/decoration/Classic/form/checkbox-checked-focused-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-28,0],"qx/decoration/Classic/form/checkbox-checked-focused.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-462,0],"qx/decoration/Classic/form/checkbox-checked-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-112,0],"qx/decoration/Classic/form/checkbox-checked-hovered.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-140,0],"qx/decoration/Classic/form/checkbox-checked-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-98,0],"qx/decoration/Classic/form/checkbox-checked-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-308,0],"qx/decoration/Classic/form/checkbox-checked-pressed.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",0,0],"qx/decoration/Classic/form/checkbox-checked.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-266,0],"qx/decoration/Classic/form/checkbox-disabled.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-84,0],"qx/decoration/Classic/form/checkbox-focused-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-476,0],"qx/decoration/Classic/form/checkbox-focused.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-392,0],"qx/decoration/Classic/form/checkbox-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-196,0],"qx/decoration/Classic/form/checkbox-hovered.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-154,0],"qx/decoration/Classic/form/checkbox-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-350,0],"qx/decoration/Classic/form/checkbox-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-448,0],"qx/decoration/Classic/form/checkbox-pressed.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-70,0],"qx/decoration/Classic/form/checkbox.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-490,0],"qx/decoration/Classic/form/radiobutton-checked-disabled.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-210,0],"qx/decoration/Classic/form/radiobutton-checked-focused-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-406,0],"qx/decoration/Classic/form/radiobutton-checked-focused.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-378,0],"qx/decoration/Classic/form/radiobutton-checked-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-252,0],"qx/decoration/Classic/form/radiobutton-checked-hovered.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-182,0],"qx/decoration/Classic/form/radiobutton-checked-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-294,0],"qx/decoration/Classic/form/radiobutton-checked-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-420,0],"qx/decoration/Classic/form/radiobutton-checked-pressed.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-56,0],"qx/decoration/Classic/form/radiobutton-checked.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-322,0],"qx/decoration/Classic/form/radiobutton-disabled.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-364,0],"qx/decoration/Classic/form/radiobutton-focused-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-434,0],"qx/decoration/Classic/form/radiobutton-focused.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-168,0],"qx/decoration/Classic/form/radiobutton-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-126,0],"qx/decoration/Classic/form/radiobutton-hovered.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-42,0],"qx/decoration/Classic/form/radiobutton-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-280,0],"qx/decoration/Classic/form/radiobutton-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-238,0],"qx/decoration/Classic/form/radiobutton-pressed.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-14,0],"qx/decoration/Classic/form/radiobutton.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-224,0],"qx/decoration/Classic/menu-combined.gif":[64,7,"gif","qx"],"qx/decoration/Classic/menu/checkbox-invert.gif":[16,7,"gif","qx","qx/decoration/Classic/menu-combined.gif",-16,0],"qx/decoration/Classic/menu/checkbox.gif":[16,7,"gif","qx","qx/decoration/Classic/menu-combined.gif",-32,0],"qx/decoration/Classic/menu/radiobutton-invert.gif":[16,5,"gif","qx","qx/decoration/Classic/menu-combined.gif",0,0],"qx/decoration/Classic/menu/radiobutton.gif":[16,5,"gif","qx","qx/decoration/Classic/menu-combined.gif",-48,0],"qx/decoration/Classic/shadow-lr-combined.png":[30,382,"png","qx"],"qx/decoration/Classic/shadow-small-lr-combined.png":[10,136,"png","qx"],"qx/decoration/Classic/shadow-small-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Classic/shadow-tb-combined.png":[15,90,"png","qx"],"qx/decoration/Classic/shadow/shadow-b.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-30],"qx/decoration/Classic/shadow/shadow-bl.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,0],"qx/decoration/Classic/shadow/shadow-br.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-60],"qx/decoration/Classic/shadow/shadow-c.png":[40,382,"png","qx"],"qx/decoration/Classic/shadow/shadow-l.png":[15,382,"png","qx","qx/decoration/Classic/shadow-lr-combined.png",-15,0],"qx/decoration/Classic/shadow/shadow-r.png":[15,382,"png","qx","qx/decoration/Classic/shadow-lr-combined.png",0,0],"qx/decoration/Classic/shadow/shadow-small-b.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-25],"qx/decoration/Classic/shadow/shadow-small-bl.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-20],"qx/decoration/Classic/shadow/shadow-small-br.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,0],"qx/decoration/Classic/shadow/shadow-small-c.png":[40,136,"png","qx"],"qx/decoration/Classic/shadow/shadow-small-l.png":[5,136,"png","qx","qx/decoration/Classic/shadow-small-lr-combined.png",0,0],"qx/decoration/Classic/shadow/shadow-small-r.png":[5,136,"png","qx","qx/decoration/Classic/shadow-small-lr-combined.png",-5,0],"qx/decoration/Classic/shadow/shadow-small-t.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-5],"qx/decoration/Classic/shadow/shadow-small-tl.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-15],"qx/decoration/Classic/shadow/shadow-small-tr.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-10],"qx/decoration/Classic/shadow/shadow-small.png":[114,146,"png","qx"],"qx/decoration/Classic/shadow/shadow-t.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-75],"qx/decoration/Classic/shadow/shadow-tl.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-45],"qx/decoration/Classic/shadow/shadow-tr.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-15],"qx/decoration/Classic/shadow/shadow.png":[381,412,"png","qx"],"qx/decoration/Classic/splitpane/knob-horizontal.png":[4,15,"png","qx"],"qx/decoration/Classic/splitpane/knob-vertical.png":[15,4,"png","qx"],"qx/decoration/Classic/table-combined.png":[72,11,"png","qx"],"qx/decoration/Classic/table/ascending-invert.png":[10,10,"png","qx","qx/decoration/Classic/table-combined.png",-62,0],"qx/decoration/Classic/table/ascending.png":[10,10,"png","qx","qx/decoration/Classic/table-combined.png",-52,0],"qx/decoration/Classic/table/boolean-false.png":[11,11,"png","qx","qx/decoration/Classic/table-combined.png",-31,0],"qx/decoration/Classic/table/boolean-true.png":[11,11,"png","qx","qx/decoration/Classic/table-combined.png",-10,0],"qx/decoration/Classic/table/descending-invert.png":[10,10,"png","qx","qx/decoration/Classic/table-combined.png",-42,0],"qx/decoration/Classic/table/descending.png":[10,10,"png","qx","qx/decoration/Classic/table-combined.png",0,0],"qx/decoration/Classic/table/select-column-order.png":[10,9,"png","qx","qx/decoration/Classic/table-combined.png",-21,0],"qx/decoration/Classic/tree/minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/tree/plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/cross.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/cross_minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/cross_plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/end.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/end_minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/end_plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/line.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/only_minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/only_plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/start.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/start_minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/start_plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/window-captionbar-buttons-combined.gif":[36,9,"gif","qx"],"qx/decoration/Classic/window/close.gif":[10,9,"gif","qx","qx/decoration/Classic/window-captionbar-buttons-combined.gif",0,0],"qx/decoration/Classic/window/maximize.gif":[9,9,"gif","qx","qx/decoration/Classic/window-captionbar-buttons-combined.gif",-10,0],"qx/decoration/Classic/window/minimize.gif":[9,9,"gif","qx","qx/decoration/Classic/window-captionbar-buttons-combined.gif",-19,0],"qx/decoration/Classic/window/restore.gif":[8,9,"gif","qx","qx/decoration/Classic/window-captionbar-buttons-combined.gif",-28,0],"qx/decoration/Modern/app-header.png":[110,20,"png","qx"],"qx/decoration/Modern/arrows-combined.png":[87,8,"png","qx"],"qx/decoration/Modern/arrows/down-invert.png":[8,5,"png","qx","qx/decoration/Modern/arrows-combined.png",-74,0],"qx/decoration/Modern/arrows/down-small-invert.png":[5,3,"png","qx","qx/decoration/Modern/arrows-combined.png",-69,0],"qx/decoration/Modern/arrows/down-small.png":[5,3,"png","qx","qx/decoration/Modern/arrows-combined.png",-49,0],"qx/decoration/Modern/arrows/down.png":[8,5,"png","qx","qx/decoration/Modern/arrows-combined.png",-20,0],"qx/decoration/Modern/arrows/forward.png":[10,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-59,0],"qx/decoration/Modern/arrows/left-invert.png":[5,8,"png","qx","qx/decoration/Modern/arrows-combined.png",0,0],"qx/decoration/Modern/arrows/left.png":[5,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-44,0],"qx/decoration/Modern/arrows/rewind.png":[10,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-10,0],"qx/decoration/Modern/arrows/right-invert.png":[5,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-5,0],"qx/decoration/Modern/arrows/right.png":[5,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-54,0],"qx/decoration/Modern/arrows/up-invert.png":[8,5,"png","qx","qx/decoration/Modern/arrows-combined.png",-28,0],"qx/decoration/Modern/arrows/up-small.png":[5,3,"png","qx","qx/decoration/Modern/arrows-combined.png",-82,0],"qx/decoration/Modern/arrows/up.png":[8,5,"png","qx","qx/decoration/Modern/arrows-combined.png",-36,0],"qx/decoration/Modern/button-lr-combined.png":[72,52,"png","qx"],"qx/decoration/Modern/button-tb-combined.png":[4,216,"png","qx"],"qx/decoration/Modern/checkradio-combined.png":[504,14,"png","qx"],"qx/decoration/Modern/colorselector-combined.gif":[46,11,"gif","qx"],"qx/decoration/Modern/colorselector/brightness-field.png":[19,256,"png","qx"],"qx/decoration/Modern/colorselector/brightness-handle.gif":[35,11,"gif","qx","qx/decoration/Modern/colorselector-combined.gif",0,0],"qx/decoration/Modern/colorselector/huesaturation-field.jpg":[256,256,"jpeg","qx"],"qx/decoration/Modern/colorselector/huesaturation-handle.gif":[11,11,"gif","qx","qx/decoration/Modern/colorselector-combined.gif",-35,0],"qx/decoration/Modern/cursors-combined.gif":[71,20,"gif","qx"],"qx/decoration/Modern/cursors/alias.gif":[19,15,"gif","qx","qx/decoration/Modern/cursors-combined.gif",-52,0],"qx/decoration/Modern/cursors/copy.gif":[19,15,"gif","qx","qx/decoration/Modern/cursors-combined.gif",-33,0],"qx/decoration/Modern/cursors/move.gif":[13,9,"gif","qx","qx/decoration/Modern/cursors-combined.gif",-20,0],"qx/decoration/Modern/cursors/nodrop.gif":[20,20,"gif","qx","qx/decoration/Modern/cursors-combined.gif",0,0],"qx/decoration/Modern/form/button-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-72],"qx/decoration/Modern/form/button-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-204],"qx/decoration/Modern/form/button-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-188],"qx/decoration/Modern/form/button-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-checked-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-36],"qx/decoration/Modern/form/button-checked-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-84],"qx/decoration/Modern/form/button-checked-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-184],"qx/decoration/Modern/form/button-checked-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-checked-focused-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-156],"qx/decoration/Modern/form/button-checked-focused-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-208],"qx/decoration/Modern/form/button-checked-focused-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-160],"qx/decoration/Modern/form/button-checked-focused-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-checked-focused-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-40,0],"qx/decoration/Modern/form/button-checked-focused-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-32,0],"qx/decoration/Modern/form/button-checked-focused-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-28],"qx/decoration/Modern/form/button-checked-focused-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-24],"qx/decoration/Modern/form/button-checked-focused-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-48],"qx/decoration/Modern/form/button-checked-focused.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-checked-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-16,0],"qx/decoration/Modern/form/button-checked-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-60,0],"qx/decoration/Modern/form/button-checked-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-140],"qx/decoration/Modern/form/button-checked-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-56],"qx/decoration/Modern/form/button-checked-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-112],"qx/decoration/Modern/form/button-checked.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-disabled-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-40],"qx/decoration/Modern/form/button-disabled-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-136],"qx/decoration/Modern/form/button-disabled-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-16],"qx/decoration/Modern/form/button-disabled-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-disabled-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-68,0],"qx/decoration/Modern/form/button-disabled-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-4,0],"qx/decoration/Modern/form/button-disabled-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-116],"qx/decoration/Modern/form/button-disabled-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-168],"qx/decoration/Modern/form/button-disabled-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-60],"qx/decoration/Modern/form/button-disabled.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-focused-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-68],"qx/decoration/Modern/form/button-focused-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-144],"qx/decoration/Modern/form/button-focused-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-8],"qx/decoration/Modern/form/button-focused-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-focused-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-24,0],"qx/decoration/Modern/form/button-focused-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-44,0],"qx/decoration/Modern/form/button-focused-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-192],"qx/decoration/Modern/form/button-focused-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-148],"qx/decoration/Modern/form/button-focused-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-104],"qx/decoration/Modern/form/button-focused.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-hovered-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-108],"qx/decoration/Modern/form/button-hovered-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-32],"qx/decoration/Modern/form/button-hovered-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-128],"qx/decoration/Modern/form/button-hovered-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-hovered-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-20,0],"qx/decoration/Modern/form/button-hovered-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-48,0],"qx/decoration/Modern/form/button-hovered-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-44],"qx/decoration/Modern/form/button-hovered-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-76],"qx/decoration/Modern/form/button-hovered-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-88],"qx/decoration/Modern/form/button-hovered.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-56,0],"qx/decoration/Modern/form/button-preselected-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-124],"qx/decoration/Modern/form/button-preselected-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-176],"qx/decoration/Modern/form/button-preselected-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-200],"qx/decoration/Modern/form/button-preselected-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-preselected-focused-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,0],"qx/decoration/Modern/form/button-preselected-focused-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-4],"qx/decoration/Modern/form/button-preselected-focused-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-152],"qx/decoration/Modern/form/button-preselected-focused-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-preselected-focused-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-28,0],"qx/decoration/Modern/form/button-preselected-focused-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-36,0],"qx/decoration/Modern/form/button-preselected-focused-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-196],"qx/decoration/Modern/form/button-preselected-focused-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-164],"qx/decoration/Modern/form/button-preselected-focused-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-212],"qx/decoration/Modern/form/button-preselected-focused.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-preselected-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-8,0],"qx/decoration/Modern/form/button-preselected-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-64,0],"qx/decoration/Modern/form/button-preselected-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-96],"qx/decoration/Modern/form/button-preselected-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-80],"qx/decoration/Modern/form/button-preselected-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-132],"qx/decoration/Modern/form/button-preselected.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-pressed-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-12],"qx/decoration/Modern/form/button-pressed-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-52],"qx/decoration/Modern/form/button-pressed-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-20],"qx/decoration/Modern/form/button-pressed-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-pressed-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-52,0],"qx/decoration/Modern/form/button-pressed-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-12,0],"qx/decoration/Modern/form/button-pressed-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-100],"qx/decoration/Modern/form/button-pressed-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-172],"qx/decoration/Modern/form/button-pressed-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-64],"qx/decoration/Modern/form/button-pressed.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",0,0],"qx/decoration/Modern/form/button-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-92],"qx/decoration/Modern/form/button-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-120],"qx/decoration/Modern/form/button-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-180],"qx/decoration/Modern/form/button.png":[80,60,"png","qx"],"qx/decoration/Modern/form/checkbox-checked-disabled.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-126,0],"qx/decoration/Modern/form/checkbox-checked-focused-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-322,0],"qx/decoration/Modern/form/checkbox-checked-focused.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-294,0],"qx/decoration/Modern/form/checkbox-checked-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-364,0],"qx/decoration/Modern/form/checkbox-checked-hovered.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-490,0],"qx/decoration/Modern/form/checkbox-checked-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-224,0],"qx/decoration/Modern/form/checkbox-checked-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-378,0],"qx/decoration/Modern/form/checkbox-checked-pressed.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-84,0],"qx/decoration/Modern/form/checkbox-checked.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-182,0],"qx/decoration/Modern/form/checkbox-disabled.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-42,0],"qx/decoration/Modern/form/checkbox-focused-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-392,0],"qx/decoration/Modern/form/checkbox-focused.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-210,0],"qx/decoration/Modern/form/checkbox-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-14,0],"qx/decoration/Modern/form/checkbox-hovered.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-238,0],"qx/decoration/Modern/form/checkbox-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-462,0],"qx/decoration/Modern/form/checkbox-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-112,0],"qx/decoration/Modern/form/checkbox-pressed.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-448,0],"qx/decoration/Modern/form/checkbox.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-140,0],"qx/decoration/Modern/form/input-focused.png":[40,12,"png","qx"],"qx/decoration/Modern/form/input.png":[84,12,"png","qx"],"qx/decoration/Modern/form/radiobutton-checked-disabled.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-196,0],"qx/decoration/Modern/form/radiobutton-checked-focused-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-168,0],"qx/decoration/Modern/form/radiobutton-checked-focused.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-98,0],"qx/decoration/Modern/form/radiobutton-checked-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-308,0],"qx/decoration/Modern/form/radiobutton-checked-hovered.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-406,0],"qx/decoration/Modern/form/radiobutton-checked-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-28,0],"qx/decoration/Modern/form/radiobutton-checked-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-350,0],"qx/decoration/Modern/form/radiobutton-checked-pressed.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-266,0],"qx/decoration/Modern/form/radiobutton-checked.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-252,0],"qx/decoration/Modern/form/radiobutton-disabled.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-336,0],"qx/decoration/Modern/form/radiobutton-focused-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-476,0],"qx/decoration/Modern/form/radiobutton-focused.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-420,0],"qx/decoration/Modern/form/radiobutton-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-56,0],"qx/decoration/Modern/form/radiobutton-hovered.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",0,0],"qx/decoration/Modern/form/radiobutton-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-154,0],"qx/decoration/Modern/form/radiobutton-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-434,0],"qx/decoration/Modern/form/radiobutton-pressed.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-280,0],"qx/decoration/Modern/form/radiobutton.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-70,0],"qx/decoration/Modern/form/tooltip-error-arrow.png":[11,14,"png","qx"],"qx/decoration/Modern/form/tooltip-error-b.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-30],"qx/decoration/Modern/form/tooltip-error-bl.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-24],"qx/decoration/Modern/form/tooltip-error-br.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,0],"qx/decoration/Modern/form/tooltip-error-c.png":[40,18,"png","qx"],"qx/decoration/Modern/form/tooltip-error-l.png":[6,18,"png","qx","qx/decoration/Modern/tooltip-error-lr-combined.png",-6,0],"qx/decoration/Modern/form/tooltip-error-r.png":[6,18,"png","qx","qx/decoration/Modern/tooltip-error-lr-combined.png",0,0],"qx/decoration/Modern/form/tooltip-error-t.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-6],"qx/decoration/Modern/form/tooltip-error-tl.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-18],"qx/decoration/Modern/form/tooltip-error-tr.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-12],"qx/decoration/Modern/form/tooltip-error.png":[127,30,"png","qx"],"qx/decoration/Modern/groupbox-lr-combined.png":[8,51,"png","qx"],"qx/decoration/Modern/groupbox-tb-combined.png":[4,24,"png","qx"],"qx/decoration/Modern/groupbox/groupbox-b.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-12],"qx/decoration/Modern/groupbox/groupbox-bl.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-16],"qx/decoration/Modern/groupbox/groupbox-br.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-8],"qx/decoration/Modern/groupbox/groupbox-c.png":[40,51,"png","qx"],"qx/decoration/Modern/groupbox/groupbox-l.png":[4,51,"png","qx","qx/decoration/Modern/groupbox-lr-combined.png",-4,0],"qx/decoration/Modern/groupbox/groupbox-r.png":[4,51,"png","qx","qx/decoration/Modern/groupbox-lr-combined.png",0,0],"qx/decoration/Modern/groupbox/groupbox-t.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-4],"qx/decoration/Modern/groupbox/groupbox-tl.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,0],"qx/decoration/Modern/groupbox/groupbox-tr.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-20],"qx/decoration/Modern/groupbox/groupbox.png":[255,59,"png","qx"],"qx/decoration/Modern/menu-background-combined.png":[80,49,"png","qx"],"qx/decoration/Modern/menu-checkradio-combined.gif":[64,7,"gif","qx"],"qx/decoration/Modern/menu/background.png":[40,49,"png","qx","qx/decoration/Modern/menu-background-combined.png",-40,0],"qx/decoration/Modern/menu/bar-background.png":[40,20,"png","qx","qx/decoration/Modern/menu-background-combined.png",0,0],"qx/decoration/Modern/menu/checkbox-invert.gif":[16,7,"gif","qx","qx/decoration/Modern/menu-checkradio-combined.gif",-16,0],"qx/decoration/Modern/menu/checkbox.gif":[16,7,"gif","qx","qx/decoration/Modern/menu-checkradio-combined.gif",-48,0],"qx/decoration/Modern/menu/radiobutton-invert.gif":[16,5,"gif","qx","qx/decoration/Modern/menu-checkradio-combined.gif",-32,0],"qx/decoration/Modern/menu/radiobutton.gif":[16,5,"gif","qx","qx/decoration/Modern/menu-checkradio-combined.gif",0,0],"qx/decoration/Modern/pane-lr-combined.png":[12,238,"png","qx"],"qx/decoration/Modern/pane-tb-combined.png":[6,36,"png","qx"],"qx/decoration/Modern/pane/pane-b.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-30],"qx/decoration/Modern/pane/pane-bl.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-18],"qx/decoration/Modern/pane/pane-br.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-12],"qx/decoration/Modern/pane/pane-c.png":[40,238,"png","qx"],"qx/decoration/Modern/pane/pane-l.png":[6,238,"png","qx","qx/decoration/Modern/pane-lr-combined.png",0,0],"qx/decoration/Modern/pane/pane-r.png":[6,238,"png","qx","qx/decoration/Modern/pane-lr-combined.png",-6,0],"qx/decoration/Modern/pane/pane-t.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,0],"qx/decoration/Modern/pane/pane-tl.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-24],"qx/decoration/Modern/pane/pane-tr.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-6],"qx/decoration/Modern/pane/pane.png":[185,250,"png","qx"],"qx/decoration/Modern/scrollbar-combined.png":[54,12,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-bg-horizontal.png":[76,15,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-bg-pressed-horizontal.png":[19,10,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-bg-pressed-vertical.png":[10,19,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-bg-vertical.png":[15,76,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-button-bg-horizontal.png":[12,10,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-34,0],"qx/decoration/Modern/scrollbar/scrollbar-button-bg-vertical.png":[10,12,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-6,0],"qx/decoration/Modern/scrollbar/scrollbar-down.png":[6,4,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-28,0],"qx/decoration/Modern/scrollbar/scrollbar-left.png":[4,6,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-50,0],"qx/decoration/Modern/scrollbar/scrollbar-right.png":[4,6,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-46,0],"qx/decoration/Modern/scrollbar/scrollbar-up.png":[6,4,"png","qx","qx/decoration/Modern/scrollbar-combined.png",0,0],"qx/decoration/Modern/scrollbar/slider-knob-background.png":[12,10,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-16,0],"qx/decoration/Modern/selection.png":[110,20,"png","qx"],"qx/decoration/Modern/shadow-lr-combined.png":[30,382,"png","qx"],"qx/decoration/Modern/shadow-small-lr-combined.png":[10,136,"png","qx"],"qx/decoration/Modern/shadow-small-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/shadow-tb-combined.png":[15,90,"png","qx"],"qx/decoration/Modern/shadow/shadow-b.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-30],"qx/decoration/Modern/shadow/shadow-bl.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-15],"qx/decoration/Modern/shadow/shadow-br.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-45],"qx/decoration/Modern/shadow/shadow-c.png":[40,382,"png","qx"],"qx/decoration/Modern/shadow/shadow-l.png":[15,382,"png","qx","qx/decoration/Modern/shadow-lr-combined.png",0,0],"qx/decoration/Modern/shadow/shadow-r.png":[15,382,"png","qx","qx/decoration/Modern/shadow-lr-combined.png",-15,0],"qx/decoration/Modern/shadow/shadow-small-b.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-20],"qx/decoration/Modern/shadow/shadow-small-bl.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-15],"qx/decoration/Modern/shadow/shadow-small-br.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-10],"qx/decoration/Modern/shadow/shadow-small-c.png":[40,136,"png","qx"],"qx/decoration/Modern/shadow/shadow-small-l.png":[5,136,"png","qx","qx/decoration/Modern/shadow-small-lr-combined.png",0,0],"qx/decoration/Modern/shadow/shadow-small-r.png":[5,136,"png","qx","qx/decoration/Modern/shadow-small-lr-combined.png",-5,0],"qx/decoration/Modern/shadow/shadow-small-t.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-5],"qx/decoration/Modern/shadow/shadow-small-tl.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,0],"qx/decoration/Modern/shadow/shadow-small-tr.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-25],"qx/decoration/Modern/shadow/shadow-small.png":[114,146,"png","qx"],"qx/decoration/Modern/shadow/shadow-t.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-60],"qx/decoration/Modern/shadow/shadow-tl.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-75],"qx/decoration/Modern/shadow/shadow-tr.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,0],"qx/decoration/Modern/shadow/shadow.png":[381,412,"png","qx"],"qx/decoration/Modern/splitpane-knobs-combined.png":[8,9,"png","qx"],"qx/decoration/Modern/splitpane/knob-horizontal.png":[1,8,"png","qx","qx/decoration/Modern/splitpane-knobs-combined.png",0,-1],"qx/decoration/Modern/splitpane/knob-vertical.png":[8,1,"png","qx","qx/decoration/Modern/splitpane-knobs-combined.png",0,0],"qx/decoration/Modern/table-combined.png":[94,18,"png","qx"],"qx/decoration/Modern/table/ascending.png":[8,5,"png","qx","qx/decoration/Modern/table-combined.png",0,0],"qx/decoration/Modern/table/boolean-false.png":[14,14,"png","qx","qx/decoration/Modern/table-combined.png",-80,0],"qx/decoration/Modern/table/boolean-true.png":[14,14,"png","qx","qx/decoration/Modern/table-combined.png",-26,0],"qx/decoration/Modern/table/descending.png":[8,5,"png","qx","qx/decoration/Modern/table-combined.png",-18,0],"qx/decoration/Modern/table/header-cell.png":[40,18,"png","qx","qx/decoration/Modern/table-combined.png",-40,0],"qx/decoration/Modern/table/select-column-order.png":[10,9,"png","qx","qx/decoration/Modern/table-combined.png",-8,0],"qx/decoration/Modern/tabview-button-bottom-active-lr-combined.png":[10,14,"png","qx"],"qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/tabview-button-bottom-inactive-b-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-bottom-inactive-lr-combined.png":[6,15,"png","qx"],"qx/decoration/Modern/tabview-button-bottom-inactive-t-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-left-active-lr-combined.png":[10,37,"png","qx"],"qx/decoration/Modern/tabview-button-left-active-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/tabview-button-left-inactive-b-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-left-inactive-lr-combined.png":[6,39,"png","qx"],"qx/decoration/Modern/tabview-button-left-inactive-t-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-right-active-lr-combined.png":[10,37,"png","qx"],"qx/decoration/Modern/tabview-button-right-active-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/tabview-button-right-inactive-b-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-right-inactive-lr-combined.png":[6,39,"png","qx"],"qx/decoration/Modern/tabview-button-right-inactive-t-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-top-active-lr-combined.png":[10,12,"png","qx"],"qx/decoration/Modern/tabview-button-top-active-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/tabview-button-top-inactive-b-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-top-inactive-lr-combined.png":[6,15,"png","qx"],"qx/decoration/Modern/tabview-button-top-inactive-t-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-pane-lr-combined.png":[60,2,"png","qx"],"qx/decoration/Modern/tabview-pane-tb-combined.png":[30,180,"png","qx"],"qx/decoration/Modern/tabview/tab-button-bottom-active-b.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-10],"qx/decoration/Modern/tabview/tab-button-bottom-active-bl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-15],"qx/decoration/Modern/tabview/tab-button-bottom-active-br.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-5],"qx/decoration/Modern/tabview/tab-button-bottom-active-c.png":[40,14,"png","qx"],"qx/decoration/Modern/tabview/tab-button-bottom-active-l.png":[5,14,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-active-r.png":[5,14,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-lr-combined.png",-5,0],"qx/decoration/Modern/tabview/tab-button-bottom-active-t.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-20],"qx/decoration/Modern/tabview/tab-button-bottom-active-tl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-25],"qx/decoration/Modern/tabview/tab-button-bottom-active-tr.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-active.png":[49,24,"png","qx"],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-b.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-b-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-bl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-b-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-br.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-b-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-c.png":[40,15,"png","qx"],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-l.png":[3,15,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-lr-combined.png",-3,0],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-r.png":[3,15,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-t.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-t-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-tl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-t-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-tr.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-t-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-bottom-inactive.png":[45,21,"png","qx"],"qx/decoration/Modern/tabview/tab-button-left-active-b.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-5],"qx/decoration/Modern/tabview/tab-button-left-active-bl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-active-br.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-25],"qx/decoration/Modern/tabview/tab-button-left-active-c.png":[40,37,"png","qx"],"qx/decoration/Modern/tabview/tab-button-left-active-l.png":[5,37,"png","qx","qx/decoration/Modern/tabview-button-left-active-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-active-r.png":[5,37,"png","qx","qx/decoration/Modern/tabview-button-left-active-lr-combined.png",-5,0],"qx/decoration/Modern/tabview/tab-button-left-active-t.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-15],"qx/decoration/Modern/tabview/tab-button-left-active-tl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-10],"qx/decoration/Modern/tabview/tab-button-left-active-tr.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-20],"qx/decoration/Modern/tabview/tab-button-left-active.png":[22,47,"png","qx"],"qx/decoration/Modern/tabview/tab-button-left-inactive-b.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-b-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-inactive-bl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-b-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-left-inactive-br.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-b-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-left-inactive-c.png":[40,39,"png","qx"],"qx/decoration/Modern/tabview/tab-button-left-inactive-l.png":[3,39,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-lr-combined.png",-3,0],"qx/decoration/Modern/tabview/tab-button-left-inactive-r.png":[3,39,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-inactive-t.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-t-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-left-inactive-tl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-t-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-inactive-tr.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-t-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-left-inactive.png":[20,45,"png","qx"],"qx/decoration/Modern/tabview/tab-button-right-active-b.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-25],"qx/decoration/Modern/tabview/tab-button-right-active-bl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-active-br.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-20],"qx/decoration/Modern/tabview/tab-button-right-active-c.png":[40,37,"png","qx"],"qx/decoration/Modern/tabview/tab-button-right-active-l.png":[5,37,"png","qx","qx/decoration/Modern/tabview-button-right-active-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-active-r.png":[5,37,"png","qx","qx/decoration/Modern/tabview-button-right-active-lr-combined.png",-5,0],"qx/decoration/Modern/tabview/tab-button-right-active-t.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-5],"qx/decoration/Modern/tabview/tab-button-right-active-tl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-15],"qx/decoration/Modern/tabview/tab-button-right-active-tr.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-10],"qx/decoration/Modern/tabview/tab-button-right-active.png":[22,47,"png","qx"],"qx/decoration/Modern/tabview/tab-button-right-inactive-b.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-b-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-right-inactive-bl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-b-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-inactive-br.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-b-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-right-inactive-c.png":[40,39,"png","qx"],"qx/decoration/Modern/tabview/tab-button-right-inactive-l.png":[3,39,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-inactive-r.png":[3,39,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-lr-combined.png",-3,0],"qx/decoration/Modern/tabview/tab-button-right-inactive-t.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-t-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-inactive-tl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-t-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-right-inactive-tr.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-t-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-right-inactive.png":[20,45,"png","qx"],"qx/decoration/Modern/tabview/tab-button-top-active-b.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-20],"qx/decoration/Modern/tabview/tab-button-top-active-bl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-15],"qx/decoration/Modern/tabview/tab-button-top-active-br.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-10],"qx/decoration/Modern/tabview/tab-button-top-active-c.png":[40,14,"png","qx"],"qx/decoration/Modern/tabview/tab-button-top-active-l.png":[5,12,"png","qx","qx/decoration/Modern/tabview-button-top-active-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-active-r.png":[5,12,"png","qx","qx/decoration/Modern/tabview-button-top-active-lr-combined.png",-5,0],"qx/decoration/Modern/tabview/tab-button-top-active-t.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-active-tl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-25],"qx/decoration/Modern/tabview/tab-button-top-active-tr.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-5],"qx/decoration/Modern/tabview/tab-button-top-active.png":[48,22,"png","qx"],"qx/decoration/Modern/tabview/tab-button-top-inactive-b.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-b-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-top-inactive-bl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-b-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-top-inactive-br.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-b-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-inactive-c.png":[40,15,"png","qx"],"qx/decoration/Modern/tabview/tab-button-top-inactive-l.png":[3,15,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-inactive-r.png":[3,15,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-lr-combined.png",-3,0],"qx/decoration/Modern/tabview/tab-button-top-inactive-t.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-t-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-top-inactive-tl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-t-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-inactive-tr.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-t-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-top-inactive.png":[45,21,"png","qx"],"qx/decoration/Modern/tabview/tabview-pane-b.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-60],"qx/decoration/Modern/tabview/tabview-pane-bl.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tabview-pane-br.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-120],"qx/decoration/Modern/tabview/tabview-pane-c.png":[40,120,"png","qx"],"qx/decoration/Modern/tabview/tabview-pane-l.png":[30,2,"png","qx","qx/decoration/Modern/tabview-pane-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tabview-pane-r.png":[30,2,"png","qx","qx/decoration/Modern/tabview-pane-lr-combined.png",-30,0],"qx/decoration/Modern/tabview/tabview-pane-t.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-150],"qx/decoration/Modern/tabview/tabview-pane-tl.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-30],"qx/decoration/Modern/tabview/tabview-pane-tr.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-90],"qx/decoration/Modern/tabview/tabview-pane.png":[185,250,"png","qx"],"qx/decoration/Modern/toolbar-combined.png":[80,130,"png","qx"],"qx/decoration/Modern/toolbar/toolbar-gradient-blue.png":[40,130,"png","qx","qx/decoration/Modern/toolbar-combined.png",-40,0],"qx/decoration/Modern/toolbar/toolbar-gradient.png":[40,130,"png","qx","qx/decoration/Modern/toolbar-combined.png",0,0],"qx/decoration/Modern/toolbar/toolbar-handle-knob.gif":[1,8,"gif","qx"],"qx/decoration/Modern/toolbar/toolbar-part.gif":[7,1,"gif","qx"],"qx/decoration/Modern/tooltip-error-lr-combined.png":[12,18,"png","qx"],"qx/decoration/Modern/tooltip-error-tb-combined.png":[6,36,"png","qx"],"qx/decoration/Modern/tree-combined.png":[32,8,"png","qx"],"qx/decoration/Modern/tree/closed-selected.png":[8,8,"png","qx","qx/decoration/Modern/tree-combined.png",-24,0],"qx/decoration/Modern/tree/closed.png":[8,8,"png","qx","qx/decoration/Modern/tree-combined.png",-16,0],"qx/decoration/Modern/tree/open-selected.png":[8,8,"png","qx","qx/decoration/Modern/tree-combined.png",-8,0],"qx/decoration/Modern/tree/open.png":[8,8,"png","qx","qx/decoration/Modern/tree-combined.png",0,0],"qx/decoration/Modern/window-captionbar-buttons-combined.png":[108,9,"png","qx"],"qx/decoration/Modern/window-captionbar-lr-active-combined.png":[12,9,"png","qx"],"qx/decoration/Modern/window-captionbar-lr-inactive-combined.png":[12,9,"png","qx"],"qx/decoration/Modern/window-captionbar-tb-active-combined.png":[6,36,"png","qx"],"qx/decoration/Modern/window-captionbar-tb-inactive-combined.png":[6,36,"png","qx"],"qx/decoration/Modern/window-statusbar-lr-combined.png":[8,7,"png","qx"],"qx/decoration/Modern/window-statusbar-tb-combined.png":[4,24,"png","qx"],"qx/decoration/Modern/window/captionbar-active-b.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-18],"qx/decoration/Modern/window/captionbar-active-bl.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-24],"qx/decoration/Modern/window/captionbar-active-br.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-12],"qx/decoration/Modern/window/captionbar-active-c.png":[40,9,"png","qx"],"qx/decoration/Modern/window/captionbar-active-l.png":[6,9,"png","qx","qx/decoration/Modern/window-captionbar-lr-active-combined.png",-6,0],"qx/decoration/Modern/window/captionbar-active-r.png":[6,9,"png","qx","qx/decoration/Modern/window-captionbar-lr-active-combined.png",0,0],"qx/decoration/Modern/window/captionbar-active-t.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-6],"qx/decoration/Modern/window/captionbar-active-tl.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,0],"qx/decoration/Modern/window/captionbar-active-tr.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-30],"qx/decoration/Modern/window/captionbar-active.png":[69,21,"png","qx"],"qx/decoration/Modern/window/captionbar-inactive-b.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-24],"qx/decoration/Modern/window/captionbar-inactive-bl.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-6],"qx/decoration/Modern/window/captionbar-inactive-br.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-30],"qx/decoration/Modern/window/captionbar-inactive-c.png":[40,9,"png","qx"],"qx/decoration/Modern/window/captionbar-inactive-l.png":[6,9,"png","qx","qx/decoration/Modern/window-captionbar-lr-inactive-combined.png",0,0],"qx/decoration/Modern/window/captionbar-inactive-r.png":[6,9,"png","qx","qx/decoration/Modern/window-captionbar-lr-inactive-combined.png",-6,0],"qx/decoration/Modern/window/captionbar-inactive-t.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,0],"qx/decoration/Modern/window/captionbar-inactive-tl.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-12],"qx/decoration/Modern/window/captionbar-inactive-tr.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-18],"qx/decoration/Modern/window/captionbar-inactive.png":[69,21,"png","qx"],"qx/decoration/Modern/window/close-active-hovered.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-27,0],"qx/decoration/Modern/window/close-active.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-9,0],"qx/decoration/Modern/window/close-inactive.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-90,0],"qx/decoration/Modern/window/maximize-active-hovered.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-18,0],"qx/decoration/Modern/window/maximize-active.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-81,0],"qx/decoration/Modern/window/maximize-inactive.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-54,0],"qx/decoration/Modern/window/minimize-active-hovered.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-63,0],"qx/decoration/Modern/window/minimize-active.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-72,0],"qx/decoration/Modern/window/minimize-inactive.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-36,0],"qx/decoration/Modern/window/restore-active-hovered.png":[9,8,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",0,0],"qx/decoration/Modern/window/restore-active.png":[9,8,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-99,0],"qx/decoration/Modern/window/restore-inactive.png":[9,8,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-45,0],"qx/decoration/Modern/window/statusbar-b.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-16],"qx/decoration/Modern/window/statusbar-bl.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-20],"qx/decoration/Modern/window/statusbar-br.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-4],"qx/decoration/Modern/window/statusbar-c.png":[40,7,"png","qx"],"qx/decoration/Modern/window/statusbar-l.png":[4,7,"png","qx","qx/decoration/Modern/window-statusbar-lr-combined.png",-4,0],"qx/decoration/Modern/window/statusbar-r.png":[4,7,"png","qx","qx/decoration/Modern/window-statusbar-lr-combined.png",0,0],"qx/decoration/Modern/window/statusbar-t.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,0],"qx/decoration/Modern/window/statusbar-tl.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-8],"qx/decoration/Modern/window/statusbar-tr.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-12],"qx/decoration/Modern/window/statusbar.png":[369,15,"png","qx"],"qx/icon/Oxygen/16/actions/dialog-cancel.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/actions/dialog-ok.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/actions/view-refresh.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/actions/window-close.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/apps/office-calendar.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/mimetypes/text-plain.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/places/folder-open.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/places/folder.png":[16,16,"png","qx"],"qx/icon/Tango/16/actions/dialog-cancel.png":[16,16,"png","qx"],"qx/icon/Tango/16/actions/dialog-ok.png":[16,16,"png","qx"],"qx/icon/Tango/16/actions/view-refresh.png":[16,16,"png","qx"],"qx/icon/Tango/16/actions/window-close.png":[16,16,"png","qx"],"qx/icon/Tango/16/apps/office-calendar.png":[16,16,"png","qx"],"qx/icon/Tango/16/apps/utilities-color-chooser.png":[16,16,"png","qx"],"qx/icon/Tango/16/mimetypes/office-document.png":[16,16,"png","qx"],"qx/icon/Tango/16/places/folder-open.png":[16,16,"png","qx"],"qx/icon/Tango/16/places/folder.png":[16,16,"png","qx"],"qx/icon/Tango/22/mimetypes/office-document.png":[22,22,"png","qx"],"qx/icon/Tango/22/places/folder-open.png":[22,22,"png","qx"],"qx/icon/Tango/22/places/folder.png":[22,22,"png","qx"],"qx/icon/Tango/32/mimetypes/office-document.png":[32,32,"png","qx"],"qx/icon/Tango/32/places/folder-open.png":[32,32,"png","qx"],"qx/icon/Tango/32/places/folder.png":[32,32,"png","qx"],"qx/static/blank.gif":[1,1,"gif","qx"]},"translations":{"C":{},"en":{}}};
+qx.$$packageData['a31cba23b67b']={"locales":{"C":{"alternateQuotationEnd":"’","alternateQuotationStart":"‘","cldr_am":"AM","cldr_date_format_full":"EEEE, MMMM d, y","cldr_date_format_long":"MMMM d, y","cldr_date_format_medium":"MMM d, y","cldr_date_format_short":"M/d/yy","cldr_date_time_format_EEEd":"d EEE","cldr_date_time_format_Hm":"H:mm","cldr_date_time_format_Hms":"H:mm:ss","cldr_date_time_format_M":"L","cldr_date_time_format_MEd":"E, M/d","cldr_date_time_format_MMM":"LLL","cldr_date_time_format_MMMEd":"E, MMM d","cldr_date_time_format_MMMMEd":"E, MMMM d","cldr_date_time_format_MMMMd":"MMMM d","cldr_date_time_format_MMMd":"MMM d","cldr_date_time_format_Md":"M/d","cldr_date_time_format_d":"d","cldr_date_time_format_hm":"h:mm a","cldr_date_time_format_ms":"mm:ss","cldr_date_time_format_y":"y","cldr_date_time_format_yM":"M/yyyy","cldr_date_time_format_yMEd":"EEE, M/d/yyyy","cldr_date_time_format_yMMM":"MMM y","cldr_date_time_format_yMMMEd":"EEE, MMM d, y","cldr_date_time_format_yMMMM":"MMMM y","cldr_date_time_format_yQ":"Q yyyy","cldr_date_time_format_yQQQ":"QQQ y","cldr_day_format_abbreviated_fri":"Fri","cldr_day_format_abbreviated_mon":"Mon","cldr_day_format_abbreviated_sat":"Sat","cldr_day_format_abbreviated_sun":"Sun","cldr_day_format_abbreviated_thu":"Thu","cldr_day_format_abbreviated_tue":"Tue","cldr_day_format_abbreviated_wed":"Wed","cldr_day_format_narrow_fri":"F","cldr_day_format_narrow_mon":"M","cldr_day_format_narrow_sat":"S","cldr_day_format_narrow_sun":"S","cldr_day_format_narrow_thu":"T","cldr_day_format_narrow_tue":"T","cldr_day_format_narrow_wed":"W","cldr_day_format_wide_fri":"Friday","cldr_day_format_wide_mon":"Monday","cldr_day_format_wide_sat":"Saturday","cldr_day_format_wide_sun":"Sunday","cldr_day_format_wide_thu":"Thursday","cldr_day_format_wide_tue":"Tuesday","cldr_day_format_wide_wed":"Wednesday","cldr_day_stand-alone_abbreviated_fri":"Fri","cldr_day_stand-alone_abbreviated_mon":"Mon","cldr_day_stand-alone_abbreviated_sat":"Sat","cldr_day_stand-alone_abbreviated_sun":"Sun","cldr_day_stand-alone_abbreviated_thu":"Thu","cldr_day_stand-alone_abbreviated_tue":"Tue","cldr_day_stand-alone_abbreviated_wed":"Wed","cldr_day_stand-alone_narrow_fri":"F","cldr_day_stand-alone_narrow_mon":"M","cldr_day_stand-alone_narrow_sat":"S","cldr_day_stand-alone_narrow_sun":"S","cldr_day_stand-alone_narrow_thu":"T","cldr_day_stand-alone_narrow_tue":"T","cldr_day_stand-alone_narrow_wed":"W","cldr_day_stand-alone_wide_fri":"Friday","cldr_day_stand-alone_wide_mon":"Monday","cldr_day_stand-alone_wide_sat":"Saturday","cldr_day_stand-alone_wide_sun":"Sunday","cldr_day_stand-alone_wide_thu":"Thursday","cldr_day_stand-alone_wide_tue":"Tuesday","cldr_day_stand-alone_wide_wed":"Wednesday","cldr_month_format_abbreviated_1":"Jan","cldr_month_format_abbreviated_10":"Oct","cldr_month_format_abbreviated_11":"Nov","cldr_month_format_abbreviated_12":"Dec","cldr_month_format_abbreviated_2":"Feb","cldr_month_format_abbreviated_3":"Mar","cldr_month_format_abbreviated_4":"Apr","cldr_month_format_abbreviated_5":"May","cldr_month_format_abbreviated_6":"Jun","cldr_month_format_abbreviated_7":"Jul","cldr_month_format_abbreviated_8":"Aug","cldr_month_format_abbreviated_9":"Sep","cldr_month_format_wide_1":"January","cldr_month_format_wide_10":"October","cldr_month_format_wide_11":"November","cldr_month_format_wide_12":"December","cldr_month_format_wide_2":"February","cldr_month_format_wide_3":"March","cldr_month_format_wide_4":"April","cldr_month_format_wide_5":"May","cldr_month_format_wide_6":"June","cldr_month_format_wide_7":"July","cldr_month_format_wide_8":"August","cldr_month_format_wide_9":"September","cldr_month_stand-alone_narrow_1":"J","cldr_month_stand-alone_narrow_10":"O","cldr_month_stand-alone_narrow_11":"N","cldr_month_stand-alone_narrow_12":"D","cldr_month_stand-alone_narrow_2":"F","cldr_month_stand-alone_narrow_3":"M","cldr_month_stand-alone_narrow_4":"A","cldr_month_stand-alone_narrow_5":"M","cldr_month_stand-alone_narrow_6":"J","cldr_month_stand-alone_narrow_7":"J","cldr_month_stand-alone_narrow_8":"A","cldr_month_stand-alone_narrow_9":"S","cldr_number_decimal_separator":".","cldr_number_group_separator":",","cldr_number_percent_format":"#,##0%","cldr_pm":"PM","cldr_time_format_full":"h:mm:ss a zzzz","cldr_time_format_long":"h:mm:ss a z","cldr_time_format_medium":"h:mm:ss a","cldr_time_format_short":"h:mm a","quotationEnd":"”","quotationStart":"“"},"en":{"alternateQuotationEnd":"’","alternateQuotationStart":"‘","cldr_am":"AM","cldr_date_format_full":"EEEE, MMMM d, y","cldr_date_format_long":"MMMM d, y","cldr_date_format_medium":"MMM d, y","cldr_date_format_short":"M/d/yy","cldr_date_time_format_EEEd":"d EEE","cldr_date_time_format_Hm":"H:mm","cldr_date_time_format_Hms":"H:mm:ss","cldr_date_time_format_M":"L","cldr_date_time_format_MEd":"E, M/d","cldr_date_time_format_MMM":"LLL","cldr_date_time_format_MMMEd":"E, MMM d","cldr_date_time_format_MMMMEd":"E, MMMM d","cldr_date_time_format_MMMMd":"MMMM d","cldr_date_time_format_MMMd":"MMM d","cldr_date_time_format_Md":"M/d","cldr_date_time_format_d":"d","cldr_date_time_format_hm":"h:mm a","cldr_date_time_format_ms":"mm:ss","cldr_date_time_format_y":"y","cldr_date_time_format_yM":"M/yyyy","cldr_date_time_format_yMEd":"EEE, M/d/yyyy","cldr_date_time_format_yMMM":"MMM y","cldr_date_time_format_yMMMEd":"EEE, MMM d, y","cldr_date_time_format_yMMMM":"MMMM y","cldr_date_time_format_yQ":"Q yyyy","cldr_date_time_format_yQQQ":"QQQ y","cldr_day_format_abbreviated_fri":"Fri","cldr_day_format_abbreviated_mon":"Mon","cldr_day_format_abbreviated_sat":"Sat","cldr_day_format_abbreviated_sun":"Sun","cldr_day_format_abbreviated_thu":"Thu","cldr_day_format_abbreviated_tue":"Tue","cldr_day_format_abbreviated_wed":"Wed","cldr_day_format_narrow_fri":"F","cldr_day_format_narrow_mon":"M","cldr_day_format_narrow_sat":"S","cldr_day_format_narrow_sun":"S","cldr_day_format_narrow_thu":"T","cldr_day_format_narrow_tue":"T","cldr_day_format_narrow_wed":"W","cldr_day_format_wide_fri":"Friday","cldr_day_format_wide_mon":"Monday","cldr_day_format_wide_sat":"Saturday","cldr_day_format_wide_sun":"Sunday","cldr_day_format_wide_thu":"Thursday","cldr_day_format_wide_tue":"Tuesday","cldr_day_format_wide_wed":"Wednesday","cldr_day_stand-alone_abbreviated_fri":"Fri","cldr_day_stand-alone_abbreviated_mon":"Mon","cldr_day_stand-alone_abbreviated_sat":"Sat","cldr_day_stand-alone_abbreviated_sun":"Sun","cldr_day_stand-alone_abbreviated_thu":"Thu","cldr_day_stand-alone_abbreviated_tue":"Tue","cldr_day_stand-alone_abbreviated_wed":"Wed","cldr_day_stand-alone_narrow_fri":"F","cldr_day_stand-alone_narrow_mon":"M","cldr_day_stand-alone_narrow_sat":"S","cldr_day_stand-alone_narrow_sun":"S","cldr_day_stand-alone_narrow_thu":"T","cldr_day_stand-alone_narrow_tue":"T","cldr_day_stand-alone_narrow_wed":"W","cldr_day_stand-alone_wide_fri":"Friday","cldr_day_stand-alone_wide_mon":"Monday","cldr_day_stand-alone_wide_sat":"Saturday","cldr_day_stand-alone_wide_sun":"Sunday","cldr_day_stand-alone_wide_thu":"Thursday","cldr_day_stand-alone_wide_tue":"Tuesday","cldr_day_stand-alone_wide_wed":"Wednesday","cldr_month_format_abbreviated_1":"Jan","cldr_month_format_abbreviated_10":"Oct","cldr_month_format_abbreviated_11":"Nov","cldr_month_format_abbreviated_12":"Dec","cldr_month_format_abbreviated_2":"Feb","cldr_month_format_abbreviated_3":"Mar","cldr_month_format_abbreviated_4":"Apr","cldr_month_format_abbreviated_5":"May","cldr_month_format_abbreviated_6":"Jun","cldr_month_format_abbreviated_7":"Jul","cldr_month_format_abbreviated_8":"Aug","cldr_month_format_abbreviated_9":"Sep","cldr_month_format_wide_1":"January","cldr_month_format_wide_10":"October","cldr_month_format_wide_11":"November","cldr_month_format_wide_12":"December","cldr_month_format_wide_2":"February","cldr_month_format_wide_3":"March","cldr_month_format_wide_4":"April","cldr_month_format_wide_5":"May","cldr_month_format_wide_6":"June","cldr_month_format_wide_7":"July","cldr_month_format_wide_8":"August","cldr_month_format_wide_9":"September","cldr_month_stand-alone_narrow_1":"J","cldr_month_stand-alone_narrow_10":"O","cldr_month_stand-alone_narrow_11":"N","cldr_month_stand-alone_narrow_12":"D","cldr_month_stand-alone_narrow_2":"F","cldr_month_stand-alone_narrow_3":"M","cldr_month_stand-alone_narrow_4":"A","cldr_month_stand-alone_narrow_5":"M","cldr_month_stand-alone_narrow_6":"J","cldr_month_stand-alone_narrow_7":"J","cldr_month_stand-alone_narrow_8":"A","cldr_month_stand-alone_narrow_9":"S","cldr_number_decimal_separator":".","cldr_number_group_separator":",","cldr_number_percent_format":"#,##0%","cldr_pm":"PM","cldr_time_format_full":"h:mm:ss a zzzz","cldr_time_format_long":"h:mm:ss a z","cldr_time_format_medium":"h:mm:ss a","cldr_time_format_short":"h:mm a","quotationEnd":"”","quotationStart":"“"}},"resources":{"dropnode/test.png":[32,32,"png","dropnode"],"qx/decoration/Classic/arrows-combined.gif":[124,7,"gif","qx"],"qx/decoration/Classic/arrows/down-invert.gif":[7,4,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-38,0],"qx/decoration/Classic/arrows/down-small-invert.gif":[5,3,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-87,0],"qx/decoration/Classic/arrows/down-small.gif":[5,3,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-53,0],"qx/decoration/Classic/arrows/down.gif":[7,4,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-113,0],"qx/decoration/Classic/arrows/forward-invert.gif":[8,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-30,0],"qx/decoration/Classic/arrows/forward.gif":[8,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-18,0],"qx/decoration/Classic/arrows/left-invert.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-92,0],"qx/decoration/Classic/arrows/left-small-invert.gif":[3,5,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-58,0],"qx/decoration/Classic/arrows/left-small.gif":[3,5,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-15,0],"qx/decoration/Classic/arrows/left.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-120,0],"qx/decoration/Classic/arrows/next-invert.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-80,0],"qx/decoration/Classic/arrows/next.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-109,0],"qx/decoration/Classic/arrows/previous-invert.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-69,0],"qx/decoration/Classic/arrows/previous.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-65,0],"qx/decoration/Classic/arrows/rewind-invert.gif":[8,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-45,0],"qx/decoration/Classic/arrows/rewind.gif":[8,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-101,0],"qx/decoration/Classic/arrows/right-invert.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-61,0],"qx/decoration/Classic/arrows/right-small-invert.gif":[3,5,"gif","qx","qx/decoration/Classic/arrows-combined.gif",0,0],"qx/decoration/Classic/arrows/right-small.gif":[3,5,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-84,0],"qx/decoration/Classic/arrows/right.gif":[4,7,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-26,0],"qx/decoration/Classic/arrows/up-invert.gif":[7,4,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-73,0],"qx/decoration/Classic/arrows/up-small-invert.gif":[5,3,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-96,0],"qx/decoration/Classic/arrows/up-small.gif":[5,3,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-3,0],"qx/decoration/Classic/arrows/up.gif":[7,4,"gif","qx","qx/decoration/Classic/arrows-combined.gif",-8,0],"qx/decoration/Classic/checkbox-radiobutton-combined.png":[504,14,"png","qx"],"qx/decoration/Classic/colorselector-combined.gif":[46,11,"gif","qx"],"qx/decoration/Classic/colorselector/brightness-field.png":[19,256,"png","qx"],"qx/decoration/Classic/colorselector/brightness-handle.gif":[35,11,"gif","qx","qx/decoration/Classic/colorselector-combined.gif",-11,0],"qx/decoration/Classic/colorselector/huesaturation-field.jpg":[256,256,"jpeg","qx"],"qx/decoration/Classic/colorselector/huesaturation-handle.gif":[11,11,"gif","qx","qx/decoration/Classic/colorselector-combined.gif",0,0],"qx/decoration/Classic/cursors-combined.gif":[71,20,"gif","qx"],"qx/decoration/Classic/cursors/alias.gif":[19,15,"gif","qx","qx/decoration/Classic/cursors-combined.gif",-52,0],"qx/decoration/Classic/cursors/copy.gif":[19,15,"gif","qx","qx/decoration/Classic/cursors-combined.gif",-20,0],"qx/decoration/Classic/cursors/move.gif":[13,9,"gif","qx","qx/decoration/Classic/cursors-combined.gif",-39,0],"qx/decoration/Classic/cursors/nodrop.gif":[20,20,"gif","qx","qx/decoration/Classic/cursors-combined.gif",0,0],"qx/decoration/Classic/datechooser/last-month-invert.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/last-month.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/last-year-invert.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/last-year.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/next-month-invert.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/next-month.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/next-year-invert.png":[16,16,"png","qx"],"qx/decoration/Classic/datechooser/next-year.png":[16,16,"png","qx"],"qx/decoration/Classic/form/checkbox-checked-disabled.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-336,0],"qx/decoration/Classic/form/checkbox-checked-focused-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-28,0],"qx/decoration/Classic/form/checkbox-checked-focused.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-462,0],"qx/decoration/Classic/form/checkbox-checked-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-112,0],"qx/decoration/Classic/form/checkbox-checked-hovered.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-140,0],"qx/decoration/Classic/form/checkbox-checked-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-98,0],"qx/decoration/Classic/form/checkbox-checked-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-308,0],"qx/decoration/Classic/form/checkbox-checked-pressed.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",0,0],"qx/decoration/Classic/form/checkbox-checked.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-266,0],"qx/decoration/Classic/form/checkbox-disabled.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-84,0],"qx/decoration/Classic/form/checkbox-focused-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-476,0],"qx/decoration/Classic/form/checkbox-focused.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-392,0],"qx/decoration/Classic/form/checkbox-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-196,0],"qx/decoration/Classic/form/checkbox-hovered.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-154,0],"qx/decoration/Classic/form/checkbox-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-350,0],"qx/decoration/Classic/form/checkbox-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-448,0],"qx/decoration/Classic/form/checkbox-pressed.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-70,0],"qx/decoration/Classic/form/checkbox.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-490,0],"qx/decoration/Classic/form/radiobutton-checked-disabled.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-210,0],"qx/decoration/Classic/form/radiobutton-checked-focused-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-406,0],"qx/decoration/Classic/form/radiobutton-checked-focused.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-378,0],"qx/decoration/Classic/form/radiobutton-checked-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-252,0],"qx/decoration/Classic/form/radiobutton-checked-hovered.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-182,0],"qx/decoration/Classic/form/radiobutton-checked-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-294,0],"qx/decoration/Classic/form/radiobutton-checked-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-420,0],"qx/decoration/Classic/form/radiobutton-checked-pressed.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-56,0],"qx/decoration/Classic/form/radiobutton-checked.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-322,0],"qx/decoration/Classic/form/radiobutton-disabled.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-364,0],"qx/decoration/Classic/form/radiobutton-focused-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-434,0],"qx/decoration/Classic/form/radiobutton-focused.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-168,0],"qx/decoration/Classic/form/radiobutton-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-126,0],"qx/decoration/Classic/form/radiobutton-hovered.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-42,0],"qx/decoration/Classic/form/radiobutton-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-280,0],"qx/decoration/Classic/form/radiobutton-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-238,0],"qx/decoration/Classic/form/radiobutton-pressed.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-14,0],"qx/decoration/Classic/form/radiobutton.png":[14,14,"png","qx","qx/decoration/Classic/checkbox-radiobutton-combined.png",-224,0],"qx/decoration/Classic/menu-combined.gif":[64,7,"gif","qx"],"qx/decoration/Classic/menu/checkbox-invert.gif":[16,7,"gif","qx","qx/decoration/Classic/menu-combined.gif",-16,0],"qx/decoration/Classic/menu/checkbox.gif":[16,7,"gif","qx","qx/decoration/Classic/menu-combined.gif",-32,0],"qx/decoration/Classic/menu/radiobutton-invert.gif":[16,5,"gif","qx","qx/decoration/Classic/menu-combined.gif",0,0],"qx/decoration/Classic/menu/radiobutton.gif":[16,5,"gif","qx","qx/decoration/Classic/menu-combined.gif",-48,0],"qx/decoration/Classic/shadow-lr-combined.png":[30,382,"png","qx"],"qx/decoration/Classic/shadow-small-lr-combined.png":[10,136,"png","qx"],"qx/decoration/Classic/shadow-small-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Classic/shadow-tb-combined.png":[15,90,"png","qx"],"qx/decoration/Classic/shadow/shadow-b.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-30],"qx/decoration/Classic/shadow/shadow-bl.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,0],"qx/decoration/Classic/shadow/shadow-br.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-60],"qx/decoration/Classic/shadow/shadow-c.png":[40,382,"png","qx"],"qx/decoration/Classic/shadow/shadow-l.png":[15,382,"png","qx","qx/decoration/Classic/shadow-lr-combined.png",-15,0],"qx/decoration/Classic/shadow/shadow-r.png":[15,382,"png","qx","qx/decoration/Classic/shadow-lr-combined.png",0,0],"qx/decoration/Classic/shadow/shadow-small-b.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-25],"qx/decoration/Classic/shadow/shadow-small-bl.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-20],"qx/decoration/Classic/shadow/shadow-small-br.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,0],"qx/decoration/Classic/shadow/shadow-small-c.png":[40,136,"png","qx"],"qx/decoration/Classic/shadow/shadow-small-l.png":[5,136,"png","qx","qx/decoration/Classic/shadow-small-lr-combined.png",0,0],"qx/decoration/Classic/shadow/shadow-small-r.png":[5,136,"png","qx","qx/decoration/Classic/shadow-small-lr-combined.png",-5,0],"qx/decoration/Classic/shadow/shadow-small-t.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-5],"qx/decoration/Classic/shadow/shadow-small-tl.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-15],"qx/decoration/Classic/shadow/shadow-small-tr.png":[5,5,"png","qx","qx/decoration/Classic/shadow-small-tb-combined.png",0,-10],"qx/decoration/Classic/shadow/shadow-small.png":[114,146,"png","qx"],"qx/decoration/Classic/shadow/shadow-t.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-75],"qx/decoration/Classic/shadow/shadow-tl.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-45],"qx/decoration/Classic/shadow/shadow-tr.png":[15,15,"png","qx","qx/decoration/Classic/shadow-tb-combined.png",0,-15],"qx/decoration/Classic/shadow/shadow.png":[381,412,"png","qx"],"qx/decoration/Classic/splitpane/knob-horizontal.png":[4,15,"png","qx"],"qx/decoration/Classic/splitpane/knob-vertical.png":[15,4,"png","qx"],"qx/decoration/Classic/table-combined.png":[72,11,"png","qx"],"qx/decoration/Classic/table/ascending-invert.png":[10,10,"png","qx","qx/decoration/Classic/table-combined.png",-62,0],"qx/decoration/Classic/table/ascending.png":[10,10,"png","qx","qx/decoration/Classic/table-combined.png",-52,0],"qx/decoration/Classic/table/boolean-false.png":[11,11,"png","qx","qx/decoration/Classic/table-combined.png",-31,0],"qx/decoration/Classic/table/boolean-true.png":[11,11,"png","qx","qx/decoration/Classic/table-combined.png",-10,0],"qx/decoration/Classic/table/descending-invert.png":[10,10,"png","qx","qx/decoration/Classic/table-combined.png",-42,0],"qx/decoration/Classic/table/descending.png":[10,10,"png","qx","qx/decoration/Classic/table-combined.png",0,0],"qx/decoration/Classic/table/select-column-order.png":[10,9,"png","qx","qx/decoration/Classic/table-combined.png",-21,0],"qx/decoration/Classic/tree/minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/tree/plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/cross.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/cross_minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/cross_plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/end.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/end_minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/end_plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/line.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/only_minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/only_plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/start.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/start_minus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/treevirtual/start_plus.gif":[19,16,"gif","qx"],"qx/decoration/Classic/window-captionbar-buttons-combined.gif":[36,9,"gif","qx"],"qx/decoration/Classic/window/close.gif":[10,9,"gif","qx","qx/decoration/Classic/window-captionbar-buttons-combined.gif",0,0],"qx/decoration/Classic/window/maximize.gif":[9,9,"gif","qx","qx/decoration/Classic/window-captionbar-buttons-combined.gif",-10,0],"qx/decoration/Classic/window/minimize.gif":[9,9,"gif","qx","qx/decoration/Classic/window-captionbar-buttons-combined.gif",-19,0],"qx/decoration/Classic/window/restore.gif":[8,9,"gif","qx","qx/decoration/Classic/window-captionbar-buttons-combined.gif",-28,0],"qx/decoration/Modern/app-header.png":[110,20,"png","qx"],"qx/decoration/Modern/arrows-combined.png":[87,8,"png","qx"],"qx/decoration/Modern/arrows/down-invert.png":[8,5,"png","qx","qx/decoration/Modern/arrows-combined.png",-74,0],"qx/decoration/Modern/arrows/down-small-invert.png":[5,3,"png","qx","qx/decoration/Modern/arrows-combined.png",-69,0],"qx/decoration/Modern/arrows/down-small.png":[5,3,"png","qx","qx/decoration/Modern/arrows-combined.png",-49,0],"qx/decoration/Modern/arrows/down.png":[8,5,"png","qx","qx/decoration/Modern/arrows-combined.png",-20,0],"qx/decoration/Modern/arrows/forward.png":[10,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-59,0],"qx/decoration/Modern/arrows/left-invert.png":[5,8,"png","qx","qx/decoration/Modern/arrows-combined.png",0,0],"qx/decoration/Modern/arrows/left.png":[5,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-44,0],"qx/decoration/Modern/arrows/rewind.png":[10,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-10,0],"qx/decoration/Modern/arrows/right-invert.png":[5,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-5,0],"qx/decoration/Modern/arrows/right.png":[5,8,"png","qx","qx/decoration/Modern/arrows-combined.png",-54,0],"qx/decoration/Modern/arrows/up-invert.png":[8,5,"png","qx","qx/decoration/Modern/arrows-combined.png",-28,0],"qx/decoration/Modern/arrows/up-small.png":[5,3,"png","qx","qx/decoration/Modern/arrows-combined.png",-82,0],"qx/decoration/Modern/arrows/up.png":[8,5,"png","qx","qx/decoration/Modern/arrows-combined.png",-36,0],"qx/decoration/Modern/button-lr-combined.png":[72,52,"png","qx"],"qx/decoration/Modern/button-tb-combined.png":[4,216,"png","qx"],"qx/decoration/Modern/checkradio-combined.png":[504,14,"png","qx"],"qx/decoration/Modern/colorselector-combined.gif":[46,11,"gif","qx"],"qx/decoration/Modern/colorselector/brightness-field.png":[19,256,"png","qx"],"qx/decoration/Modern/colorselector/brightness-handle.gif":[35,11,"gif","qx","qx/decoration/Modern/colorselector-combined.gif",0,0],"qx/decoration/Modern/colorselector/huesaturation-field.jpg":[256,256,"jpeg","qx"],"qx/decoration/Modern/colorselector/huesaturation-handle.gif":[11,11,"gif","qx","qx/decoration/Modern/colorselector-combined.gif",-35,0],"qx/decoration/Modern/cursors-combined.gif":[71,20,"gif","qx"],"qx/decoration/Modern/cursors/alias.gif":[19,15,"gif","qx","qx/decoration/Modern/cursors-combined.gif",-52,0],"qx/decoration/Modern/cursors/copy.gif":[19,15,"gif","qx","qx/decoration/Modern/cursors-combined.gif",-33,0],"qx/decoration/Modern/cursors/move.gif":[13,9,"gif","qx","qx/decoration/Modern/cursors-combined.gif",-20,0],"qx/decoration/Modern/cursors/nodrop.gif":[20,20,"gif","qx","qx/decoration/Modern/cursors-combined.gif",0,0],"qx/decoration/Modern/form/button-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-72],"qx/decoration/Modern/form/button-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-204],"qx/decoration/Modern/form/button-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-188],"qx/decoration/Modern/form/button-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-checked-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-36],"qx/decoration/Modern/form/button-checked-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-84],"qx/decoration/Modern/form/button-checked-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-184],"qx/decoration/Modern/form/button-checked-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-checked-focused-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-156],"qx/decoration/Modern/form/button-checked-focused-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-208],"qx/decoration/Modern/form/button-checked-focused-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-160],"qx/decoration/Modern/form/button-checked-focused-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-checked-focused-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-40,0],"qx/decoration/Modern/form/button-checked-focused-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-32,0],"qx/decoration/Modern/form/button-checked-focused-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-28],"qx/decoration/Modern/form/button-checked-focused-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-24],"qx/decoration/Modern/form/button-checked-focused-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-48],"qx/decoration/Modern/form/button-checked-focused.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-checked-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-16,0],"qx/decoration/Modern/form/button-checked-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-60,0],"qx/decoration/Modern/form/button-checked-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-140],"qx/decoration/Modern/form/button-checked-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-56],"qx/decoration/Modern/form/button-checked-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-112],"qx/decoration/Modern/form/button-checked.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-disabled-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-40],"qx/decoration/Modern/form/button-disabled-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-136],"qx/decoration/Modern/form/button-disabled-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-16],"qx/decoration/Modern/form/button-disabled-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-disabled-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-68,0],"qx/decoration/Modern/form/button-disabled-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-4,0],"qx/decoration/Modern/form/button-disabled-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-116],"qx/decoration/Modern/form/button-disabled-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-168],"qx/decoration/Modern/form/button-disabled-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-60],"qx/decoration/Modern/form/button-disabled.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-focused-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-68],"qx/decoration/Modern/form/button-focused-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-144],"qx/decoration/Modern/form/button-focused-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-8],"qx/decoration/Modern/form/button-focused-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-focused-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-24,0],"qx/decoration/Modern/form/button-focused-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-44,0],"qx/decoration/Modern/form/button-focused-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-192],"qx/decoration/Modern/form/button-focused-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-148],"qx/decoration/Modern/form/button-focused-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-104],"qx/decoration/Modern/form/button-focused.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-hovered-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-108],"qx/decoration/Modern/form/button-hovered-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-32],"qx/decoration/Modern/form/button-hovered-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-128],"qx/decoration/Modern/form/button-hovered-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-hovered-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-20,0],"qx/decoration/Modern/form/button-hovered-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-48,0],"qx/decoration/Modern/form/button-hovered-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-44],"qx/decoration/Modern/form/button-hovered-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-76],"qx/decoration/Modern/form/button-hovered-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-88],"qx/decoration/Modern/form/button-hovered.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-56,0],"qx/decoration/Modern/form/button-preselected-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-124],"qx/decoration/Modern/form/button-preselected-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-176],"qx/decoration/Modern/form/button-preselected-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-200],"qx/decoration/Modern/form/button-preselected-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-preselected-focused-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,0],"qx/decoration/Modern/form/button-preselected-focused-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-4],"qx/decoration/Modern/form/button-preselected-focused-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-152],"qx/decoration/Modern/form/button-preselected-focused-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-preselected-focused-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-28,0],"qx/decoration/Modern/form/button-preselected-focused-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-36,0],"qx/decoration/Modern/form/button-preselected-focused-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-196],"qx/decoration/Modern/form/button-preselected-focused-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-164],"qx/decoration/Modern/form/button-preselected-focused-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-212],"qx/decoration/Modern/form/button-preselected-focused.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-preselected-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-8,0],"qx/decoration/Modern/form/button-preselected-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-64,0],"qx/decoration/Modern/form/button-preselected-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-96],"qx/decoration/Modern/form/button-preselected-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-80],"qx/decoration/Modern/form/button-preselected-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-132],"qx/decoration/Modern/form/button-preselected.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-pressed-b.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-12],"qx/decoration/Modern/form/button-pressed-bl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-52],"qx/decoration/Modern/form/button-pressed-br.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-20],"qx/decoration/Modern/form/button-pressed-c.png":[40,52,"png","qx"],"qx/decoration/Modern/form/button-pressed-l.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-52,0],"qx/decoration/Modern/form/button-pressed-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",-12,0],"qx/decoration/Modern/form/button-pressed-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-100],"qx/decoration/Modern/form/button-pressed-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-172],"qx/decoration/Modern/form/button-pressed-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-64],"qx/decoration/Modern/form/button-pressed.png":[80,60,"png","qx"],"qx/decoration/Modern/form/button-r.png":[4,52,"png","qx","qx/decoration/Modern/button-lr-combined.png",0,0],"qx/decoration/Modern/form/button-t.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-92],"qx/decoration/Modern/form/button-tl.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-120],"qx/decoration/Modern/form/button-tr.png":[4,4,"png","qx","qx/decoration/Modern/button-tb-combined.png",0,-180],"qx/decoration/Modern/form/button.png":[80,60,"png","qx"],"qx/decoration/Modern/form/checkbox-checked-disabled.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-126,0],"qx/decoration/Modern/form/checkbox-checked-focused-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-322,0],"qx/decoration/Modern/form/checkbox-checked-focused.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-294,0],"qx/decoration/Modern/form/checkbox-checked-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-364,0],"qx/decoration/Modern/form/checkbox-checked-hovered.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-490,0],"qx/decoration/Modern/form/checkbox-checked-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-224,0],"qx/decoration/Modern/form/checkbox-checked-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-378,0],"qx/decoration/Modern/form/checkbox-checked-pressed.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-84,0],"qx/decoration/Modern/form/checkbox-checked.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-182,0],"qx/decoration/Modern/form/checkbox-disabled.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-42,0],"qx/decoration/Modern/form/checkbox-focused-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-392,0],"qx/decoration/Modern/form/checkbox-focused.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-210,0],"qx/decoration/Modern/form/checkbox-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-14,0],"qx/decoration/Modern/form/checkbox-hovered.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-238,0],"qx/decoration/Modern/form/checkbox-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-462,0],"qx/decoration/Modern/form/checkbox-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-112,0],"qx/decoration/Modern/form/checkbox-pressed.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-448,0],"qx/decoration/Modern/form/checkbox.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-140,0],"qx/decoration/Modern/form/input-focused.png":[40,12,"png","qx"],"qx/decoration/Modern/form/input.png":[84,12,"png","qx"],"qx/decoration/Modern/form/radiobutton-checked-disabled.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-196,0],"qx/decoration/Modern/form/radiobutton-checked-focused-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-168,0],"qx/decoration/Modern/form/radiobutton-checked-focused.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-98,0],"qx/decoration/Modern/form/radiobutton-checked-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-308,0],"qx/decoration/Modern/form/radiobutton-checked-hovered.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-406,0],"qx/decoration/Modern/form/radiobutton-checked-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-28,0],"qx/decoration/Modern/form/radiobutton-checked-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-350,0],"qx/decoration/Modern/form/radiobutton-checked-pressed.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-266,0],"qx/decoration/Modern/form/radiobutton-checked.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-252,0],"qx/decoration/Modern/form/radiobutton-disabled.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-336,0],"qx/decoration/Modern/form/radiobutton-focused-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-476,0],"qx/decoration/Modern/form/radiobutton-focused.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-420,0],"qx/decoration/Modern/form/radiobutton-hovered-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-56,0],"qx/decoration/Modern/form/radiobutton-hovered.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",0,0],"qx/decoration/Modern/form/radiobutton-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-154,0],"qx/decoration/Modern/form/radiobutton-pressed-invalid.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-434,0],"qx/decoration/Modern/form/radiobutton-pressed.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-280,0],"qx/decoration/Modern/form/radiobutton.png":[14,14,"png","qx","qx/decoration/Modern/checkradio-combined.png",-70,0],"qx/decoration/Modern/form/tooltip-error-arrow.png":[11,14,"png","qx"],"qx/decoration/Modern/form/tooltip-error-b.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-30],"qx/decoration/Modern/form/tooltip-error-bl.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-24],"qx/decoration/Modern/form/tooltip-error-br.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,0],"qx/decoration/Modern/form/tooltip-error-c.png":[40,18,"png","qx"],"qx/decoration/Modern/form/tooltip-error-l.png":[6,18,"png","qx","qx/decoration/Modern/tooltip-error-lr-combined.png",-6,0],"qx/decoration/Modern/form/tooltip-error-r.png":[6,18,"png","qx","qx/decoration/Modern/tooltip-error-lr-combined.png",0,0],"qx/decoration/Modern/form/tooltip-error-t.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-6],"qx/decoration/Modern/form/tooltip-error-tl.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-18],"qx/decoration/Modern/form/tooltip-error-tr.png":[6,6,"png","qx","qx/decoration/Modern/tooltip-error-tb-combined.png",0,-12],"qx/decoration/Modern/form/tooltip-error.png":[127,30,"png","qx"],"qx/decoration/Modern/groupbox-lr-combined.png":[8,51,"png","qx"],"qx/decoration/Modern/groupbox-tb-combined.png":[4,24,"png","qx"],"qx/decoration/Modern/groupbox/groupbox-b.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-12],"qx/decoration/Modern/groupbox/groupbox-bl.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-16],"qx/decoration/Modern/groupbox/groupbox-br.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-8],"qx/decoration/Modern/groupbox/groupbox-c.png":[40,51,"png","qx"],"qx/decoration/Modern/groupbox/groupbox-l.png":[4,51,"png","qx","qx/decoration/Modern/groupbox-lr-combined.png",-4,0],"qx/decoration/Modern/groupbox/groupbox-r.png":[4,51,"png","qx","qx/decoration/Modern/groupbox-lr-combined.png",0,0],"qx/decoration/Modern/groupbox/groupbox-t.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-4],"qx/decoration/Modern/groupbox/groupbox-tl.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,0],"qx/decoration/Modern/groupbox/groupbox-tr.png":[4,4,"png","qx","qx/decoration/Modern/groupbox-tb-combined.png",0,-20],"qx/decoration/Modern/groupbox/groupbox.png":[255,59,"png","qx"],"qx/decoration/Modern/menu-background-combined.png":[80,49,"png","qx"],"qx/decoration/Modern/menu-checkradio-combined.gif":[64,7,"gif","qx"],"qx/decoration/Modern/menu/background.png":[40,49,"png","qx","qx/decoration/Modern/menu-background-combined.png",-40,0],"qx/decoration/Modern/menu/bar-background.png":[40,20,"png","qx","qx/decoration/Modern/menu-background-combined.png",0,0],"qx/decoration/Modern/menu/checkbox-invert.gif":[16,7,"gif","qx","qx/decoration/Modern/menu-checkradio-combined.gif",-16,0],"qx/decoration/Modern/menu/checkbox.gif":[16,7,"gif","qx","qx/decoration/Modern/menu-checkradio-combined.gif",-48,0],"qx/decoration/Modern/menu/radiobutton-invert.gif":[16,5,"gif","qx","qx/decoration/Modern/menu-checkradio-combined.gif",-32,0],"qx/decoration/Modern/menu/radiobutton.gif":[16,5,"gif","qx","qx/decoration/Modern/menu-checkradio-combined.gif",0,0],"qx/decoration/Modern/pane-lr-combined.png":[12,238,"png","qx"],"qx/decoration/Modern/pane-tb-combined.png":[6,36,"png","qx"],"qx/decoration/Modern/pane/pane-b.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-30],"qx/decoration/Modern/pane/pane-bl.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-18],"qx/decoration/Modern/pane/pane-br.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-12],"qx/decoration/Modern/pane/pane-c.png":[40,238,"png","qx"],"qx/decoration/Modern/pane/pane-l.png":[6,238,"png","qx","qx/decoration/Modern/pane-lr-combined.png",0,0],"qx/decoration/Modern/pane/pane-r.png":[6,238,"png","qx","qx/decoration/Modern/pane-lr-combined.png",-6,0],"qx/decoration/Modern/pane/pane-t.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,0],"qx/decoration/Modern/pane/pane-tl.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-24],"qx/decoration/Modern/pane/pane-tr.png":[6,6,"png","qx","qx/decoration/Modern/pane-tb-combined.png",0,-6],"qx/decoration/Modern/pane/pane.png":[185,250,"png","qx"],"qx/decoration/Modern/scrollbar-combined.png":[54,12,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-bg-horizontal.png":[76,15,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-bg-pressed-horizontal.png":[19,10,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-bg-pressed-vertical.png":[10,19,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-bg-vertical.png":[15,76,"png","qx"],"qx/decoration/Modern/scrollbar/scrollbar-button-bg-horizontal.png":[12,10,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-34,0],"qx/decoration/Modern/scrollbar/scrollbar-button-bg-vertical.png":[10,12,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-6,0],"qx/decoration/Modern/scrollbar/scrollbar-down.png":[6,4,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-28,0],"qx/decoration/Modern/scrollbar/scrollbar-left.png":[4,6,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-50,0],"qx/decoration/Modern/scrollbar/scrollbar-right.png":[4,6,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-46,0],"qx/decoration/Modern/scrollbar/scrollbar-up.png":[6,4,"png","qx","qx/decoration/Modern/scrollbar-combined.png",0,0],"qx/decoration/Modern/scrollbar/slider-knob-background.png":[12,10,"png","qx","qx/decoration/Modern/scrollbar-combined.png",-16,0],"qx/decoration/Modern/selection.png":[110,20,"png","qx"],"qx/decoration/Modern/shadow-lr-combined.png":[30,382,"png","qx"],"qx/decoration/Modern/shadow-small-lr-combined.png":[10,136,"png","qx"],"qx/decoration/Modern/shadow-small-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/shadow-tb-combined.png":[15,90,"png","qx"],"qx/decoration/Modern/shadow/shadow-b.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-30],"qx/decoration/Modern/shadow/shadow-bl.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-15],"qx/decoration/Modern/shadow/shadow-br.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-45],"qx/decoration/Modern/shadow/shadow-c.png":[40,382,"png","qx"],"qx/decoration/Modern/shadow/shadow-l.png":[15,382,"png","qx","qx/decoration/Modern/shadow-lr-combined.png",0,0],"qx/decoration/Modern/shadow/shadow-r.png":[15,382,"png","qx","qx/decoration/Modern/shadow-lr-combined.png",-15,0],"qx/decoration/Modern/shadow/shadow-small-b.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-20],"qx/decoration/Modern/shadow/shadow-small-bl.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-15],"qx/decoration/Modern/shadow/shadow-small-br.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-10],"qx/decoration/Modern/shadow/shadow-small-c.png":[40,136,"png","qx"],"qx/decoration/Modern/shadow/shadow-small-l.png":[5,136,"png","qx","qx/decoration/Modern/shadow-small-lr-combined.png",0,0],"qx/decoration/Modern/shadow/shadow-small-r.png":[5,136,"png","qx","qx/decoration/Modern/shadow-small-lr-combined.png",-5,0],"qx/decoration/Modern/shadow/shadow-small-t.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-5],"qx/decoration/Modern/shadow/shadow-small-tl.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,0],"qx/decoration/Modern/shadow/shadow-small-tr.png":[5,5,"png","qx","qx/decoration/Modern/shadow-small-tb-combined.png",0,-25],"qx/decoration/Modern/shadow/shadow-small.png":[114,146,"png","qx"],"qx/decoration/Modern/shadow/shadow-t.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-60],"qx/decoration/Modern/shadow/shadow-tl.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,-75],"qx/decoration/Modern/shadow/shadow-tr.png":[15,15,"png","qx","qx/decoration/Modern/shadow-tb-combined.png",0,0],"qx/decoration/Modern/shadow/shadow.png":[381,412,"png","qx"],"qx/decoration/Modern/splitpane-knobs-combined.png":[8,9,"png","qx"],"qx/decoration/Modern/splitpane/knob-horizontal.png":[1,8,"png","qx","qx/decoration/Modern/splitpane-knobs-combined.png",0,-1],"qx/decoration/Modern/splitpane/knob-vertical.png":[8,1,"png","qx","qx/decoration/Modern/splitpane-knobs-combined.png",0,0],"qx/decoration/Modern/table-combined.png":[94,18,"png","qx"],"qx/decoration/Modern/table/ascending.png":[8,5,"png","qx","qx/decoration/Modern/table-combined.png",0,0],"qx/decoration/Modern/table/boolean-false.png":[14,14,"png","qx","qx/decoration/Modern/table-combined.png",-80,0],"qx/decoration/Modern/table/boolean-true.png":[14,14,"png","qx","qx/decoration/Modern/table-combined.png",-26,0],"qx/decoration/Modern/table/descending.png":[8,5,"png","qx","qx/decoration/Modern/table-combined.png",-18,0],"qx/decoration/Modern/table/header-cell.png":[40,18,"png","qx","qx/decoration/Modern/table-combined.png",-40,0],"qx/decoration/Modern/table/select-column-order.png":[10,9,"png","qx","qx/decoration/Modern/table-combined.png",-8,0],"qx/decoration/Modern/tabview-button-bottom-active-lr-combined.png":[10,14,"png","qx"],"qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/tabview-button-bottom-inactive-b-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-bottom-inactive-lr-combined.png":[6,15,"png","qx"],"qx/decoration/Modern/tabview-button-bottom-inactive-t-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-left-active-lr-combined.png":[10,37,"png","qx"],"qx/decoration/Modern/tabview-button-left-active-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/tabview-button-left-inactive-b-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-left-inactive-lr-combined.png":[6,39,"png","qx"],"qx/decoration/Modern/tabview-button-left-inactive-t-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-right-active-lr-combined.png":[10,37,"png","qx"],"qx/decoration/Modern/tabview-button-right-active-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/tabview-button-right-inactive-b-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-right-inactive-lr-combined.png":[6,39,"png","qx"],"qx/decoration/Modern/tabview-button-right-inactive-t-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-top-active-lr-combined.png":[10,12,"png","qx"],"qx/decoration/Modern/tabview-button-top-active-tb-combined.png":[5,30,"png","qx"],"qx/decoration/Modern/tabview-button-top-inactive-b-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-button-top-inactive-lr-combined.png":[6,15,"png","qx"],"qx/decoration/Modern/tabview-button-top-inactive-t-combined.png":[3,9,"png","qx"],"qx/decoration/Modern/tabview-pane-lr-combined.png":[60,2,"png","qx"],"qx/decoration/Modern/tabview-pane-tb-combined.png":[30,180,"png","qx"],"qx/decoration/Modern/tabview/tab-button-bottom-active-b.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-10],"qx/decoration/Modern/tabview/tab-button-bottom-active-bl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-15],"qx/decoration/Modern/tabview/tab-button-bottom-active-br.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-5],"qx/decoration/Modern/tabview/tab-button-bottom-active-c.png":[40,14,"png","qx"],"qx/decoration/Modern/tabview/tab-button-bottom-active-l.png":[5,14,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-active-r.png":[5,14,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-lr-combined.png",-5,0],"qx/decoration/Modern/tabview/tab-button-bottom-active-t.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-20],"qx/decoration/Modern/tabview/tab-button-bottom-active-tl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,-25],"qx/decoration/Modern/tabview/tab-button-bottom-active-tr.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-bottom-active-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-active.png":[49,24,"png","qx"],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-b.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-b-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-bl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-b-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-br.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-b-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-c.png":[40,15,"png","qx"],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-l.png":[3,15,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-lr-combined.png",-3,0],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-r.png":[3,15,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-t.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-t-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-tl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-t-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-bottom-inactive-tr.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-bottom-inactive-t-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-bottom-inactive.png":[45,21,"png","qx"],"qx/decoration/Modern/tabview/tab-button-left-active-b.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-5],"qx/decoration/Modern/tabview/tab-button-left-active-bl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-active-br.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-25],"qx/decoration/Modern/tabview/tab-button-left-active-c.png":[40,37,"png","qx"],"qx/decoration/Modern/tabview/tab-button-left-active-l.png":[5,37,"png","qx","qx/decoration/Modern/tabview-button-left-active-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-active-r.png":[5,37,"png","qx","qx/decoration/Modern/tabview-button-left-active-lr-combined.png",-5,0],"qx/decoration/Modern/tabview/tab-button-left-active-t.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-15],"qx/decoration/Modern/tabview/tab-button-left-active-tl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-10],"qx/decoration/Modern/tabview/tab-button-left-active-tr.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-left-active-tb-combined.png",0,-20],"qx/decoration/Modern/tabview/tab-button-left-active.png":[22,47,"png","qx"],"qx/decoration/Modern/tabview/tab-button-left-inactive-b.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-b-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-inactive-bl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-b-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-left-inactive-br.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-b-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-left-inactive-c.png":[40,39,"png","qx"],"qx/decoration/Modern/tabview/tab-button-left-inactive-l.png":[3,39,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-lr-combined.png",-3,0],"qx/decoration/Modern/tabview/tab-button-left-inactive-r.png":[3,39,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-inactive-t.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-t-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-left-inactive-tl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-t-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-left-inactive-tr.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-left-inactive-t-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-left-inactive.png":[20,45,"png","qx"],"qx/decoration/Modern/tabview/tab-button-right-active-b.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-25],"qx/decoration/Modern/tabview/tab-button-right-active-bl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-active-br.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-20],"qx/decoration/Modern/tabview/tab-button-right-active-c.png":[40,37,"png","qx"],"qx/decoration/Modern/tabview/tab-button-right-active-l.png":[5,37,"png","qx","qx/decoration/Modern/tabview-button-right-active-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-active-r.png":[5,37,"png","qx","qx/decoration/Modern/tabview-button-right-active-lr-combined.png",-5,0],"qx/decoration/Modern/tabview/tab-button-right-active-t.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-5],"qx/decoration/Modern/tabview/tab-button-right-active-tl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-15],"qx/decoration/Modern/tabview/tab-button-right-active-tr.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-right-active-tb-combined.png",0,-10],"qx/decoration/Modern/tabview/tab-button-right-active.png":[22,47,"png","qx"],"qx/decoration/Modern/tabview/tab-button-right-inactive-b.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-b-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-right-inactive-bl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-b-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-inactive-br.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-b-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-right-inactive-c.png":[40,39,"png","qx"],"qx/decoration/Modern/tabview/tab-button-right-inactive-l.png":[3,39,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-inactive-r.png":[3,39,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-lr-combined.png",-3,0],"qx/decoration/Modern/tabview/tab-button-right-inactive-t.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-t-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-right-inactive-tl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-t-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-right-inactive-tr.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-right-inactive-t-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-right-inactive.png":[20,45,"png","qx"],"qx/decoration/Modern/tabview/tab-button-top-active-b.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-20],"qx/decoration/Modern/tabview/tab-button-top-active-bl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-15],"qx/decoration/Modern/tabview/tab-button-top-active-br.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-10],"qx/decoration/Modern/tabview/tab-button-top-active-c.png":[40,14,"png","qx"],"qx/decoration/Modern/tabview/tab-button-top-active-l.png":[5,12,"png","qx","qx/decoration/Modern/tabview-button-top-active-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-active-r.png":[5,12,"png","qx","qx/decoration/Modern/tabview-button-top-active-lr-combined.png",-5,0],"qx/decoration/Modern/tabview/tab-button-top-active-t.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-active-tl.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-25],"qx/decoration/Modern/tabview/tab-button-top-active-tr.png":[5,5,"png","qx","qx/decoration/Modern/tabview-button-top-active-tb-combined.png",0,-5],"qx/decoration/Modern/tabview/tab-button-top-active.png":[48,22,"png","qx"],"qx/decoration/Modern/tabview/tab-button-top-inactive-b.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-b-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-top-inactive-bl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-b-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-top-inactive-br.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-b-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-inactive-c.png":[40,15,"png","qx"],"qx/decoration/Modern/tabview/tab-button-top-inactive-l.png":[3,15,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-inactive-r.png":[3,15,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-lr-combined.png",-3,0],"qx/decoration/Modern/tabview/tab-button-top-inactive-t.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-t-combined.png",0,-3],"qx/decoration/Modern/tabview/tab-button-top-inactive-tl.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-t-combined.png",0,0],"qx/decoration/Modern/tabview/tab-button-top-inactive-tr.png":[3,3,"png","qx","qx/decoration/Modern/tabview-button-top-inactive-t-combined.png",0,-6],"qx/decoration/Modern/tabview/tab-button-top-inactive.png":[45,21,"png","qx"],"qx/decoration/Modern/tabview/tabview-pane-b.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-60],"qx/decoration/Modern/tabview/tabview-pane-bl.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,0],"qx/decoration/Modern/tabview/tabview-pane-br.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-120],"qx/decoration/Modern/tabview/tabview-pane-c.png":[40,120,"png","qx"],"qx/decoration/Modern/tabview/tabview-pane-l.png":[30,2,"png","qx","qx/decoration/Modern/tabview-pane-lr-combined.png",0,0],"qx/decoration/Modern/tabview/tabview-pane-r.png":[30,2,"png","qx","qx/decoration/Modern/tabview-pane-lr-combined.png",-30,0],"qx/decoration/Modern/tabview/tabview-pane-t.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-150],"qx/decoration/Modern/tabview/tabview-pane-tl.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-30],"qx/decoration/Modern/tabview/tabview-pane-tr.png":[30,30,"png","qx","qx/decoration/Modern/tabview-pane-tb-combined.png",0,-90],"qx/decoration/Modern/tabview/tabview-pane.png":[185,250,"png","qx"],"qx/decoration/Modern/toolbar-combined.png":[80,130,"png","qx"],"qx/decoration/Modern/toolbar/toolbar-gradient-blue.png":[40,130,"png","qx","qx/decoration/Modern/toolbar-combined.png",-40,0],"qx/decoration/Modern/toolbar/toolbar-gradient.png":[40,130,"png","qx","qx/decoration/Modern/toolbar-combined.png",0,0],"qx/decoration/Modern/toolbar/toolbar-handle-knob.gif":[1,8,"gif","qx"],"qx/decoration/Modern/toolbar/toolbar-part.gif":[7,1,"gif","qx"],"qx/decoration/Modern/tooltip-error-lr-combined.png":[12,18,"png","qx"],"qx/decoration/Modern/tooltip-error-tb-combined.png":[6,36,"png","qx"],"qx/decoration/Modern/tree-combined.png":[32,8,"png","qx"],"qx/decoration/Modern/tree/closed-selected.png":[8,8,"png","qx","qx/decoration/Modern/tree-combined.png",-24,0],"qx/decoration/Modern/tree/closed.png":[8,8,"png","qx","qx/decoration/Modern/tree-combined.png",-16,0],"qx/decoration/Modern/tree/open-selected.png":[8,8,"png","qx","qx/decoration/Modern/tree-combined.png",-8,0],"qx/decoration/Modern/tree/open.png":[8,8,"png","qx","qx/decoration/Modern/tree-combined.png",0,0],"qx/decoration/Modern/window-captionbar-buttons-combined.png":[108,9,"png","qx"],"qx/decoration/Modern/window-captionbar-lr-active-combined.png":[12,9,"png","qx"],"qx/decoration/Modern/window-captionbar-lr-inactive-combined.png":[12,9,"png","qx"],"qx/decoration/Modern/window-captionbar-tb-active-combined.png":[6,36,"png","qx"],"qx/decoration/Modern/window-captionbar-tb-inactive-combined.png":[6,36,"png","qx"],"qx/decoration/Modern/window-statusbar-lr-combined.png":[8,7,"png","qx"],"qx/decoration/Modern/window-statusbar-tb-combined.png":[4,24,"png","qx"],"qx/decoration/Modern/window/captionbar-active-b.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-18],"qx/decoration/Modern/window/captionbar-active-bl.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-24],"qx/decoration/Modern/window/captionbar-active-br.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-12],"qx/decoration/Modern/window/captionbar-active-c.png":[40,9,"png","qx"],"qx/decoration/Modern/window/captionbar-active-l.png":[6,9,"png","qx","qx/decoration/Modern/window-captionbar-lr-active-combined.png",-6,0],"qx/decoration/Modern/window/captionbar-active-r.png":[6,9,"png","qx","qx/decoration/Modern/window-captionbar-lr-active-combined.png",0,0],"qx/decoration/Modern/window/captionbar-active-t.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-6],"qx/decoration/Modern/window/captionbar-active-tl.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,0],"qx/decoration/Modern/window/captionbar-active-tr.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-active-combined.png",0,-30],"qx/decoration/Modern/window/captionbar-active.png":[69,21,"png","qx"],"qx/decoration/Modern/window/captionbar-inactive-b.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-24],"qx/decoration/Modern/window/captionbar-inactive-bl.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-6],"qx/decoration/Modern/window/captionbar-inactive-br.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-30],"qx/decoration/Modern/window/captionbar-inactive-c.png":[40,9,"png","qx"],"qx/decoration/Modern/window/captionbar-inactive-l.png":[6,9,"png","qx","qx/decoration/Modern/window-captionbar-lr-inactive-combined.png",0,0],"qx/decoration/Modern/window/captionbar-inactive-r.png":[6,9,"png","qx","qx/decoration/Modern/window-captionbar-lr-inactive-combined.png",-6,0],"qx/decoration/Modern/window/captionbar-inactive-t.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,0],"qx/decoration/Modern/window/captionbar-inactive-tl.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-12],"qx/decoration/Modern/window/captionbar-inactive-tr.png":[6,6,"png","qx","qx/decoration/Modern/window-captionbar-tb-inactive-combined.png",0,-18],"qx/decoration/Modern/window/captionbar-inactive.png":[69,21,"png","qx"],"qx/decoration/Modern/window/close-active-hovered.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-27,0],"qx/decoration/Modern/window/close-active.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-9,0],"qx/decoration/Modern/window/close-inactive.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-90,0],"qx/decoration/Modern/window/maximize-active-hovered.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-18,0],"qx/decoration/Modern/window/maximize-active.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-81,0],"qx/decoration/Modern/window/maximize-inactive.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-54,0],"qx/decoration/Modern/window/minimize-active-hovered.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-63,0],"qx/decoration/Modern/window/minimize-active.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-72,0],"qx/decoration/Modern/window/minimize-inactive.png":[9,9,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-36,0],"qx/decoration/Modern/window/restore-active-hovered.png":[9,8,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",0,0],"qx/decoration/Modern/window/restore-active.png":[9,8,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-99,0],"qx/decoration/Modern/window/restore-inactive.png":[9,8,"png","qx","qx/decoration/Modern/window-captionbar-buttons-combined.png",-45,0],"qx/decoration/Modern/window/statusbar-b.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-16],"qx/decoration/Modern/window/statusbar-bl.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-20],"qx/decoration/Modern/window/statusbar-br.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-4],"qx/decoration/Modern/window/statusbar-c.png":[40,7,"png","qx"],"qx/decoration/Modern/window/statusbar-l.png":[4,7,"png","qx","qx/decoration/Modern/window-statusbar-lr-combined.png",-4,0],"qx/decoration/Modern/window/statusbar-r.png":[4,7,"png","qx","qx/decoration/Modern/window-statusbar-lr-combined.png",0,0],"qx/decoration/Modern/window/statusbar-t.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,0],"qx/decoration/Modern/window/statusbar-tl.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-8],"qx/decoration/Modern/window/statusbar-tr.png":[4,4,"png","qx","qx/decoration/Modern/window-statusbar-tb-combined.png",0,-12],"qx/decoration/Modern/window/statusbar.png":[369,15,"png","qx"],"qx/icon/Oxygen/16/actions/dialog-cancel.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/actions/dialog-ok.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/actions/view-refresh.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/actions/window-close.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/apps/office-calendar.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/mimetypes/text-plain.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/places/folder-open.png":[16,16,"png","qx"],"qx/icon/Oxygen/16/places/folder.png":[16,16,"png","qx"],"qx/icon/Tango/16/actions/dialog-cancel.png":[16,16,"png","qx"],"qx/icon/Tango/16/actions/dialog-ok.png":[16,16,"png","qx"],"qx/icon/Tango/16/actions/view-refresh.png":[16,16,"png","qx"],"qx/icon/Tango/16/actions/window-close.png":[16,16,"png","qx"],"qx/icon/Tango/16/apps/office-calendar.png":[16,16,"png","qx"],"qx/icon/Tango/16/apps/utilities-color-chooser.png":[16,16,"png","qx"],"qx/icon/Tango/16/mimetypes/office-document.png":[16,16,"png","qx"],"qx/icon/Tango/16/places/folder-open.png":[16,16,"png","qx"],"qx/icon/Tango/16/places/folder.png":[16,16,"png","qx"],"qx/icon/Tango/22/actions/list-remove.png":[22,22,"png","qx"],"qx/icon/Tango/22/mimetypes/office-document.png":[22,22,"png","qx"],"qx/icon/Tango/22/places/folder-open.png":[22,22,"png","qx"],"qx/icon/Tango/22/places/folder.png":[22,22,"png","qx"],"qx/icon/Tango/22/status/dialog-information.png":[22,22,"png","qx"],"qx/icon/Tango/32/mimetypes/office-document.png":[32,32,"png","qx"],"qx/icon/Tango/32/places/folder-open.png":[32,32,"png","qx"],"qx/icon/Tango/32/places/folder.png":[32,32,"png","qx"],"qx/static/blank.gif":[1,1,"gif","qx"]},"translations":{"C":{},"en":{}}};
 (function(){var t="toString",s=".",r="default",q="Object",p='"',o="Array",n="()",m="String",k="Function",j=".prototype",S="function",R="Boolean",Q="Error",P="constructor",O="warn",N="hasOwnProperty",M="string",L="toLocaleString",K="RegExp",J='\", "',A="info",B="BROKEN_IE",y="isPrototypeOf",z="Date",w="",x="qx.Bootstrap",u="]",v="Class",C="error",D="[Class ",F="valueOf",E="Number",H="count",G="debug",I="ES5";
 if(!window.qx){window.qx={};
 }qx.Bootstrap={genericToString:function(){return D+this.classname+u;
@@ -2340,7 +2340,12 @@ qx.Class.define(a,{extend:qx.application.AbstractGui,members:{_createRootWidget:
 })();
 (function(){var a="dropnode.Application";
 qx.Class.define(a,{extend:qx.application.Standalone,members:{main:function(){qx.application.Standalone.prototype.main.call(this);
+{};
+qx.Class.include(qx.ui.treevirtual.TreeVirtual,qx.ui.treevirtual.MNode);
 this.event_bus=qx.event.message.Bus;
+this.deleteDialogController=dropnode.DeleteDialogController;
+this.deleteDialogController.getInstance().initialize(this.event_bus,new dropnode.DeleteDialogUI);
+this.getRoot().add(this.deleteDialogController.getInstance().getUi().getBase_container());
 this.baseUIController=dropnode.BaseUIController;
 this.baseUIController.getInstance().initialize(this.event_bus,new dropnode.BaseUI);
 this.getRoot().add(this.baseUIController.getInstance().getUi().base_container,{edge:0});
@@ -2350,9 +2355,6 @@ this.baseUIController.getInstance().add(this.fileDashboardController.getInstance
 this.fileTreeController=dropnode.FileTreeController;
 this.fileTreeController.getInstance().initialize(this.event_bus,new dropnode.FileTreeUI);
 this.fileDashboardController.getInstance().add(this.fileTreeController.getInstance());
-this.recipientDisplayController=dropnode.RecipientDisplayController;
-this.recipientDisplayController.getInstance().initialize(this.event_bus,new dropnode.RecipientDisplayUI);
-this.fileDashboardController.getInstance().add(this.recipientDisplayController.getInstance());
 }}});
 })();
 (function(){var c="qx.event.type.Event";
@@ -9178,1919 +9180,6 @@ this.setRoot(true);
 qx.html.Element._modified[this.$$hash]=this;
 }}});
 })();
-(function(){var f="function",e="qx.event.message.Bus",d="*",c="undefined",b="string",a="singleton";
-qx.Class.define(e,{type:a,extend:qx.core.Object,statics:{getSubscriptions:function(){return this.getInstance().getSubscriptions();
-},subscribe:function(l,m,n){return this.getInstance().subscribe(l,m,n);
-},checkSubscription:function(L,M,N){return this.getInstance().checkSubscription(L,M,N);
-},unsubscribe:function(B,C,D){return this.getInstance().unsubscribe(B,C,D);
-},dispatch:function(S){return this.getInstance().dispatch.apply(this.getInstance(),arguments);
-},dispatchByName:function(name,K){return this.getInstance().dispatchByName.apply(this.getInstance(),arguments);
-}},construct:function(){this.__ku={};
-},members:{__ku:null,getSubscriptions:function(){return this.__ku;
-},subscribe:function(O,P,Q){if(!O||typeof P!=f){this.error("Invalid parameters! "+[O,P,Q]);
-return false;
-}var R=this.getSubscriptions();
-
-if(this.checkSubscription(O)){if(this.checkSubscription(O,P,Q)){this.warn("Object method already subscribed to "+O);
-return false;
-}R[O].push({subscriber:P,context:Q||null});
-return true;
-}else{R[O]=[{subscriber:P,context:Q||null}];
-return true;
-}},checkSubscription:function(E,F,G){var H=this.getSubscriptions();
-
-if(!H[E]||H[E].length===0){return false;
-}
-if(F){for(var i=0;i<H[E].length;i++){if(H[E][i].subscriber===F&&H[E][i].context===(G||null)){return true;
-}}return false;
-}return true;
-},unsubscribe:function(v,w,x){var z=this.getSubscriptions();
-var y=z[v];
-
-if(y){if(!x){x=null;
-}var i=y.length;
-var A;
-
-do{A=y[--i];
-
-if(A.subscriber===w&&A.context===x){y.splice(i,1);
-
-if(y.length===0){z[v]=null;
-delete z[v];
-}return true;
-}}while(i);
-}return false;
-},dispatch:function(o){if(typeof o==b){{};
-var t=typeof arguments[1]!=c?arguments[1]:true;
-o=new qx.event.message.Message(o,t);
-}var p=this.getSubscriptions();
-var q=o.getName();
-var r=false;
-
-for(var u in p){var s=u.indexOf(d);
-
-if(s>-1){if(s===0||u.substr(0,s)===q.substr(0,s)){this.__kv(p[u],o);
-r=true;
-}}else{if(u===q){this.__kv(p[q],o);
-r=true;
-}}}return r;
-},dispatchByName:function(name,I){var J=new qx.event.message.Message(name,I);
-return this.dispatch(J);
-},__kv:function(g,h){for(var i=0;i<g.length;i++){var j=g[i].subscriber;
-var k=g[i].context;
-if(k&&k.isDisposed){if(k.isDisposed()){g.splice(i,1);
-i--;
-}else{j.call(k,h);
-}}else{j.call(k,h);
-}}}}});
-})();
-(function(){var d="Object",c="qx.event.message.Message",b="String";
-qx.Class.define(c,{extend:qx.core.Object,construct:function(name,a){qx.core.Object.call(this);
-
-if(name!=null){this.setName(name);
-}
-if(a!=null){this.setData(a);
-}},properties:{name:{check:b},data:{init:null,nullable:true},sender:{check:d}}});
-})();
-(function(){var a="dropnode.Controller";
-qx.Class.define(a,{extend:qx.core.Object,properties:{ui:{},event_bus:{},type:{},message:{},parent:{},children:{init:new Array()}},members:{initialize:function(e,f){this.setEvent_bus(e);
-this.setUi(f);
-this.setChildren(new qx.data.Array());
-this.getUi().initialize(this.getEvent_bus());
-this.getUi().init_gui();
-this._addReactors();
-this._addListeners();
-this._addBindings();
-},error:function(d){this.getUi().error(d);
-},add:function(i){this.getUi().add(i.getUi().getBase_container());
-i.setParent(this);
-var j=this.getChildren();
-j.push(i);
-this.setChildren(j);
-},_dispatch:function(g,h){this.getEvent_bus.getInstance().dispatch(new qx.event.message.Message(g,h));
-},_subscribe:function(k,l,m){this.getEvent_bus().subscribe(k,function(b){var c=dropnode.Utilites.makeCallback(l,m);
-c(b.getData());
-},m);
-},_processMessage:function(){this.debug("Controller's message : "+this.getMessage());
-},_addListeners:function(){},_addReactors:function(){},_addBindings:function(){}}});
-})();
-(function(){var b="dropnode.BaseUIController",a='singleton';
-qx.Class.define(b,{type:a,extend:dropnode.Controller});
-})();
-(function(){var h="[",g="]",f=".",d="idBubble",c="changeBubble",b="qx.data.marshal.MEventBubbling",a="qx.event.type.Data";
-qx.Mixin.define(b,{events:{"changeBubble":a},members:{_applyEventPropagation:function(m,n,name){this.fireDataEvent(c,{value:m,name:name,old:n});
-this._registerEventChaining(m,n,name);
-},_registerEventChaining:function(i,j,name){if((i instanceof qx.core.Object)&&qx.Class.hasMixin(i.constructor,qx.data.marshal.MEventBubbling)){var k=qx.lang.Function.bind(this.__kw,this,name);
-var l=i.addListener(c,k,this);
-i.setUserData(d,l);
-}if(j!=null&&j.getUserData&&j.getUserData(d)!=null){j.removeListenerById(j.getUserData(d));
-}},__kw:function(name,e){var v=e.getData();
-var r=v.value;
-var p=v.old;
-if(qx.Class.hasInterface(e.getTarget().constructor,qx.data.IListData)){if(v.name.indexOf){var u=v.name.indexOf(f)!=-1?v.name.indexOf(f):v.name.length;
-var s=v.name.indexOf(h)!=-1?v.name.indexOf(h):v.name.length;
-
-if(u<s){var o=v.name.substring(0,u);
-var t=v.name.substring(u+1,v.name.length);
-
-if(t[0]!=h){t=f+t;
-}var q=name+h+o+g+t;
-}else if(s<u){var o=v.name.substring(0,s);
-var t=v.name.substring(s,v.name.length);
-var q=name+h+o+g+t;
-}else{var q=name+h+v.name+g;
-}}else{var q=name+h+v.name+g;
-}}else{var q=name+f+v.name;
-}this.fireDataEvent(c,{value:r,name:q,old:p});
-}}});
-})();
-(function(){var q="change",p="add",o="remove",n="order",m="qx.event.type.Data",l="",k="qx.data.Array",j="?",h="changeBubble",g="number",f="changeLength";
-qx.Class.define(k,{extend:qx.core.Object,include:qx.data.marshal.MEventBubbling,implement:[qx.data.IListData],construct:function(H){qx.core.Object.call(this);
-if(H==undefined){this.__kx=[];
-}else if(arguments.length>1){this.__kx=[];
-
-for(var i=0;i<arguments.length;i++){this.__kx.push(arguments[i]);
-}}else if(typeof H==g){this.__kx=new Array(H);
-}else if(H instanceof Array){this.__kx=qx.lang.Array.clone(H);
-}else{this.__kx=[];
-throw new Error("Type of the parameter not supported!");
-}for(var i=0;i<this.__kx.length;i++){this._applyEventPropagation(this.__kx[i],null,i);
-}this.__ky();
-},events:{"change":m,"changeLength":m},members:{__kx:null,concat:function(bd){if(bd){var be=this.__kx.concat(bd);
-}else{var be=this.__kx.concat();
-}return new qx.data.Array(be);
-},join:function(I){return this.__kx.join(I);
-},pop:function(){var w=this.__kx.pop();
-this.__ky();
-this._applyEventPropagation(null,w,this.length-1);
-this.fireDataEvent(q,{start:this.length-1,end:this.length-1,type:o,items:[w]},null);
-return w;
-},push:function(b){for(var i=0;i<arguments.length;i++){this.__kx.push(arguments[i]);
-this.__ky();
-this._applyEventPropagation(arguments[i],null,this.length-1);
-this.fireDataEvent(q,{start:this.length-1,end:this.length-1,type:p,items:[arguments[i]]},null);
-}return this.length;
-},reverse:function(){this.__kx.reverse();
-this.fireDataEvent(q,{start:0,end:this.length-1,type:n,items:null},null);
-},shift:function(){var v=this.__kx.shift();
-this.__ky();
-this._applyEventPropagation(null,v,this.length-1);
-this.fireDataEvent(q,{start:0,end:this.length-1,type:o,items:[v]},null);
-return v;
-},slice:function(W,X){return new qx.data.Array(this.__kx.slice(W,X));
-},splice:function(K,L,M){var S=this.__kx.length;
-var P=this.__kx.splice.apply(this.__kx,arguments);
-if(this.__kx.length!=S){this.__ky();
-}var Q=L>0;
-var N=arguments.length>2;
-var O=null;
-
-if(Q||N){if(this.__kx.length>S){var R=p;
-}else if(this.__kx.length<S){var R=o;
-O=P;
-}else{var R=n;
-}this.fireDataEvent(q,{start:K,end:this.length-1,type:R,items:O},null);
-}for(var i=2;i<arguments.length;i++){this._registerEventChaining(arguments[i],null,K+i);
-}this.fireDataEvent(h,{value:this,name:j,old:P});
-for(var i=0;i<P.length;i++){this._applyEventPropagation(null,P[i],i);
-}return (new qx.data.Array(P));
-},sort:function(B){this.__kx.sort.apply(this.__kx,arguments);
-this.fireDataEvent(q,{start:0,end:this.length-1,type:n,items:null},null);
-},unshift:function(bc){for(var i=arguments.length-1;i>=0;i--){this.__kx.unshift(arguments[i]);
-this.__ky();
-this._applyEventPropagation(arguments[i],null,0);
-this.fireDataEvent(q,{start:0,end:this.length-1,type:p,items:[arguments[i]]},null);
-}return this.length;
-},toArray:function(){return this.__kx;
-},getItem:function(d){return this.__kx[d];
-},setItem:function(r,s){var t=this.__kx[r];
-this.__kx[r]=s;
-this._applyEventPropagation(s,t,r);
-if(this.length!=this.__kx.length){this.__ky();
-}this.fireDataEvent(q,{start:r,end:r,type:p,items:[s]},null);
-},getLength:function(){return this.length;
-},indexOf:function(u){return this.__kx.indexOf(u);
-},toString:function(){if(this.__kx!=null){return this.__kx.toString();
-}return l;
-},contains:function(J){return this.__kx.indexOf(J)!==-1;
-},copy:function(){return this.concat();
-},insertAt:function(bf,bg){this.splice(bf,0,bg);
-},insertBefore:function(C,D){var E=this.indexOf(C);
-
-if(E==-1){this.push(D);
-}else{this.splice(E,0,D);
-}},insertAfter:function(Y,ba){var bb=this.indexOf(Y);
-
-if(bb==-1||bb==(this.length-1)){this.push(ba);
-}else{this.splice(bb+1,0,ba);
-}},removeAt:function(a){return this.splice(a,1)[0];
-},removeAll:function(){for(var i=0;i<this.__kx.length;i++){this._applyEventPropagation(null,this.__kx[i],i);
-}var z=this.getLength();
-var y=this.__kx.concat();
-this.__kx.length=0;
-this.__ky();
-this.fireDataEvent(q,{start:0,end:z-1,type:o,items:y},null);
-},append:function(bh){if(bh instanceof qx.data.Array){bh=bh.toArray();
-}{};
-for(var i=0;i<bh.length;i++){this._applyEventPropagation(bh[i],null,this.__kx.length+i);
-}Array.prototype.push.apply(this.__kx,bh);
-var bi=this.length;
-this.__ky();
-this.fireDataEvent(q,{start:bi,end:this.length-1,type:p,items:bh},null);
-},remove:function(F){var G=this.indexOf(F);
-
-if(G!=-1){this.splice(G,1);
-return F;
-}},equals:function(e){if(this.length!==e.length){return false;
-}
-for(var i=0;i<this.length;i++){if(this.getItem(i)!==e.getItem(i)){return false;
-}}return true;
-},sum:function(){var A=0;
-
-for(var i=0;i<this.length;i++){A+=this.getItem(i);
-}return A;
-},max:function(){var c=this.getItem(0);
-
-for(var i=1;i<this.length;i++){if(this.getItem(i)>c){c=this.getItem(i);
-}}return c===undefined?null:c;
-},min:function(){var T=this.getItem(0);
-
-for(var i=1;i<this.length;i++){if(this.getItem(i)<T){T=this.getItem(i);
-}}return T===undefined?null:T;
-},forEach:function(U,V){for(var i=0;i<this.__kx.length;i++){U.call(V,this.__kx[i]);
-}},__ky:function(){var x=this.length;
-this.length=this.__kx.length;
-this.fireDataEvent(f,this.length,x);
-}},destruct:function(){for(var i=0;i<this.__kx.length;i++){this._applyEventPropagation(null,this.__kx[i],i);
-}this.__kx=null;
-}});
-})();
-(function(){var e="Sharer Dashboard",d="app-header",c="DropNode 0.1",b="dropnode.BaseUI";
-qx.Class.define(b,{extend:qx.core.Object,properties:{event_bus:{nullable:true},base_container:{nullable:true},app_container:{nullable:true}},members:{initialize:function(f){this.setEvent_bus(f);
-},init_gui:function(){this.base_container=new qx.ui.container.Composite(new qx.ui.layout.VBox());
-this.base_container.add(this.main_header());
-this.app_container=new qx.ui.container.Composite(new qx.ui.layout.VBox());
-this.base_container.add(this.app_container);
-},main_header:function(){var i=new qx.ui.layout.HBox();
-var g=new qx.ui.container.Composite(i);
-g.setAppearance(d);
-var j=new qx.ui.basic.Label(e);
-var h=new qx.ui.basic.Label(c);
-g.add(j);
-g.add(new qx.ui.core.Spacer,{flex:1});
-g.add(h);
-return g;
-},add:function(a){this.app_container.add(a);
-},error:function(){}}});
-})();
-(function(){var R="_applyLayoutChange",Q="top",P="left",O="middle",N="Decorator",M="center",L="_applyReversed",K="bottom",J="qx.ui.layout.VBox",I="Integer",G="right",H="Boolean";
-qx.Class.define(J,{extend:qx.ui.layout.Abstract,construct:function(S,T,U){qx.ui.layout.Abstract.call(this);
-
-if(S){this.setSpacing(S);
-}
-if(T){this.setAlignY(T);
-}
-if(U){this.setSeparator(U);
-}},properties:{alignY:{check:[Q,O,K],init:Q,apply:R},alignX:{check:[P,M,G],init:P,apply:R},spacing:{check:I,init:0,apply:R},separator:{check:N,nullable:true,apply:R},reversed:{check:H,init:false,apply:L}},members:{__kz:null,__kA:null,__kB:null,__kC:null,_applyReversed:function(){this._invalidChildrenCache=true;
-this._applyLayoutChange();
-},__kD:function(){var F=this._getLayoutChildren();
-var length=F.length;
-var B=false;
-var A=this.__kz&&this.__kz.length!=length&&this.__kA&&this.__kz;
-var D;
-var C=A?this.__kz:new Array(length);
-var E=A?this.__kA:new Array(length);
-if(this.getReversed()){F=F.concat().reverse();
-}for(var i=0;i<length;i++){D=F[i].getLayoutProperties();
-
-if(D.height!=null){C[i]=parseFloat(D.height)/100;
-}
-if(D.flex!=null){E[i]=D.flex;
-B=true;
-}else{E[i]=0;
-}}if(!A){this.__kz=C;
-this.__kA=E;
-}this.__kB=B;
-this.__kC=F;
-delete this._invalidChildrenCache;
-},verifyLayoutProperty:null,renderLayout:function(a,b){if(this._invalidChildrenCache){this.__kD();
-}var j=this.__kC;
-var length=j.length;
-var u=qx.ui.layout.Util;
-var t=this.getSpacing();
-var x=this.getSeparator();
-
-if(x){var f=u.computeVerticalSeparatorGaps(j,t,x);
-}else{var f=u.computeVerticalGaps(j,t,true);
-}var i,d,e,o;
-var p=[];
-var v=f;
-
-for(i=0;i<length;i+=1){o=this.__kz[i];
-e=o!=null?Math.floor((b-f)*o):j[i].getSizeHint().height;
-p.push(e);
-v+=e;
-}if(this.__kB&&v!=b){var m={};
-var s,w;
-
-for(i=0;i<length;i+=1){s=this.__kA[i];
-
-if(s>0){k=j[i].getSizeHint();
-m[i]={min:k.minHeight,value:p[i],max:k.maxHeight,flex:s};
-}}var g=u.computeFlexOffsets(m,b,v);
-
-for(i in g){w=g[i].offset;
-p[i]+=w;
-v+=w;
-}}var top=j[0].getMarginTop();
-if(v<b&&this.getAlignY()!=Q){top=b-v;
-
-if(this.getAlignY()===O){top=Math.round(top/2);
-}}var k,z,q,e,n,r,h;
-this._clearSeparators();
-if(x){var y=qx.theme.manager.Decoration.getInstance().resolve(x).getInsets();
-var c=y.top+y.bottom;
-}for(i=0;i<length;i+=1){d=j[i];
-e=p[i];
-k=d.getSizeHint();
-r=d.getMarginLeft();
-h=d.getMarginRight();
-q=Math.max(k.minWidth,Math.min(a-r-h,k.maxWidth));
-z=u.computeHorizontalAlignOffset(d.getAlignX()||this.getAlignX(),q,a,r,h);
-if(i>0){if(x){top+=n+t;
-this._renderSeparator(x,{top:top,left:0,height:c,width:a});
-top+=c+t+d.getMarginTop();
-}else{top+=u.collapseMargins(t,n,d.getMarginTop());
-}}d.renderLayout(z,top,q,e);
-top+=e;
-n=d.getMarginBottom();
-}},_computeSizeHint:function(){if(this._invalidChildrenCache){this.__kD();
-}var bc=qx.ui.layout.Util;
-var bk=this.__kC;
-var X=0,bb=0,ba=0;
-var V=0,bd=0;
-var bh,W,bj;
-for(var i=0,l=bk.length;i<l;i+=1){bh=bk[i];
-W=bh.getSizeHint();
-bb+=W.height;
-var bg=this.__kA[i];
-var Y=this.__kz[i];
-
-if(bg){X+=W.minHeight;
-}else if(Y){ba=Math.max(ba,Math.round(W.minHeight/Y));
-}else{X+=W.height;
-}bj=bh.getMarginLeft()+bh.getMarginRight();
-if((W.width+bj)>bd){bd=W.width+bj;
-}if((W.minWidth+bj)>V){V=W.minWidth+bj;
-}}X+=ba;
-var bf=this.getSpacing();
-var bi=this.getSeparator();
-
-if(bi){var be=bc.computeVerticalSeparatorGaps(bk,bf,bi);
-}else{var be=bc.computeVerticalGaps(bk,bf,true);
-}return {minHeight:X+be,height:bb+be,minWidth:V,width:bd};
-}},destruct:function(){this.__kz=this.__kA=this.__kC=null;
-}});
-})();
-(function(){var n="_applyLayoutChange",m="left",k="center",j="top",h="Decorator",g="middle",f="_applyReversed",e="bottom",d="Boolean",c="right",a="Integer",b="qx.ui.layout.HBox";
-qx.Class.define(b,{extend:qx.ui.layout.Abstract,construct:function(u,v,w){qx.ui.layout.Abstract.call(this);
-
-if(u){this.setSpacing(u);
-}
-if(v){this.setAlignX(v);
-}
-if(w){this.setSeparator(w);
-}},properties:{alignX:{check:[m,k,c],init:m,apply:n},alignY:{check:[j,g,e],init:j,apply:n},spacing:{check:a,init:0,apply:n},separator:{check:h,nullable:true,apply:n},reversed:{check:d,init:false,apply:f}},members:{__kE:null,__kF:null,__kG:null,__kH:null,_applyReversed:function(){this._invalidChildrenCache=true;
-this._applyLayoutChange();
-},__kI:function(){var t=this._getLayoutChildren();
-var length=t.length;
-var q=false;
-var o=this.__kE&&this.__kE.length!=length&&this.__kF&&this.__kE;
-var r;
-var p=o?this.__kE:new Array(length);
-var s=o?this.__kF:new Array(length);
-if(this.getReversed()){t=t.concat().reverse();
-}for(var i=0;i<length;i++){r=t[i].getLayoutProperties();
-
-if(r.width!=null){p[i]=parseFloat(r.width)/100;
-}
-if(r.flex!=null){s[i]=r.flex;
-q=true;
-}else{s[i]=0;
-}}if(!o){this.__kE=p;
-this.__kF=s;
-}this.__kG=q;
-this.__kH=t;
-delete this._invalidChildrenCache;
-},verifyLayoutProperty:null,renderLayout:function(M,N){if(this._invalidChildrenCache){this.__kI();
-}var T=this.__kH;
-var length=T.length;
-var bd=qx.ui.layout.Util;
-var bc=this.getSpacing();
-var bg=this.getSeparator();
-
-if(bg){var Q=bd.computeHorizontalSeparatorGaps(T,bc,bg);
-}else{var Q=bd.computeHorizontalGaps(T,bc,true);
-}var i,O,ba,Y;
-var bf=[];
-var U=Q;
-
-for(i=0;i<length;i+=1){Y=this.__kE[i];
-ba=Y!=null?Math.floor((M-Q)*Y):T[i].getSizeHint().width;
-bf.push(ba);
-U+=ba;
-}if(this.__kG&&U!=M){var W={};
-var bb,be;
-
-for(i=0;i<length;i+=1){bb=this.__kF[i];
-
-if(bb>0){V=T[i].getSizeHint();
-W[i]={min:V.minWidth,value:bf[i],max:V.maxWidth,flex:bb};
-}}var R=bd.computeFlexOffsets(W,M,U);
-
-for(i in R){be=R[i].offset;
-bf[i]+=be;
-U+=be;
-}}var bk=T[0].getMarginLeft();
-if(U<M&&this.getAlignX()!=m){bk=M-U;
-
-if(this.getAlignX()===k){bk=Math.round(bk/2);
-}}var V,top,P,ba,S,bi,X;
-var bc=this.getSpacing();
-this._clearSeparators();
-if(bg){var bh=qx.theme.manager.Decoration.getInstance().resolve(bg).getInsets();
-var bj=bh.left+bh.right;
-}for(i=0;i<length;i+=1){O=T[i];
-ba=bf[i];
-V=O.getSizeHint();
-bi=O.getMarginTop();
-X=O.getMarginBottom();
-P=Math.max(V.minHeight,Math.min(N-bi-X,V.maxHeight));
-top=bd.computeVerticalAlignOffset(O.getAlignY()||this.getAlignY(),P,N,bi,X);
-if(i>0){if(bg){bk+=S+bc;
-this._renderSeparator(bg,{left:bk,top:0,width:bj,height:N});
-bk+=bj+bc+O.getMarginLeft();
-}else{bk+=bd.collapseMargins(bc,S,O.getMarginLeft());
-}}O.renderLayout(bk,top,ba,P);
-bk+=ba;
-S=O.getMarginRight();
-}},_computeSizeHint:function(){if(this._invalidChildrenCache){this.__kI();
-}var D=qx.ui.layout.Util;
-var L=this.__kH;
-var x=0,E=0,B=0;
-var A=0,C=0;
-var I,y,K;
-for(var i=0,l=L.length;i<l;i+=1){I=L[i];
-y=I.getSizeHint();
-E+=y.width;
-var H=this.__kF[i];
-var z=this.__kE[i];
-
-if(H){x+=y.minWidth;
-}else if(z){B=Math.max(B,Math.round(y.minWidth/z));
-}else{x+=y.width;
-}K=I.getMarginTop()+I.getMarginBottom();
-if((y.height+K)>C){C=y.height+K;
-}if((y.minHeight+K)>A){A=y.minHeight+K;
-}}x+=B;
-var G=this.getSpacing();
-var J=this.getSeparator();
-
-if(J){var F=D.computeHorizontalSeparatorGaps(L,G,J);
-}else{var F=D.computeHorizontalGaps(L,G,true);
-}return {minWidth:x+F,width:E+F,minHeight:A,height:C};
-}},destruct:function(){this.__kE=this.__kF=this.__kH=null;
-}});
-})();
-(function(){var a="qx.ui.core.Spacer";
-qx.Class.define(a,{extend:qx.ui.core.LayoutItem,construct:function(c,d){qx.ui.core.LayoutItem.call(this);
-this.setWidth(c!=null?c:0);
-this.setHeight(d!=null?d:0);
-},members:{checkAppearanceNeeds:function(){},addChildrenToQueue:function(b){},destroy:function(){if(this.$$disposed){return;
-}var parent=this.$$parent;
-
-if(parent){parent._remove(this);
-}qx.ui.core.queue.Dispose.add(this);
-}}});
-})();
-(function(){var b="dropnode.FileDashboardController",a='singleton';
-qx.Class.define(b,{extend:dropnode.Controller,type:a,members:{_processMessage:function(){this.debug("File Dashboard Controller "+this.getMessage());
-},error:function(c){this.getParent().error(c);
-}}});
-})();
-(function(){var d="horizontal",c="changeMessage",b="dropnode.FileDashboardUI";
-qx.Class.define(b,{extend:qx.core.Object,properties:{message:{nullable:true,event:c},base_container:{nullable:true},event_bus:{nullable:true}},members:{initialize:function(e){this.setEvent_bus(e);
-},init_gui:function(){this.setBase_container(new qx.ui.splitpane.Pane(d).set({width:350,height:300}));
-},add:function(a){if(this.getBase_container().getChildren().length==0){this.getBase_container().add(a,3);
-}else{this.getBase_container().add(a,5);
-}}}});
-})();
-(function(){var bh="splitter",bg="slider",bf="mousedown",be="mouseout",bd="mousemove",bc="mouseup",bb="losecapture",ba="active",Y="horizontal",X="vertical",bx="knob",bw="Integer",bv="height",bu="row-resize",bt="move",bs="maxHeight",br="width",bq="_applyOrientation",bp="mouseover",bo="splitpane",bm="qx.ui.splitpane.Pane",bn="_applyOffset",bk="minHeight",bl="minWidth",bi="col-resize",bj="maxWidth";
-qx.Class.define(bm,{extend:qx.ui.core.Widget,construct:function(P){qx.ui.core.Widget.call(this);
-this.__kJ=[];
-if(P){this.setOrientation(P);
-}else{this.initOrientation();
-}this.addListener(bf,this._onMouseDown);
-this.addListener(bc,this._onMouseUp);
-this.addListener(bd,this._onMouseMove);
-this.addListener(be,this._onMouseOut);
-this.addListener(bb,this._onMouseUp);
-},properties:{appearance:{refine:true,init:bo},offset:{check:bw,init:6,apply:bn},orientation:{init:Y,check:[Y,X],apply:bq}},members:{__kK:null,__kL:false,__kM:null,__kN:null,__kO:null,__kP:null,__kQ:null,__kJ:null,_createChildControlImpl:function(bA){var bB;
-
-switch(bA){case bg:bB=new qx.ui.splitpane.Slider(this);
-bB.exclude();
-this._add(bB,{type:bA});
-break;
-case bh:bB=new qx.ui.splitpane.Splitter(this);
-this._add(bB,{type:bA});
-bB.addListener(bt,this._onSplitterMove,this);
-if(qx.bom.client.Engine.OPERA){bB.addListener(bp,this._onSplitterMouseOver,bB);
-}break;
-}return bB||qx.ui.core.Widget.prototype._createChildControlImpl.call(this,bA);
-},_applyOrientation:function(G,H){var I=this.getChildControl(bg);
-var L=this.getChildControl(bh);
-this.__kO=G===Y;
-var K=this._getLayout();
-
-if(K){K.dispose();
-}var J=G===X?new qx.ui.splitpane.VLayout:new qx.ui.splitpane.HLayout;
-this._setLayout(J);
-L.removeState(H);
-L.addState(G);
-L.getChildControl(bx).removeState(H);
-L.getChildControl(bx).addState(G);
-I.removeState(H);
-I.addState(G);
-},_applyOffset:function(D,E){var F=this.getChildControl(bh);
-
-if(E===0){F.removeListener(bf,this._onMouseDown,this);
-F.removeListener(bd,this._onMouseMove,this);
-F.removeListener(be,this._onMouseOut,this);
-F.removeListener(bc,this._onMouseUp,this);
-F.removeListener(bb,this._onMouseUp,this);
-this.addListener(bf,this._onMouseDown);
-this.addListener(bc,this._onMouseUp);
-this.addListener(bd,this._onMouseMove);
-this.addListener(be,this._onMouseOut);
-this.addListener(bb,this._onMouseUp);
-}
-if(D===0){this.removeListener(bf,this._onMouseDown);
-this.removeListener(bc,this._onMouseUp);
-this.removeListener(bd,this._onMouseMove);
-this.removeListener(be,this._onMouseOut);
-this.removeListener(bb,this._onMouseUp);
-F.addListener(bf,this._onMouseDown,this);
-F.addListener(bd,this._onMouseMove,this);
-F.addListener(be,this._onMouseOut,this);
-F.addListener(bc,this._onMouseUp,this);
-F.addListener(bb,this._onMouseUp,this);
-}},add:function(B,C){if(C==null){this._add(B);
-}else{this._add(B,{flex:C});
-}this.__kJ.push(B);
-},remove:function(r){this._remove(r);
-qx.lang.Array.remove(this.__kJ,r);
-},getChildren:function(){return this.__kJ;
-},_onMouseDown:function(e){if(!e.isLeftPressed()||!this._isNear()){return;
-}var a=this.getChildControl(bh);
-var c=a.getContainerLocation();
-var b=this.getContentLocation();
-this.__kK=this.__kO?e.getDocumentLeft()-c.left+b.left:e.getDocumentTop()-c.top+b.top;
-var f=this.getChildControl(bg);
-var d=a.getBounds();
-f.setUserBounds(d.left,d.top,d.width,d.height);
-f.setZIndex(a.getZIndex()+1);
-f.show();
-this.__kL=true;
-e.getCurrentTarget().capture();
-e.stop();
-},_onMouseMove:function(e){this._setLastMousePosition(e.getDocumentLeft(),e.getDocumentTop());
-if(this.__kL){this.__kS();
-var by=this.getChildControl(bg);
-var bz=this.__kP;
-
-if(this.__kO){by.setDomLeft(bz);
-}else{by.setDomTop(bz);
-}e.stop();
-}else{this.__kR();
-}},_onMouseOut:function(e){this._setLastMousePosition(-100,-100);
-this.__kR();
-},_onMouseUp:function(e){if(!this.__kL){return;
-}this._finalizeSizes();
-var g=this.getChildControl(bg);
-g.exclude();
-this.__kL=false;
-this.releaseCapture();
-this.__kR();
-e.stop();
-},_onSplitterMove:function(){this.__kR();
-},_onSplitterMouseOver:function(){this.addState(ba);
-},_finalizeSizes:function(){var T=this.__kP;
-var Q=this.__kQ;
-
-if(T==null){return;
-}var V=this._getChildren();
-var U=V[2];
-var R=V[3];
-var S=U.getLayoutProperties().flex;
-var W=R.getLayoutProperties().flex;
-if((S!=0)&&(W!=0)){U.setLayoutProperties({flex:T});
-R.setLayoutProperties({flex:Q});
-}else{if(this.__kO){U.setWidth(T);
-R.setWidth(Q);
-}else{U.setHeight(T);
-R.setHeight(Q);
-}}},_isNear:function(){var s=this.getChildControl(bh);
-var u=s.getBounds();
-var w=s.getContainerLocation();
-var t=this.getOffset();
-if(!w){return;
-}var z=this.__kM;
-var A=u.width;
-var v=w.left;
-
-if(A<t){v-=Math.floor((t-A)/2);
-A=t;
-}
-if(z<v||z>(v+A)){return false;
-}var z=this.__kN;
-var A=u.height;
-var v=w.top;
-
-if(A<t){v-=Math.floor((t-A)/2);
-A=t;
-}
-if(z<v||z>(v+A)){return false;
-}return true;
-},__kR:function(){var N=this.getChildControl(bh);
-var O=this.getApplicationRoot();
-if(this.__kL||this._isNear()){var M=this.__kO?bi:bu;
-this.setCursor(M);
-O.setGlobalCursor(M);
-N.addState(ba);
-}else if(N.hasState(ba)){this.resetCursor();
-O.resetGlobalCursor();
-N.removeState(ba);
-}},__kS:function(){if(this.__kO){var j=bl,q=br,k=bj,o=this.__kM;
-}else{var j=bk,q=bv,k=bs,o=this.__kN;
-}var p=this._getChildren();
-var h=p[2].getSizeHint();
-var m=p[3].getSizeHint();
-var n=p[2].getBounds()[q]+p[3].getBounds()[q];
-var l=o-this.__kK;
-var i=n-l;
-if(l<h[j]){i-=h[j]-l;
-l=h[j];
-}else if(i<m[j]){l-=m[j]-i;
-i=m[j];
-}if(l>h[k]){i+=l-h[k];
-l=h[k];
-}else if(i>m[k]){l+=i-m[k];
-i=m[k];
-}this.__kP=l;
-this.__kQ=i;
-},_isActiveDragSession:function(){return this.__kL;
-},_setLastMousePosition:function(x,y){this.__kM=x;
-this.__kN=y;
-}},destruct:function(){this.__kJ=null;
-}});
-})();
-(function(){var a="qx.ui.splitpane.Slider";
-qx.Class.define(a,{extend:qx.ui.core.Widget,properties:{allowShrinkX:{refine:true,init:false},allowShrinkY:{refine:true,init:false}}});
-})();
-(function(){var f="center",e="knob",d="middle",c="qx.ui.splitpane.Splitter",b="vertical";
-qx.Class.define(c,{extend:qx.ui.core.Widget,construct:function(a){qx.ui.core.Widget.call(this);
-if(a.getOrientation()==b){this._setLayout(new qx.ui.layout.HBox(0,f));
-this._getLayout().setAlignY(d);
-}else{this._setLayout(new qx.ui.layout.VBox(0,d));
-this._getLayout().setAlignX(f);
-}this._createChildControl(e);
-},properties:{allowShrinkX:{refine:true,init:false},allowShrinkY:{refine:true,init:false}},members:{_createChildControlImpl:function(g){var h;
-
-switch(g){case e:h=new qx.ui.basic.Image;
-this._add(h);
-break;
-}return h||qx.ui.core.Widget.prototype._createChildControlImpl.call(this,g);
-}}});
-})();
-(function(){var c="slider",b="splitter",a="qx.ui.splitpane.VLayout";
-qx.Class.define(a,{extend:qx.ui.layout.Abstract,members:{verifyLayoutProperty:null,renderLayout:function(o,p){var F=this._getLayoutChildren();
-var length=F.length;
-var B,E;
-var r,q,z,s;
-
-for(var i=0;i<length;i++){B=F[i];
-E=B.getLayoutProperties().type;
-
-if(E===b){q=B;
-}else if(E===c){z=B;
-}else if(!r){r=B;
-}else{s=B;
-}}
-if(r&&s){var H=r.getLayoutProperties().flex;
-var u=s.getLayoutProperties().flex;
-
-if(H==null){H=1;
-}
-if(u==null){u=1;
-}var G=r.getSizeHint();
-var x=q.getSizeHint();
-var y=s.getSizeHint();
-var t=G.height;
-var C=x.height;
-var D=y.height;
-
-if(H>0&&u>0){var v=H+u;
-var w=p-C;
-var t=Math.round((w/v)*H);
-var D=w-t;
-var A=qx.ui.layout.Util.arrangeIdeals(G.minHeight,t,G.maxHeight,y.minHeight,D,y.maxHeight);
-t=A.begin;
-D=A.end;
-}else if(H>0){t=p-C-D;
-
-if(t<G.minHeight){t=G.minHeight;
-}
-if(t>G.maxHeight){t=G.maxHeight;
-}}else if(u>0){D=p-t-C;
-
-if(D<y.minHeight){D=y.minHeight;
-}
-if(D>y.maxHeight){D=y.maxHeight;
-}}r.renderLayout(0,0,o,t);
-q.renderLayout(0,t,o,C);
-s.renderLayout(0,t+C,o,D);
-}else{q.renderLayout(0,0,0,0);
-if(r){r.renderLayout(0,0,o,p);
-}else if(s){s.renderLayout(0,0,o,p);
-}}},_computeSizeHint:function(){var n=this._getLayoutChildren();
-var length=n.length;
-var f,e,m;
-var g=0,j=0,h=0;
-var k=0,l=0,d=0;
-
-for(var i=0;i<length;i++){f=n[i];
-m=f.getLayoutProperties();
-if(m.type===c){continue;
-}e=f.getSizeHint();
-g+=e.minHeight;
-j+=e.height;
-h+=e.maxHeight;
-
-if(e.minWidth>k){k=e.minWidth;
-}
-if(e.width>l){l=e.width;
-}
-if(e.maxWidth>d){d=e.maxWidth;
-}}return {minHeight:g,height:j,maxHeight:h,minWidth:k,width:l,maxWidth:d};
-}}});
-})();
-(function(){var x="slider",w="splitter",v="qx.ui.splitpane.HLayout";
-qx.Class.define(v,{extend:qx.ui.layout.Abstract,members:{verifyLayoutProperty:null,renderLayout:function(a,b){var s=this._getLayoutChildren();
-var length=s.length;
-var p,r;
-var d,c,m,e;
-
-for(var i=0;i<length;i++){p=s[i];
-r=p.getLayoutProperties().type;
-
-if(r===w){c=p;
-}else if(r===x){m=p;
-}else if(!d){d=p;
-}else{e=p;
-}}
-if(d&&e){var u=d.getLayoutProperties().flex;
-var f=e.getLayoutProperties().flex;
-
-if(u==null){u=1;
-}
-if(f==null){f=1;
-}var t=d.getSizeHint();
-var j=c.getSizeHint();
-var l=e.getSizeHint();
-var q=t.width;
-var o=j.width;
-var n=l.width;
-
-if(u>0&&f>0){var g=u+f;
-var h=a-o;
-var q=Math.round((h/g)*u);
-var n=h-q;
-var k=qx.ui.layout.Util.arrangeIdeals(t.minWidth,q,t.maxWidth,l.minWidth,n,l.maxWidth);
-q=k.begin;
-n=k.end;
-}else if(u>0){q=a-o-n;
-
-if(q<t.minWidth){q=t.minWidth;
-}
-if(q>t.maxWidth){q=t.maxWidth;
-}}else if(f>0){n=a-q-o;
-
-if(n<l.minWidth){n=l.minWidth;
-}
-if(n>l.maxWidth){n=l.maxWidth;
-}}d.renderLayout(0,0,q,b);
-c.renderLayout(q,0,o,b);
-e.renderLayout(q+o,0,n,b);
-}else{c.renderLayout(0,0,0,0);
-if(d){d.renderLayout(0,0,a,b);
-}else if(e){e.renderLayout(0,0,a,b);
-}}},_computeSizeHint:function(){var H=this._getLayoutChildren();
-var length=H.length;
-var A,z,G;
-var E=0,F=0,y=0;
-var B=0,D=0,C=0;
-
-for(var i=0;i<length;i++){A=H[i];
-G=A.getLayoutProperties();
-if(G.type===x){continue;
-}z=A.getSizeHint();
-E+=z.minWidth;
-F+=z.width;
-y+=z.maxWidth;
-
-if(z.minHeight>B){B=z.minHeight;
-}
-if(z.height>D){D=z.height;
-}
-if(z.maxHeight>C){C=z.maxHeight;
-}}return {minWidth:E,width:F,maxWidth:y,minHeight:B,height:D,maxHeight:C};
-}}});
-})();
-(function(){var c="allfiles",b="dropnode.FileTreeController",a='singleton';
-qx.Class.define(b,{type:a,extend:dropnode.Controller,properties:{currentSelection:{nullable:true},name:{nullable:true},fileId:{nullable:true},nodeId:{nullable:true},fileMap:{nullable:true}},members:{initialize:function(x){arguments.callee.base.apply(this,arguments);
-this.setFileMap(new Array());
-dropnode.Utilities.withMockReq({"service":c},dropnode.Utilities.makeCallback(this._create_data_model,this),dropnode.Utilities.makeCallback(this.error,this),dropnode.TestUsers.shared_files);
-},error:function(m){this.getParent().error(m);
-},_create_data_model:function(d){var g=this.getUi().getFile_tree().getDataModel();
-var f=d.length;
-
-for(var i=0;i<f;i++){var k=d[i].encodedName;
-var e=d[i].recipients;
-var l=g.addBranch(null,d[i].name,false);
-g.setColumnData(l,1,d[i].url);
-g.setColumnData(l,2,d[i].recipients.length);
-this.getFileMap()[k]=d[i];
-
-for(var j=0;j<e.length;j++){var h=g.addLeaf(l,d[i].recipients[j].progress);
-}}g.setData();
-}}});
-})();
-(function(){var i="null",h="dropnode.Utilities",g="JSONParseError",f="completed",d="GET",c="localhost";
-qx.Class.define(h,{statics:{server:c,makeCallback:function(j,k){return qx.lang.Function.bind(j,k);
-},makeReq:function(a){var b=new qx.io.remote.Request(dropnode.Utilites.server,d);
-},withReq:function(l,m,n){var p=dropnode.Utilites.makeReq(l);
-var o=m;
-var q=this;
-p.addListener(f,function(e){var r=new qx.util.Json.parseQx(e.getContent());
-var s={name:r.error,message:r.error};
-
-if(s.name!=null){n(s);
-}else{try{m(qx.util.Json.parseQx(r.result));
-}catch(x){n({name:g,message:r.result});
-}}});
-},withMockReq:function(t,u,v,w){var y={name:w.error,message:w.error};
-
-if(y.name!=i){u(w);
-}else{v(w.error);
-}}}});
-})();
-(function(){var H="Boolean",G="qx.event.type.Event",F="queued",E="String",D="sending",C="receiving",B="aborted",A="failed",z="nocache",y="completed",bm="qx.io.remote.Response",bl="POST",bk="configured",bj="timeout",bi="GET",bh="Pragma",bg="no-url-params-on-post",bf="PUT",be="no-cache",bd="Cache-Control",O="Content-Type",P="text/plain",M="application/xml",N="application/json",K="text/html",L="application/x-www-form-urlencoded",I="qx.io.remote.Exchange",J="Integer",Q="X-Qooxdoo-Response-Type",R="HEAD",U="qx.io.remote.Request",T="_applyResponseType",W="_applyState",V="text/javascript",Y="changeState",X="_applyProhibitCaching",S="",bc="_applyMethod",bb="DELETE",ba="boolean";
-qx.Class.define(U,{extend:qx.core.Object,construct:function(n,o,p){qx.core.Object.call(this);
-this.__kT={};
-this.__kU={};
-this.__kV={};
-this.__kW={};
-
-if(n!==undefined){this.setUrl(n);
-}
-if(o!==undefined){this.setMethod(o);
-}
-if(p!==undefined){this.setResponseType(p);
-}this.setProhibitCaching(true);
-this.__kX=++qx.io.remote.Request.__kX;
-},events:{"created":G,"configured":G,"sending":G,"receiving":G,"completed":bm,"aborted":G,"failed":bm,"timeout":bm},statics:{__kX:0,methodAllowsRequestBody:function(q){return (q==bl)||(q==bf);
-}},properties:{url:{check:E,init:S},method:{check:[bi,bl,bf,R,bb],apply:bc,init:bi},asynchronous:{check:H,init:true},data:{check:E,nullable:true},username:{check:E,nullable:true},password:{check:E,nullable:true},state:{check:[bk,F,D,C,y,B,bj,A],init:bk,apply:W,event:Y},responseType:{check:[P,V,N,M,K],init:P,apply:T},timeout:{check:J,nullable:true},prohibitCaching:{check:function(v){return typeof v==ba||v===bg;
-},init:true,apply:X},crossDomain:{check:H,init:false},fileUpload:{check:H,init:false},transport:{check:I,nullable:true},useBasicHttpAuth:{check:H,init:false},parseJson:{check:H,init:true}},members:{__kT:null,__kU:null,__kV:null,__kW:null,__kX:null,send:function(){qx.io.remote.RequestQueue.getInstance().add(this);
-},abort:function(){qx.io.remote.RequestQueue.getInstance().abort(this);
-},reset:function(){switch(this.getState()){case D:case C:this.error("Aborting already sent request!");
-case F:this.abort();
-break;
-}},isConfigured:function(){return this.getState()===bk;
-},isQueued:function(){return this.getState()===F;
-},isSending:function(){return this.getState()===D;
-},isReceiving:function(){return this.getState()===C;
-},isCompleted:function(){return this.getState()===y;
-},isAborted:function(){return this.getState()===B;
-},isTimeout:function(){return this.getState()===bj;
-},isFailed:function(){return this.getState()===A;
-},__kY:function(e){var m=e.clone();
-m.setTarget(this);
-this.dispatchEvent(m);
-},_onqueued:function(e){this.setState(F);
-this.__kY(e);
-},_onsending:function(e){this.setState(D);
-this.__kY(e);
-},_onreceiving:function(e){this.setState(C);
-this.__kY(e);
-},_oncompleted:function(e){this.setState(y);
-this.__kY(e);
-this.dispose();
-},_onaborted:function(e){this.setState(B);
-this.__kY(e);
-this.dispose();
-},_ontimeout:function(e){this.setState(bj);
-this.__kY(e);
-this.dispose();
-},_onfailed:function(e){this.setState(A);
-this.__kY(e);
-this.dispose();
-},_applyState:function(g,h){{};
-},_applyProhibitCaching:function(bn,bo){if(!bn){this.removeParameter(z);
-this.removeRequestHeader(bh);
-this.removeRequestHeader(bd);
-return;
-}if(bn!==bg||this.getMethod()!=bl){this.setParameter(z,new Date().valueOf());
-}else{this.removeParameter(z);
-}this.setRequestHeader(bh,be);
-this.setRequestHeader(bd,be);
-},_applyMethod:function(j,k){if(qx.io.remote.Request.methodAllowsRequestBody(j)){this.setRequestHeader(O,L);
-}else{this.removeRequestHeader(O);
-}var l=this.getProhibitCaching();
-this._applyProhibitCaching(l,l);
-},_applyResponseType:function(d,f){this.setRequestHeader(Q,d);
-},setRequestHeader:function(r,s){this.__kT[r]=s;
-},removeRequestHeader:function(a){delete this.__kT[a];
-},getRequestHeader:function(b){return this.__kT[b]||null;
-},getRequestHeaders:function(){return this.__kT;
-},setParameter:function(t,u,w){if(w){this.__kV[t]=u;
-}else{this.__kU[t]=u;
-}},removeParameter:function(bp,bq){if(bq){delete this.__kV[bp];
-}else{delete this.__kU[bp];
-}},getParameter:function(br,bs){if(bs){return this.__kV[br]||null;
-}else{return this.__kU[br]||null;
-}},getParameters:function(x){return (x?this.__kV:this.__kU);
-},setFormField:function(bt,bu){this.__kW[bt]=bu;
-},removeFormField:function(c){delete this.__kW[c];
-},getFormField:function(i){return this.__kW[i]||null;
-},getFormFields:function(){return this.__kW;
-},getSequenceNumber:function(){return this.__kX;
-}},destruct:function(){this.setTransport(null);
-this.__kT=this.__kU=this.__kV=this.__kW=null;
-}});
-})();
-(function(){var b=".",a="qx.bom.client.Transport";
-qx.Class.define(a,{statics:{getMaxConcurrentRequestCount:function(){var h;
-var c=qx.bom.client.Engine;
-var g=c.FULLVERSION.split(b);
-var e=0;
-var d=0;
-var f=0;
-if(g[0]){e=g[0];
-}if(g[1]){d=g[1];
-}if(g[2]){f=g[2];
-}if(window.maxConnectionsPerServer){h=window.maxConnectionsPerServer;
-}else if(c.OPERA){h=8;
-}else if(c.WEBKIT){h=4;
-}else if(c.GECKO&&((e>1)||((e==1)&&(d>9))||((e==1)&&(d==9)&&(f>=1)))){h=6;
-}else{h=2;
-}return h;
-}}});
-})();
-(function(){var D="Integer",C="aborted",B="_onaborted",A="_on",z="_applyEnabled",y="Boolean",x="sending",w="interval",v="__lb",u="failed",p="qx.io.remote.RequestQueue",t="timeout",s="completed",o="queued",n="__ld",r="receiving",q="singleton";
-qx.Class.define(p,{type:q,extend:qx.core.Object,construct:function(){qx.core.Object.call(this);
-this.__la=[];
-this.__lb=[];
-this.__lc=0;
-this.__ld=new qx.event.Timer(500);
-this.__ld.addListener(w,this._oninterval,this);
-},properties:{enabled:{init:true,check:y,apply:z},maxTotalRequests:{check:D,nullable:true},maxConcurrentRequests:{check:D,init:qx.bom.client.Transport.getMaxConcurrentRequestCount()},defaultTimeout:{check:D,init:5000}},members:{__la:null,__lb:null,__lc:null,__ld:null,getRequestQueue:function(){return this.__la;
-},getActiveQueue:function(){return this.__lb;
-},_debug:function(){var a;
-{};
-},_check:function(){this._debug();
-if(this.__lb.length==0&&this.__la.length==0){this.__ld.stop();
-}if(!this.getEnabled()){return;
-}if(this.__la.length==0||(this.__la[0].isAsynchronous()&&this.__lb.length>=this.getMaxConcurrentRequests())){return;
-}if(this.getMaxTotalRequests()!=null&&this.__lc>=this.getMaxTotalRequests()){return;
-}var E=this.__la.shift();
-var F=new qx.io.remote.Exchange(E);
-this.__lc++;
-this.__lb.push(F);
-this._debug();
-F.addListener(x,this._onsending,this);
-F.addListener(r,this._onreceiving,this);
-F.addListener(s,this._oncompleted,this);
-F.addListener(C,this._oncompleted,this);
-F.addListener(t,this._oncompleted,this);
-F.addListener(u,this._oncompleted,this);
-F._start=(new Date).valueOf();
-F.send();
-if(this.__la.length>0){this._check();
-}},_remove:function(N){qx.lang.Array.remove(this.__lb,N);
-N.dispose();
-this._check();
-},__le:0,_onsending:function(e){{};
-e.getTarget().getRequest()._onsending(e);
-},_onreceiving:function(e){e.getTarget().getRequest()._onreceiving(e);
-},_oncompleted:function(e){{};
-var d=e.getTarget().getRequest();
-var c=A+e.getType();
-try{if(d[c]){d[c](e);
-}}catch(J){var b=qx.dev.StackTrace.getStackTraceFromError(J);
-this.error("Request "+d+" handler "+c+" threw an error: "+J+"\nStack Trace:\n"+b);
-try{if(d[B]){var event=qx.event.Registration.createEvent(C,qx.event.type.Event);
-d[B](event);
-}}catch(G){}}finally{this._remove(e.getTarget());
-}},_oninterval:function(e){var m=this.__lb;
-
-if(m.length==0){this.__ld.stop();
-return;
-}var g=(new Date).valueOf();
-var k;
-var h;
-var l=this.getDefaultTimeout();
-var j;
-var f;
-
-for(var i=m.length-1;i>=0;i--){k=m[i];
-h=k.getRequest();
-
-if(h.isAsynchronous()){j=h.getTimeout();
-if(j==0){continue;
-}
-if(j==null){j=l;
-}f=g-k._start;
-
-if(f>j){this.warn("Timeout: transport "+k.toHashCode());
-this.warn(f+"ms > "+j+"ms");
-k.timeout();
-}}}},_applyEnabled:function(L,M){if(L){this._check();
-}this.__ld.setEnabled(L);
-},add:function(K){K.setState(o);
-
-if(K.isAsynchronous()){this.__la.push(K);
-}else{this.__la.unshift(K);
-}this._check();
-
-if(this.getEnabled()){this.__ld.start();
-}},abort:function(H){var I=H.getTransport();
-
-if(I){I.abort();
-}else if(qx.lang.Array.contains(this.__la,H)){qx.lang.Array.remove(this.__la,H);
-}}},destruct:function(){this._disposeArray(v);
-this._disposeObjects(n);
-this.__la=null;
-}});
-})();
-(function(){var v="failed",u="sending",t="completed",s="receiving",r="aborted",q="timeout",p="qx.event.type.Event",o="Connection dropped",n="qx.io.remote.Response",m="configured",bw="Unknown status code. ",bv="=",bu="qx.io.remote.transport.XmlHttp",bt="qx.io.remote.transport.Abstract",bs="Request-URL too large",br="MSHTML-specific HTTP status code",bq="Not available",bp="Precondition failed",bo="Server error",bn="Moved temporarily",C="&",D="qx.io.remote.Exchange",A="Possibly due to a cross-domain request?",B="Bad gateway",y="Gone",z="See other",w="Partial content",x="Server timeout",I="qx.io.remote.transport.Script",J="HTTP version not supported",S="Unauthorized",P="Possibly due to application URL using 'file:' protocol?",bb="Multiple choices",V="Payment required",bj="Not implemented",bg="Proxy authentication required",L="Length required",bm="_applyState",bl="changeState",bk="Not modified",K="qx.io.remote.Request",N="Connection closed by server",O="Moved permanently",R="_applyImplementation",T="Method not allowed",W="Forbidden",bd="Use proxy",bi="Ok",E="Conflict",F="Not found",M="Not acceptable",ba="Request time-out",Y="Bad request",X="No content",bf="file:",be="qx.io.remote.transport.Iframe",U="Request entity too large",bc="Unknown status code",k="Unsupported media type",bh="Gateway time-out",G="created",H="Out of resources",Q="undefined";
-qx.Class.define(D,{extend:qx.core.Object,construct:function(d){qx.core.Object.call(this);
-this.setRequest(d);
-d.setTransport(this);
-},events:{"sending":p,"receiving":p,"completed":n,"aborted":p,"failed":n,"timeout":n},statics:{typesOrder:[bu,be,I],typesReady:false,typesAvailable:{},typesSupported:{},registerType:function(bD,bE){qx.io.remote.Exchange.typesAvailable[bE]=bD;
-},initTypes:function(){if(qx.io.remote.Exchange.typesReady){return;
-}
-for(var bS in qx.io.remote.Exchange.typesAvailable){var bR=qx.io.remote.Exchange.typesAvailable[bS];
-
-if(bR.isSupported()){qx.io.remote.Exchange.typesSupported[bS]=bR;
-}}qx.io.remote.Exchange.typesReady=true;
-
-if(qx.lang.Object.isEmpty(qx.io.remote.Exchange.typesSupported)){throw new Error("No supported transport types were found!");
-}},canHandle:function(f,g,h){if(!qx.lang.Array.contains(f.handles.responseTypes,h)){return false;
-}
-for(var j in g){if(!f.handles[j]){return false;
-}}return true;
-},_nativeMap:{0:G,1:m,2:u,3:s,4:t},wasSuccessful:function(a,b,c){if(c){switch(a){case null:case 0:return true;
-case -1:return b<4;
-default:return typeof a===Q;
-}}else{switch(a){case -1:{};
-return b<4;
-case 200:case 304:return true;
-case 201:case 202:case 203:case 204:case 205:return true;
-case 206:{};
-return b!==4;
-case 300:case 301:case 302:case 303:case 305:case 400:case 401:case 402:case 403:case 404:case 405:case 406:case 407:case 408:case 409:case 410:case 411:case 412:case 413:case 414:case 415:case 500:case 501:case 502:case 503:case 504:case 505:{};
-return false;
-case 12002:case 12007:case 12029:case 12030:case 12031:case 12152:case 13030:{};
-return false;
-default:if(a>206&&a<300){return true;
-}qx.log.Logger.debug(this,"Unknown status code: "+a+" ("+b+")");
-return false;
-}}},statusCodeToString:function(bO){switch(bO){case -1:return bq;
-case 0:var bP=window.location.href;
-if(qx.lang.String.startsWith(bP.toLowerCase(),bf)){return (bw+P);
-}else{return (bw+A);
-}break;
-case 200:return bi;
-case 304:return bk;
-case 206:return w;
-case 204:return X;
-case 300:return bb;
-case 301:return O;
-case 302:return bn;
-case 303:return z;
-case 305:return bd;
-case 400:return Y;
-case 401:return S;
-case 402:return V;
-case 403:return W;
-case 404:return F;
-case 405:return T;
-case 406:return M;
-case 407:return bg;
-case 408:return ba;
-case 409:return E;
-case 410:return y;
-case 411:return L;
-case 412:return bp;
-case 413:return U;
-case 414:return bs;
-case 415:return k;
-case 500:return bo;
-case 501:return bj;
-case 502:return B;
-case 503:return H;
-case 504:return bh;
-case 505:return J;
-case 12002:return x;
-case 12029:return o;
-case 12030:return o;
-case 12031:return o;
-case 12152:return N;
-case 13030:return br;
-default:return bc;
-}}},properties:{request:{check:K,nullable:true},implementation:{check:bt,nullable:true,apply:R},state:{check:[m,u,s,t,r,q,v],init:m,event:bl,apply:bm}},members:{send:function(){var bI=this.getRequest();
-
-if(!bI){return this.error("Please attach a request object first");
-}qx.io.remote.Exchange.initTypes();
-var bG=qx.io.remote.Exchange.typesOrder;
-var bF=qx.io.remote.Exchange.typesSupported;
-var bK=bI.getResponseType();
-var bL={};
-
-if(bI.getAsynchronous()){bL.asynchronous=true;
-}else{bL.synchronous=true;
-}
-if(bI.getCrossDomain()){bL.crossDomain=true;
-}
-if(bI.getFileUpload()){bL.fileUpload=true;
-}for(var bJ in bI.getFormFields()){bL.programaticFormFields=true;
-break;
-}var bM,bH;
-
-for(var i=0,l=bG.length;i<l;i++){bM=bF[bG[i]];
-
-if(bM){if(!qx.io.remote.Exchange.canHandle(bM,bL,bK)){continue;
-}
-try{{};
-bH=new bM;
-this.setImplementation(bH);
-bH.setUseBasicHttpAuth(bI.getUseBasicHttpAuth());
-bH.send();
-return true;
-}catch(bQ){this.error("Request handler throws error");
-this.error(bQ);
-return;
-}}}this.error("There is no transport implementation available to handle this request: "+bI);
-},abort:function(){var bN=this.getImplementation();
-
-if(bN){{};
-bN.abort();
-}else{{};
-this.setState(r);
-}},timeout:function(){var bT=this.getImplementation();
-
-if(bT){this.warn("Timeout: implementation "+bT.toHashCode());
-bT.timeout();
-}else{this.warn("Timeout: forcing state to timeout");
-this.setState(q);
-}this.__lf();
-},__lf:function(){var bC=this.getRequest();
-
-if(bC){bC.setTimeout(0);
-}},_onsending:function(e){this.setState(u);
-},_onreceiving:function(e){this.setState(s);
-},_oncompleted:function(e){this.setState(t);
-},_onabort:function(e){this.setState(r);
-},_onfailed:function(e){this.setState(v);
-},_ontimeout:function(e){this.setState(q);
-},_applyImplementation:function(bV,bW){if(bW){bW.removeListener(u,this._onsending,this);
-bW.removeListener(s,this._onreceiving,this);
-bW.removeListener(t,this._oncompleted,this);
-bW.removeListener(r,this._onabort,this);
-bW.removeListener(q,this._ontimeout,this);
-bW.removeListener(v,this._onfailed,this);
-}
-if(bV){var bY=this.getRequest();
-bV.setUrl(bY.getUrl());
-bV.setMethod(bY.getMethod());
-bV.setAsynchronous(bY.getAsynchronous());
-bV.setUsername(bY.getUsername());
-bV.setPassword(bY.getPassword());
-bV.setParameters(bY.getParameters(false));
-bV.setFormFields(bY.getFormFields());
-bV.setRequestHeaders(bY.getRequestHeaders());
-if(bV instanceof qx.io.remote.transport.XmlHttp){bV.setParseJson(bY.getParseJson());
-}var cc=bY.getData();
-
-if(cc===null){var cd=bY.getParameters(true);
-var cb=[];
-
-for(var bX in cd){var ca=cd[bX];
-
-if(ca instanceof Array){for(var i=0;i<ca.length;i++){cb.push(encodeURIComponent(bX)+bv+encodeURIComponent(ca[i]));
-}}else{cb.push(encodeURIComponent(bX)+bv+encodeURIComponent(ca));
-}}
-if(cb.length>0){bV.setData(cb.join(C));
-}}else{bV.setData(cc);
-}bV.setResponseType(bY.getResponseType());
-bV.addListener(u,this._onsending,this);
-bV.addListener(s,this._onreceiving,this);
-bV.addListener(t,this._oncompleted,this);
-bV.addListener(r,this._onabort,this);
-bV.addListener(q,this._ontimeout,this);
-bV.addListener(v,this._onfailed,this);
-}},_applyState:function(bx,by){{};
-
-switch(bx){case u:this.fireEvent(u);
-break;
-case s:this.fireEvent(s);
-break;
-case t:case r:case q:case v:var bA=this.getImplementation();
-
-if(!bA){break;
-}this.__lf();
-
-if(this.hasListener(bx)){var bB=qx.event.Registration.createEvent(bx,qx.io.remote.Response);
-
-if(bx==t){var bz=bA.getResponseContent();
-bB.setContent(bz);
-if(bz===null){{};
-bx=v;
-}}else if(bx==v){bB.setContent(bA.getResponseContent());
-}bB.setStatusCode(bA.getStatusCode());
-bB.setResponseHeaders(bA.getResponseHeaders());
-this.dispatchEvent(bB);
-}this.setImplementation(null);
-bA.dispose();
-break;
-}}},settings:{"qx.ioRemoteDebug":false,"qx.ioRemoteDebugData":false},destruct:function(){var bU=this.getImplementation();
-
-if(bU){this.setImplementation(null);
-bU.dispose();
-}this.setRequest(null);
-}});
-})();
-(function(){var q="qx.event.type.Event",p="String",o="failed",n="timeout",m="created",l="aborted",k="sending",j="configured",i="receiving",h="completed",c="Object",g="Boolean",f="abstract",b="_applyState",a="GET",e="changeState",d="qx.io.remote.transport.Abstract";
-qx.Class.define(d,{type:f,extend:qx.core.Object,construct:function(){qx.core.Object.call(this);
-this.setRequestHeaders({});
-this.setParameters({});
-this.setFormFields({});
-},events:{"created":q,"configured":q,"sending":q,"receiving":q,"completed":q,"aborted":q,"failed":q,"timeout":q},properties:{url:{check:p,nullable:true},method:{check:p,nullable:true,init:a},asynchronous:{check:g,nullable:true,init:true},data:{check:p,nullable:true},username:{check:p,nullable:true},password:{check:p,nullable:true},state:{check:[m,j,k,i,h,l,n,o],init:m,event:e,apply:b},requestHeaders:{check:c,nullable:true},parameters:{check:c,nullable:true},formFields:{check:c,nullable:true},responseType:{check:p,nullable:true},useBasicHttpAuth:{check:g,nullable:true}},members:{send:function(){throw new Error("send is abstract");
-},abort:function(){{};
-this.setState(l);
-},timeout:function(){{};
-this.setState(n);
-},failed:function(){{};
-this.setState(o);
-},setRequestHeader:function(r,s){throw new Error("setRequestHeader is abstract");
-},getResponseHeader:function(t){throw new Error("getResponseHeader is abstract");
-},getResponseHeaders:function(){throw new Error("getResponseHeaders is abstract");
-},getStatusCode:function(){throw new Error("getStatusCode is abstract");
-},getStatusText:function(){throw new Error("getStatusText is abstract");
-},getResponseText:function(){throw new Error("getResponseText is abstract");
-},getResponseXml:function(){throw new Error("getResponseXml is abstract");
-},getFetchedLength:function(){throw new Error("getFetchedLength is abstract");
-},_applyState:function(u,v){{};
-
-switch(u){case m:this.fireEvent(m);
-break;
-case j:this.fireEvent(j);
-break;
-case k:this.fireEvent(k);
-break;
-case i:this.fireEvent(i);
-break;
-case h:this.fireEvent(h);
-break;
-case l:this.fireEvent(l);
-break;
-case o:this.fireEvent(o);
-break;
-case n:this.fireEvent(n);
-break;
-}return true;
-}},destruct:function(){this.setRequestHeaders(null);
-this.setParameters(null);
-this.setFormFields(null);
-}});
-})();
-(function(){var x="=",w="&",v="application/xml",u="application/json",t="text/html",s="qx.client",r="textarea",q="none",p="text/plain",o="text/javascript",R="",Q="completed",P="?",O="qx.io.remote.transport.Iframe",N="gecko",M="frame_",L="aborted",K="_data_",J="pre",I="javascript:void(0)",E="sending",F="form",C="failed",D='<iframe name="',A="mshtml",B="form_",y='"></iframe>',z="iframe",G="timeout",H="qx/static/blank.gif";
-qx.Class.define(O,{extend:qx.io.remote.transport.Abstract,construct:function(){qx.io.remote.transport.Abstract.call(this);
-var U=(new Date).valueOf();
-var V=M+U;
-var W=B+U;
-if(qx.core.Variant.isSet(s,A)){this.__lg=document.createElement(D+V+y);
-}else{this.__lg=document.createElement(z);
-}this.__lg.src=I;
-this.__lg.id=this.__lg.name=V;
-this.__lg.onload=qx.lang.Function.bind(this._onload,this);
-this.__lg.style.display=q;
-document.body.appendChild(this.__lg);
-this.__lh=document.createElement(F);
-this.__lh.target=V;
-this.__lh.id=this.__lh.name=W;
-this.__lh.style.display=q;
-document.body.appendChild(this.__lh);
-this.__li=document.createElement(r);
-this.__li.id=this.__li.name=K;
-this.__lh.appendChild(this.__li);
-this.__lg.onreadystatechange=qx.lang.Function.bind(this._onreadystatechange,this);
-},statics:{handles:{synchronous:false,asynchronous:true,crossDomain:false,fileUpload:true,programaticFormFields:true,responseTypes:[p,o,u,v,t]},isSupported:function(){return true;
-},_numericMap:{"uninitialized":1,"loading":2,"loaded":2,"interactive":3,"complete":4}},members:{__li:null,__lj:0,__lh:null,__lg:null,send:function(){var b=this.getMethod();
-var d=this.getUrl();
-var j=this.getParameters(false);
-var h=[];
-
-for(var c in j){var f=j[c];
-
-if(f instanceof Array){for(var i=0;i<f.length;i++){h.push(encodeURIComponent(c)+x+encodeURIComponent(f[i]));
-}}else{h.push(encodeURIComponent(c)+x+encodeURIComponent(f));
-}}
-if(h.length>0){d+=(d.indexOf(P)>=0?w:P)+h.join(w);
-}if(this.getData()===null){var j=this.getParameters(true);
-var h=[];
-
-for(var c in j){var f=j[c];
-
-if(f instanceof Array){for(var i=0;i<f.length;i++){h.push(encodeURIComponent(c)+x+encodeURIComponent(f[i]));
-}}else{h.push(encodeURIComponent(c)+x+encodeURIComponent(f));
-}}
-if(h.length>0){this.setData(h.join(w));
-}}var a=this.getFormFields();
-
-for(var c in a){var g=document.createElement(r);
-g.name=c;
-g.appendChild(document.createTextNode(a[c]));
-this.__lh.appendChild(g);
-}this.__lh.action=d;
-this.__lh.method=b;
-this.__li.appendChild(document.createTextNode(this.getData()));
-this.__lh.submit();
-this.setState(E);
-},_onload:qx.event.GlobalError.observeMethod(function(e){if(this.__lh.src){return;
-}this._switchReadyState(qx.io.remote.transport.Iframe._numericMap.complete);
-}),_onreadystatechange:qx.event.GlobalError.observeMethod(function(e){this._switchReadyState(qx.io.remote.transport.Iframe._numericMap[this.__lg.readyState]);
-}),_switchReadyState:function(n){switch(this.getState()){case Q:case L:case C:case G:this.warn("Ignore Ready State Change");
-return;
-}while(this.__lj<n){this.setState(qx.io.remote.Exchange._nativeMap[++this.__lj]);
-}},setRequestHeader:function(X,Y){},getResponseHeader:function(ba){return null;
-},getResponseHeaders:function(){return {};
-},getStatusCode:function(){return 200;
-},getStatusText:function(){return R;
-},getIframeWindow:function(){return qx.bom.Iframe.getWindow(this.__lg);
-},getIframeDocument:function(){return qx.bom.Iframe.getDocument(this.__lg);
-},getIframeBody:function(){return qx.bom.Iframe.getBody(this.__lg);
-},getIframeTextContent:function(){var m=this.getIframeBody();
-
-if(!m){return null;
-}
-if(!m.firstChild){return R;
-}if(m.firstChild.tagName&&m.firstChild.tagName.toLowerCase()==J){return m.firstChild.innerHTML;
-}else{return m.innerHTML;
-}},getIframeHtmlContent:function(){var k=this.getIframeBody();
-return k?k.innerHTML:null;
-},getFetchedLength:function(){return 0;
-},getResponseContent:function(){if(this.getState()!==Q){{};
-return null;
-}{};
-var l=this.getIframeTextContent();
-
-switch(this.getResponseType()){case p:{};
-return l;
-break;
-case t:l=this.getIframeHtmlContent();
-{};
-return l;
-break;
-case u:l=this.getIframeHtmlContent();
-{};
-
-try{return l&&l.length>0?qx.util.Json.parse(l,false):null;
-}catch(T){return this.error("Could not execute json: ("+l+")",T);
-}case o:l=this.getIframeHtmlContent();
-{};
-
-try{return l&&l.length>0?window.eval(l):null;
-}catch(S){return this.error("Could not execute javascript: ("+l+")",S);
-}case v:l=this.getIframeDocument();
-{};
-return l;
-default:this.warn("No valid responseType specified ("+this.getResponseType()+")!");
-return null;
-}}},defer:function(){qx.io.remote.Exchange.registerType(qx.io.remote.transport.Iframe,O);
-},destruct:function(){if(this.__lg){this.__lg.onload=null;
-this.__lg.onreadystatechange=null;
-if(qx.core.Variant.isSet(s,N)){this.__lg.src=qx.util.ResourceManager.getInstance().toUri(H);
-}document.body.removeChild(this.__lg);
-}
-if(this.__lh){document.body.removeChild(this.__lh);
-}this.__lg=this.__lh=this.__li=null;
-}});
-})();
-(function(){var i="qx.event.handler.Iframe",h="load",g="iframe";
-qx.Class.define(i,{extend:qx.core.Object,implement:qx.event.IEventHandler,statics:{PRIORITY:qx.event.Registration.PRIORITY_NORMAL,SUPPORTED_TYPES:{load:1},TARGET_CHECK:qx.event.IEventHandler.TARGET_DOMNODE,IGNORE_CAN_HANDLE:false,onevent:qx.event.GlobalError.observeMethod(function(j){qx.event.Registration.fireEvent(j,h);
-})},members:{canHandleEvent:function(k,l){return k.tagName.toLowerCase()===g;
-},registerEvent:function(a,b,c){},unregisterEvent:function(d,e,f){}},defer:function(m){qx.event.Registration.addHandler(m);
-}});
-})();
-(function(){var i="qx.client",h="webkit",g="body",f="iframe",e="qx.bom.Iframe";
-qx.Class.define(e,{statics:{DEFAULT_ATTRIBUTES:{onload:"qx.event.handler.Iframe.onevent(this)",frameBorder:0,frameSpacing:0,marginWidth:0,marginHeight:0,hspace:0,vspace:0,border:0,allowTransparency:true},create:function(j,k){var j=j?qx.lang.Object.clone(j):{};
-var l=qx.bom.Iframe.DEFAULT_ATTRIBUTES;
-
-for(var m in l){if(j[m]==null){j[m]=l[m];
-}}return qx.bom.Element.create(f,j,k);
-},getWindow:qx.core.Variant.select(i,{"mshtml|gecko":function(C){try{return C.contentWindow;
-}catch(n){return null;
-}},"default":function(A){try{var B=this.getDocument(A);
-return B?B.defaultView:null;
-}catch(r){return null;
-}}}),getDocument:qx.core.Variant.select(i,{"mshtml":function(c){try{var d=this.getWindow(c);
-return d?d.document:null;
-}catch(s){return null;
-}},"default":function(q){try{return q.contentDocument;
-}catch(D){return null;
-}}}),getBody:function(o){try{var p=this.getDocument(o);
-return p?p.getElementsByTagName(g)[0]:null;
-}catch(b){return null;
-}},setSource:function(u,v){try{if(this.getWindow(u)&&qx.dom.Hierarchy.isRendered(u)){try{if(qx.core.Variant.isSet(i,h)&&qx.bom.client.Platform.MAC){var w=this.getContentWindow();
-
-if(w){w.stop();
-}}this.getWindow(u).location.replace(v);
-}catch(x){u.src=v;
-}}else{u.src=v;
-}}catch(t){qx.log.Logger.warn("Iframe source could not be set!");
-}},queryCurrentUrl:function(y){var z=this.getDocument(y);
-
-try{if(z&&z.location){return z.location.href;
-}}catch(a){}return null;
-}}});
-})();
-(function(){var P=",",O="",N="string",M="null",L="new Date(Date.UTC(",K='"',J="))",I=':',H="qx.jsonDebugging",G='-',br='\\u00',bq="__lw",bp='\\\\',bo='\\f',bn="__ln",bm='\\"',bl='Z',bk='T',bj="}",bi='(',W='.',X="{",U='\\r',V=":",S="__lp",T='\\t',Q="The default returned parsed date format will change. Use the CONVERT_DATES flag to change the behavior.",R="]",Y="__lm",ba="[",bd="__lo",bc="__lx",bf="qx.jsonEncodeUndefined",be='\\b',bh="qx.util.Json",bg=')',bb='\\n';
-qx.Class.define(bh,{statics:{__lk:null,BEAUTIFYING_INDENT:"  ",BEAUTIFYING_LINE_END:"\n",CONVERT_DATES:null,__ll:{"function":Y,"boolean":bn,"number":bd,"string":S,"object":bq,"undefined":bc},__lm:function(bs,bt){return String(bs);
-},__ln:function(bx,by){return String(bx);
-},__lo:function(C,D){return isFinite(C)?String(C):M;
-},__lp:function(e,f){var g;
-
-if(/["\\\x00-\x1f]/.test(e)){g=e.replace(/([\x00-\x1f\\"])/g,qx.util.Json.__lr);
-}else{g=e;
-}return K+g+K;
-},__lq:{'\b':be,'\t':T,'\n':bb,'\f':bo,'\r':U,'"':bm,'\\':bp},__lr:function(a,b){var bD=qx.util.Json.__lq[b];
-
-if(bD){return bD;
-}bD=b.charCodeAt();
-return br+Math.floor(bD/16).toString(16)+(bD%16).toString(16);
-},__ls:function(v,w){var y=[],B=true,A,x;
-var z=qx.util.Json.__lz;
-y.push(ba);
-
-if(z){qx.util.Json.__lt+=qx.util.Json.BEAUTIFYING_INDENT;
-y.push(qx.util.Json.__lt);
-}
-for(var i=0,l=v.length;i<l;i++){x=v[i];
-A=this.__ll[typeof x];
-
-if(A){x=this[A](x,i+O);
-
-if(typeof x==N){if(!B){y.push(P);
-
-if(z){y.push(qx.util.Json.__lt);
-}}y.push(x);
-B=false;
-}}}
-if(z){qx.util.Json.__lt=qx.util.Json.__lt.substring(0,qx.util.Json.__lt.length-qx.util.Json.BEAUTIFYING_INDENT.length);
-y.push(qx.util.Json.__lt);
-}y.push(R);
-return y.join(O);
-},__lu:function(q,r){if(qx.util.Json.CONVERT_DATES===null){qx.log.Logger.deprecatedMethodWarning(arguments.callee,Q);
-var t=q.getUTCFullYear()+P+q.getUTCMonth()+P+q.getUTCDate()+P+q.getUTCHours()+P+q.getUTCMinutes()+P+q.getUTCSeconds()+P+q.getUTCMilliseconds();
-return L+t+J;
-}else if(!qx.util.Json.CONVERT_DATES){if(q.toJSON){return q.toJSON();
-}var s=qx.util.format.NumberFormat.getInstance();
-s.setMinimumIntegerDigits(2);
-var u=q.getUTCFullYear()+G+s.format(q.getUTCMonth()+1)+G+s.format(q.getUTCDate())+bk+s.format(q.getUTCHours())+I+s.format(q.getUTCMinutes())+I+s.format(q.getUTCSeconds())+W;
-s.setMinimumIntegerDigits(3);
-return u+s.format(q.getUTCMilliseconds())+bl;
-}else{var t=q.getUTCFullYear()+P+q.getUTCMonth()+P+q.getUTCDate()+P+q.getUTCHours()+P+q.getUTCMinutes()+P+q.getUTCSeconds()+P+q.getUTCMilliseconds();
-return L+t+J;
-}},__lv:function(h,j){var n=[],p=true,m,k;
-var o=qx.util.Json.__lz;
-n.push(X);
-
-if(o){qx.util.Json.__lt+=qx.util.Json.BEAUTIFYING_INDENT;
-n.push(qx.util.Json.__lt);
-}
-for(var j in h){k=h[j];
-m=this.__ll[typeof k];
-
-if(m){k=this[m](k,j);
-
-if(typeof k==N){if(!p){n.push(P);
-
-if(o){n.push(qx.util.Json.__lt);
-}}n.push(this.__lp(j),V,k);
-p=false;
-}}}
-if(o){qx.util.Json.__lt=qx.util.Json.__lt.substring(0,qx.util.Json.__lt.length-qx.util.Json.BEAUTIFYING_INDENT.length);
-n.push(qx.util.Json.__lt);
-}n.push(bj);
-return n.join(O);
-},__lw:function(E,F){if(E){if(qx.lang.Type.isFunction(E.toJSON)&&E.toJSON!==this.__lk){return this.__ly(E.toJSON(F),F);
-}else if(qx.lang.Type.isDate(E)){return this.__lu(E,F);
-}else if(qx.lang.Type.isArray(E)){return this.__ls(E,F);
-}else if(qx.lang.Type.isObject(E)){return this.__lv(E,F);
-}return O;
-}return M;
-},__lx:function(c,d){if(qx.core.Setting.get(bf)){return M;
-}},__ly:function(bA,bB){return this[this.__ll[typeof bA]](bA,bB);
-},stringify:function(bE,bF){this.__lz=bF;
-this.__lt=this.BEAUTIFYING_LINE_END;
-var bG=this.__ly(bE,O);
-
-if(typeof bG!=N){bG=null;
-}if(qx.core.Setting.get(H)){qx.log.Logger.debug(this,"JSON request: "+bG);
-}return bG;
-},parse:function(bu,bv){if(bv===undefined){bv=true;
-}
-if(qx.core.Setting.get(H)){qx.log.Logger.debug(this,"JSON response: "+bu);
-}
-if(bv){if(/[^,:{}\[\]0-9.\-+Eaeflnr-u \n\r\t]/.test(bu.replace(/"(\\.|[^"\\])*"/g,O))){throw new Error("Could not parse JSON string!");
-}}
-try{var bw=(bu&&bu.length>0)?eval(bi+bu+bg):null;
-return bw;
-}catch(bz){throw new Error("Could not evaluate JSON string: "+bz.message);
-}}},settings:{"qx.jsonEncodeUndefined":true,"qx.jsonDebugging":false},defer:function(bC){bC.__lk=Date.prototype.toJSON;
-}});
-})();
-(function(){var b="qx.util.format.IFormat";
-qx.Interface.define(b,{members:{format:function(c){},parse:function(a){}}});
-})();
-(function(){var E="",D="Number",C="-",B="0",A="String",z="changeNumberFormat",y='(',x="g",w="Boolean",v="$",o="NaN",u='([0-9]{1,3}(?:',r='{0,1}[0-9]{3}){0,})',n='\\d+){0,1}',m="qx.util.format.NumberFormat",q="Infinity",p="^",s=".",l="-Infinity",t='([-+]){0,1}';
-qx.Class.define(m,{extend:qx.core.Object,implement:qx.util.format.IFormat,construct:function(k){qx.core.Object.call(this);
-this.__lA=k;
-},statics:{getIntegerInstance:function(){var a=qx.util.format.NumberFormat;
-
-if(a._integerInstance==null){a._integerInstance=new a();
-a._integerInstance.setMaximumFractionDigits(0);
-}return a._integerInstance;
-},getInstance:function(){if(!this._instance){this._instance=new this;
-}return this._instance;
-}},properties:{minimumIntegerDigits:{check:D,init:0},maximumIntegerDigits:{check:D,nullable:true},minimumFractionDigits:{check:D,init:0},maximumFractionDigits:{check:D,nullable:true},groupingUsed:{check:w,init:true},prefix:{check:A,init:E,event:z},postfix:{check:A,init:E,event:z}},members:{__lA:null,format:function(F){switch(F){case Infinity:return q;
-case -Infinity:return l;
-case NaN:return o;
-}var J=(F<0);
-
-if(J){F=-F;
-}
-if(this.getMaximumFractionDigits()!=null){var Q=Math.pow(10,this.getMaximumFractionDigits());
-F=Math.round(F*Q)/Q;
-}var P=String(Math.floor(F)).length;
-var G=E+F;
-var M=G.substring(0,P);
-
-while(M.length<this.getMinimumIntegerDigits()){M=B+M;
-}
-if(this.getMaximumIntegerDigits()!=null&&M.length>this.getMaximumIntegerDigits()){M=M.substring(M.length-this.getMaximumIntegerDigits());
-}var L=G.substring(P+1);
-
-while(L.length<this.getMinimumFractionDigits()){L+=B;
-}
-if(this.getMaximumFractionDigits()!=null&&L.length>this.getMaximumFractionDigits()){L=L.substring(0,this.getMaximumFractionDigits());
-}if(this.getGroupingUsed()){var I=M;
-M=E;
-var O;
-
-for(O=I.length;O>3;O-=3){M=E+qx.locale.Number.getGroupSeparator(this.__lA)+I.substring(O-3,O)+M;
-}M=I.substring(0,O)+M;
-}var K=this.getPrefix()?this.getPrefix():E;
-var H=this.getPostfix()?this.getPostfix():E;
-var N=K+(J?C:E)+M;
-
-if(L.length>0){N+=E+qx.locale.Number.getDecimalSeparator(this.__lA)+L;
-}N+=H;
-return N;
-},parse:function(b){var g=qx.lang.String.escapeRegexpChars(qx.locale.Number.getGroupSeparator(this.__lA)+E);
-var e=qx.lang.String.escapeRegexpChars(qx.locale.Number.getDecimalSeparator(this.__lA)+E);
-var c=new RegExp(p+qx.lang.String.escapeRegexpChars(this.getPrefix())+t+u+g+r+y+e+n+qx.lang.String.escapeRegexpChars(this.getPostfix())+v);
-var f=c.exec(b);
-
-if(f==null){throw new Error("Number string '"+b+"' does not match the number format");
-}var h=(f[1]==C);
-var j=f[2];
-var i=f[3];
-j=j.replace(new RegExp(g,x),E);
-var d=(h?C:E)+j;
-
-if(i!=null&&i.length!=0){i=i.replace(new RegExp(e),E);
-d+=s+i;
-}return parseFloat(d);
-}}});
-})();
-(function(){var d="cldr_number_decimal_separator",c="cldr_number_percent_format",b="qx.locale.Number",a="cldr_number_group_separator";
-qx.Class.define(b,{statics:{getDecimalSeparator:function(f){return qx.locale.Manager.getInstance().localize(d,[],f);
-},getGroupSeparator:function(e){return qx.locale.Manager.getInstance().localize(a,[],e);
-},getPercentFormat:function(g){return qx.locale.Manager.getInstance().localize(c,[],g);
-}}});
-})();
-(function(){var A="&",z="=",y="?",x="application/json",w="completed",v="text/plain",u="text/javascript",t="qx.io.remote.transport.Script",s="",r="_ScriptTransport_data",m="script",q="timeout",p="_ScriptTransport_",l="_ScriptTransport_id",k="aborted",o="utf-8",n="failed";
-qx.Class.define(t,{extend:qx.io.remote.transport.Abstract,construct:function(){qx.io.remote.transport.Abstract.call(this);
-var B=++qx.io.remote.transport.Script.__lB;
-
-if(B>=2000000000){qx.io.remote.transport.Script.__lB=B=1;
-}this.__lC=null;
-this.__lB=B;
-},statics:{__lB:0,_instanceRegistry:{},ScriptTransport_PREFIX:p,ScriptTransport_ID_PARAM:l,ScriptTransport_DATA_PARAM:r,handles:{synchronous:false,asynchronous:true,crossDomain:true,fileUpload:false,programaticFormFields:false,responseTypes:[v,u,x]},isSupported:function(){return true;
-},_numericMap:{"uninitialized":1,"loading":2,"loaded":2,"interactive":3,"complete":4},_requestFinished:qx.event.GlobalError.observeMethod(function(C,content){var D=qx.io.remote.transport.Script._instanceRegistry[C];
-
-if(D==null){{};
-}else{D._responseContent=content;
-D._switchReadyState(qx.io.remote.transport.Script._numericMap.complete);
-}})},members:{__lD:0,__lC:null,__lB:null,send:function(){var e=this.getUrl();
-e+=(e.indexOf(y)>=0?A:y)+qx.io.remote.transport.Script.ScriptTransport_ID_PARAM+z+this.__lB;
-var h=this.getParameters();
-var g=[];
-
-for(var d in h){if(d.indexOf(qx.io.remote.transport.Script.ScriptTransport_PREFIX)==0){this.error("Illegal parameter name. The following prefix is used internally by qooxdoo): "+qx.io.remote.transport.Script.ScriptTransport_PREFIX);
-}var f=h[d];
-
-if(f instanceof Array){for(var i=0;i<f.length;i++){g.push(encodeURIComponent(d)+z+encodeURIComponent(f[i]));
-}}else{g.push(encodeURIComponent(d)+z+encodeURIComponent(f));
-}}
-if(g.length>0){e+=A+g.join(A);
-}var c=this.getData();
-
-if(c!=null){e+=A+qx.io.remote.transport.Script.ScriptTransport_DATA_PARAM+z+encodeURIComponent(c);
-}qx.io.remote.transport.Script._instanceRegistry[this.__lB]=this;
-this.__lC=document.createElement(m);
-this.__lC.charset=o;
-this.__lC.src=e;
-{};
-document.body.appendChild(this.__lC);
-},_switchReadyState:function(b){switch(this.getState()){case w:case k:case n:case q:this.warn("Ignore Ready State Change");
-return;
-}while(this.__lD<b){this.setState(qx.io.remote.Exchange._nativeMap[++this.__lD]);
-}},setRequestHeader:function(E,F){},getResponseHeader:function(a){return null;
-},getResponseHeaders:function(){return {};
-},getStatusCode:function(){return 200;
-},getStatusText:function(){return s;
-},getFetchedLength:function(){return 0;
-},getResponseContent:function(){if(this.getState()!==w){{};
-return null;
-}{};
-
-switch(this.getResponseType()){case v:case x:case u:{};
-var j=this._responseContent;
-return (j===0?0:(j||null));
-default:this.warn("No valid responseType specified ("+this.getResponseType()+")!");
-return null;
-}}},defer:function(){qx.io.remote.Exchange.registerType(qx.io.remote.transport.Script,t);
-},destruct:function(){if(this.__lC){delete qx.io.remote.transport.Script._instanceRegistry[this.__lB];
-document.body.removeChild(this.__lC);
-}this.__lC=this._responseContent=null;
-}});
-})();
-(function(){var M="failed",L="completed",K="=",J="aborted",I="",H="sending",G="&",F="configured",E="timeout",D="application/xml",bj="qx.io.remote.transport.XmlHttp",bi="application/json",bh="text/html",bg="qx.client",bf="receiving",be="text/plain",bd="text/javascript",bc="?",bb="created",ba="Boolean",T='Referer',U='Basic ',R="\n</pre>",S="string",P='Authorization',Q="<pre>Could not execute json: \n",N="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",O=':',V="parseerror",W="file:",Y="webkit",X="object";
-qx.Class.define(bj,{extend:qx.io.remote.transport.Abstract,statics:{handles:{synchronous:true,asynchronous:true,crossDomain:false,fileUpload:false,programaticFormFields:false,responseTypes:[be,bd,bi,D,bh]},requestObjects:[],requestObjectCount:0,createRequestObject:qx.core.Variant.select(bg,{"default":function(){return new XMLHttpRequest;
-},"mshtml":function(){if(window.ActiveXObject&&qx.xml.Document.XMLHTTP){return new ActiveXObject(qx.xml.Document.XMLHTTP);
-}
-if(window.XMLHttpRequest){return new XMLHttpRequest;
-}}}),isSupported:function(){return !!this.createRequestObject();
-}},properties:{parseJson:{check:ba,init:true}},members:{__lE:false,__lF:0,__lG:null,getRequest:function(){if(this.__lG===null){this.__lG=qx.io.remote.transport.XmlHttp.createRequestObject();
-this.__lG.onreadystatechange=qx.lang.Function.bind(this._onreadystatechange,this);
-}return this.__lG;
-},send:function(){this.__lF=0;
-var bE=this.getRequest();
-var bA=this.getMethod();
-var bH=this.getAsynchronous();
-var bG=this.getUrl();
-var bC=(window.location.protocol===W&&!(/^http(s){0,1}\:/.test(bG)));
-this.__lE=bC;
-var bK=this.getParameters(false);
-var bI=[];
-
-for(var bB in bK){var bF=bK[bB];
-
-if(bF instanceof Array){for(var i=0;i<bF.length;i++){bI.push(encodeURIComponent(bB)+K+encodeURIComponent(bF[i]));
-}}else{bI.push(encodeURIComponent(bB)+K+encodeURIComponent(bF));
-}}
-if(bI.length>0){bG+=(bG.indexOf(bc)>=0?G:bc)+bI.join(G);
-}if(this.getData()===null){var bK=this.getParameters(true);
-var bI=[];
-
-for(var bB in bK){var bF=bK[bB];
-
-if(bF instanceof Array){for(var i=0;i<bF.length;i++){bI.push(encodeURIComponent(bB)+K+encodeURIComponent(bF[i]));
-}}else{bI.push(encodeURIComponent(bB)+K+encodeURIComponent(bF));
-}}
-if(bI.length>0){this.setData(bI.join(G));
-}}var bJ=function(j){var p=N;
-var u=I;
-var n,m,k;
-var q,r,t,o;
-var i=0;
-
-do{n=j.charCodeAt(i++);
-m=j.charCodeAt(i++);
-k=j.charCodeAt(i++);
-q=n>>2;
-r=((n&3)<<4)|(m>>4);
-t=((m&15)<<2)|(k>>6);
-o=k&63;
-
-if(isNaN(m)){t=o=64;
-}else if(isNaN(k)){o=64;
-}u+=p.charAt(q)+p.charAt(r)+p.charAt(t)+p.charAt(o);
-}while(i<j.length);
-return u;
-};
-try{if(this.getUsername()){if(this.getUseBasicHttpAuth()){bE.open(bA,bG,bH);
-bE.setRequestHeader(P,U+bJ(this.getUsername()+O+this.getPassword()));
-}else{bE.open(bA,bG,bH,this.getUsername(),this.getPassword());
-}}else{bE.open(bA,bG,bH);
-}}catch(z){this.error("Failed with exception: "+z);
-this.failed();
-return;
-}if(!qx.core.Variant.isSet(bg,Y)){bE.setRequestHeader(T,window.location.href);
-}var bD=this.getRequestHeaders();
-
-for(var bB in bD){bE.setRequestHeader(bB,bD[bB]);
-}try{{};
-bE.send(this.getData());
-}catch(A){if(bC){this.failedLocally();
-}else{this.error("Failed to send data: "+A,"send");
-this.failed();
-}return;
-}if(!bH){this._onreadystatechange();
-}},failedLocally:function(){if(this.getState()===M){return;
-}this.warn("Could not load from file: "+this.getUrl());
-this.failed();
-},_onreadystatechange:qx.event.GlobalError.observeMethod(function(e){switch(this.getState()){case L:case J:case M:case E:{};
-return;
-}var f=this.getReadyState();
-
-if(f==4){if(!qx.io.remote.Exchange.wasSuccessful(this.getStatusCode(),f,this.__lE)){if(this.getState()===F){this.setState(H);
-}this.failed();
-return;
-}}while(this.__lF<f){this.setState(qx.io.remote.Exchange._nativeMap[++this.__lF]);
-}}),getReadyState:function(){var bk=null;
-
-try{bk=this.getRequest().readyState;
-}catch(bm){}return bk;
-},setRequestHeader:function(bO,bP){this.getRequestHeaders()[bO]=bP;
-},getResponseHeader:function(bn){var bo=null;
-
-try{bo=this.getRequest().getResponseHeader(bn)||null;
-}catch(bu){}return bo;
-},getStringResponseHeaders:function(){var by=null;
-
-try{var bx=this.getRequest().getAllResponseHeaders();
-
-if(bx){by=bx;
-}}catch(bl){}return by;
-},getResponseHeaders:function(){var x=this.getStringResponseHeaders();
-var y={};
-
-if(x){var v=x.split(/[\r\n]+/g);
-
-for(var i=0,l=v.length;i<l;i++){var w=v[i].match(/^([^:]+)\s*:\s*(.+)$/i);
-
-if(w){y[w[1]]=w[2];
-}}}return y;
-},getStatusCode:function(){var b=-1;
-
-try{b=this.getRequest().status;
-}catch(bw){}return b;
-},getStatusText:function(){var a=I;
-
-try{a=this.getRequest().statusText;
-}catch(c){}return a;
-},getResponseText:function(){var B=null;
-
-try{B=this.getRequest().responseText;
-}catch(bq){B=null;
-}return B;
-},getResponseXml:function(){var bN=null;
-var bL=this.getStatusCode();
-var bM=this.getReadyState();
-
-if(qx.io.remote.Exchange.wasSuccessful(bL,bM,this.__lE)){try{bN=this.getRequest().responseXML;
-}catch(bp){}}if(typeof bN==X&&bN!=null){if(!bN.documentElement){var s=String(this.getRequest().responseText).replace(/<\?xml[^\?]*\?>/,I);
-bN.loadXML(s);
-}if(!bN.documentElement){throw new Error("Missing Document Element!");
-}
-if(bN.documentElement.tagName==V){throw new Error("XML-File is not well-formed!");
-}}else{throw new Error("Response was not a valid xml document ["+this.getRequest().responseText+"]");
-}return bN;
-},getFetchedLength:function(){var C=this.getResponseText();
-return typeof C==S?C.length:0;
-},getResponseContent:function(){var br=this.getState();
-
-if(br!==L&&br!=M){{};
-return null;
-}{};
-var bt=this.getResponseText();
-
-if(br==M){{};
-return bt;
-}
-switch(this.getResponseType()){case be:case bh:{};
-return bt;
-case bi:{};
-
-try{if(bt&&bt.length>0){var bs;
-
-if(this.getParseJson()){bs=qx.util.Json.parse(bt,false);
-bs=(bs===0?0:(bs||null));
-}else{bs=bt;
-}return bs;
-}else{return null;
-}}catch(bv){this.error("Could not execute json: ["+bt+"]",bv);
-return Q+bt+R;
-}case bd:{};
-
-try{if(bt&&bt.length>0){var bs=window.eval(bt);
-return (bs===0?0:(bs||null));
-}else{return null;
-}}catch(bz){this.error("Could not execute javascript: ["+bt+"]",bz);
-return null;
-}case D:bt=this.getResponseXml();
-{};
-return (bt===0?0:(bt||null));
-default:this.warn("No valid responseType specified ("+this.getResponseType()+")!");
-return null;
-}},_applyState:function(g,h){{};
-
-switch(g){case bb:this.fireEvent(bb);
-break;
-case F:this.fireEvent(F);
-break;
-case H:this.fireEvent(H);
-break;
-case bf:this.fireEvent(bf);
-break;
-case L:this.fireEvent(L);
-break;
-case M:this.fireEvent(M);
-break;
-case J:this.getRequest().abort();
-this.fireEvent(J);
-break;
-case E:this.getRequest().abort();
-this.fireEvent(E);
-break;
-}}},defer:function(){qx.io.remote.Exchange.registerType(qx.io.remote.transport.XmlHttp,bj);
-},destruct:function(){var d=this.getRequest();
-
-if(d){d.onreadystatechange=qx.lang.Function.empty;
-switch(d.readyState){case 1:case 2:case 3:d.abort();
-}}this.__lG=null;
-}});
-})();
-(function(){var c="Integer",b="Object",a="qx.io.remote.Response";
-qx.Class.define(a,{extend:qx.event.type.Event,properties:{state:{check:c,nullable:true},statusCode:{check:c,nullable:true},content:{nullable:true},responseHeaders:{check:b,nullable:true}},members:{clone:function(f){var g=qx.event.type.Event.prototype.clone.call(this,f);
-g.setType(this.getType());
-g.setState(this.getState());
-g.setStatusCode(this.getStatusCode());
-g.setContent(this.getContent());
-g.setResponseHeaders(this.getResponseHeaders());
-return g;
-},getResponseHeader:function(d){var e=this.getResponseHeaders();
-
-if(e){return e[d]||null;
-}return null;
-}}});
-})();
-(function(){var g="1.com",f="2.com",e="abcdef",d="dropnode.TestUsers",c="ghijkl",b="TestFile2.jpeg",a="TestFile.jpeg";
-qx.Class.define(d,{extend:qx.core.Object,statics:{shared_files:[{name:a,encodedName:e,url:g,recipients:[{progress:10},{progress:50},{progress:0}]},{name:b,encodedName:c,url:f,recipients:[{progress:15},{progress:100}]}]}});
-})();
-(function(){var k="dropnode.FileTreeUI",j="URL",i="Empty row count in tree",h="changeMessage",g="File Name",f="Negative row index",e="Downloads";
-qx.Class.define(k,{extend:qx.core.Object,properties:{message:{nullable:true,event:h},file_tree:{nullable:true},base_container:{nullable:true},event_bus:{nullable:true}},members:{initialize:function(l){this.setEvent_bus(l);
-},init_gui:function(){this.setBase_container(new qx.ui.container.Composite(new qx.ui.layout.VBox()));
-this.setFile_tree(new qx.ui.treevirtual.TreeVirtual([g,j,e]));
-this.getFile_tree().setFocusCellOnMouseMove(false);
-this.getBase_container().add(this.getFile_tree());
-},goToFocusedRow:function(){this.goToRow(this.getFile_tree().getFocusedRow());
-},goToRow:function(a){var d=this;
-var b=function(r){if(r>=0){if(d.getFile_tree().getDataModel().getRowCount()>0){if(r<=(d.getFile_tree().getDataModel().getRowCount()-1)){return true;
-}else return false;
-}else throw i;
-}else throw f;
-};
-
-if(b(a)){var c=this.getFile_tree().getDataModel().getNodeFromRow(a);
-this.getFile_tree().getSelectionModel().setSelectionInterval(a,a);
-}else{this.goToRow(a-1);
-}}}});
-})();
 (function(){var bw="Boolean",bv="column-button",bu="Function",bt="qx.event.type.Data",bs="statusbar",br="qx.ui.table.pane.CellEvent",bq="function",bp="__lR",bo="PageUp",bn="dataChanged",cM='"',cL="changeLocale",cK="changeSelection",cJ="qx.dynlocale",cI="Enter",cH="metaDataChanged",cG="on",cF="_applyStatusBarVisible",cE="columnVisibilityMenuCreateStart",cD="blur",bD="qx.ui.table.Table",bE="columnVisibilityMenuCreateEnd",bB="changeVisible",bC="_applyResetSelectionOnHeaderClick",bz="_applyMetaColumnCounts",bA="focus",bx="changeDataRowRenderer",by="changeHeaderCellHeight",bL="Escape",bM="A",cf="changeSelectionModel",cb="Left",cn="Down",ci="Integer",cz="_applyHeaderCellHeight",ct="visibilityChanged",bT="qx.ui.table.ITableModel",cC="orderChanged",cB="_applySelectionModel",cA="menu-button",bR="menu",bW="_applyAdditionalStatusBarText",bY="_applyFocusCellOnMouseMove",cd="table",cg="_applyColumnVisibilityButtonVisible",cj="changeTableModel",cp="qx.event.type.Event",cv="tableWidthChanged",bF="_applyHeaderCellsVisible",bG="Object",bV="_applyShowCellFocusIndicator",cm="resize",cl="verticalScrollBarChanged",ck="changeScrollY",cr="_applyTableModel",cq="End",ch="_applyKeepFirstVisibleRowComplete",co="widthChanged",bk="one of one row",cu="Home",bH="_applyRowHeight",bI="F2",cc="appear",bl="Up",bm="%1 rows",bQ="qx.ui.table.selection.Model",bJ="one row",bK="__lP",bP="PageDown",ce="%1 of %2 rows",cx="keypress",cw="changeRowHeight",bX="__lQ",cy="Number",bS="__lH",cs="header",bN="__lI",bO="qx.ui.table.IRowRenderer",bU="Right",ca="Space";
 qx.Class.define(bD,{extend:qx.ui.core.Widget,construct:function(eM,eN){qx.ui.core.Widget.call(this);
 if(!eN){eN={};
@@ -11816,6 +9905,225 @@ br.push(bp);
 }}return br;
 },setOverflow:function(s){if(s!=bd){throw new Error("Tree overflow must be hidden.  "+"The internal elements of it will scroll.");
 }}}});
+})();
+(function(){var R="_applyLayoutChange",Q="top",P="left",O="middle",N="Decorator",M="center",L="_applyReversed",K="bottom",J="qx.ui.layout.VBox",I="Integer",G="right",H="Boolean";
+qx.Class.define(J,{extend:qx.ui.layout.Abstract,construct:function(S,T,U){qx.ui.layout.Abstract.call(this);
+
+if(S){this.setSpacing(S);
+}
+if(T){this.setAlignY(T);
+}
+if(U){this.setSeparator(U);
+}},properties:{alignY:{check:[Q,O,K],init:Q,apply:R},alignX:{check:[P,M,G],init:P,apply:R},spacing:{check:I,init:0,apply:R},separator:{check:N,nullable:true,apply:R},reversed:{check:H,init:false,apply:L}},members:{__kz:null,__kA:null,__kB:null,__kC:null,_applyReversed:function(){this._invalidChildrenCache=true;
+this._applyLayoutChange();
+},__kD:function(){var F=this._getLayoutChildren();
+var length=F.length;
+var B=false;
+var A=this.__kz&&this.__kz.length!=length&&this.__kA&&this.__kz;
+var D;
+var C=A?this.__kz:new Array(length);
+var E=A?this.__kA:new Array(length);
+if(this.getReversed()){F=F.concat().reverse();
+}for(var i=0;i<length;i++){D=F[i].getLayoutProperties();
+
+if(D.height!=null){C[i]=parseFloat(D.height)/100;
+}
+if(D.flex!=null){E[i]=D.flex;
+B=true;
+}else{E[i]=0;
+}}if(!A){this.__kz=C;
+this.__kA=E;
+}this.__kB=B;
+this.__kC=F;
+delete this._invalidChildrenCache;
+},verifyLayoutProperty:null,renderLayout:function(a,b){if(this._invalidChildrenCache){this.__kD();
+}var j=this.__kC;
+var length=j.length;
+var u=qx.ui.layout.Util;
+var t=this.getSpacing();
+var x=this.getSeparator();
+
+if(x){var f=u.computeVerticalSeparatorGaps(j,t,x);
+}else{var f=u.computeVerticalGaps(j,t,true);
+}var i,d,e,o;
+var p=[];
+var v=f;
+
+for(i=0;i<length;i+=1){o=this.__kz[i];
+e=o!=null?Math.floor((b-f)*o):j[i].getSizeHint().height;
+p.push(e);
+v+=e;
+}if(this.__kB&&v!=b){var m={};
+var s,w;
+
+for(i=0;i<length;i+=1){s=this.__kA[i];
+
+if(s>0){k=j[i].getSizeHint();
+m[i]={min:k.minHeight,value:p[i],max:k.maxHeight,flex:s};
+}}var g=u.computeFlexOffsets(m,b,v);
+
+for(i in g){w=g[i].offset;
+p[i]+=w;
+v+=w;
+}}var top=j[0].getMarginTop();
+if(v<b&&this.getAlignY()!=Q){top=b-v;
+
+if(this.getAlignY()===O){top=Math.round(top/2);
+}}var k,z,q,e,n,r,h;
+this._clearSeparators();
+if(x){var y=qx.theme.manager.Decoration.getInstance().resolve(x).getInsets();
+var c=y.top+y.bottom;
+}for(i=0;i<length;i+=1){d=j[i];
+e=p[i];
+k=d.getSizeHint();
+r=d.getMarginLeft();
+h=d.getMarginRight();
+q=Math.max(k.minWidth,Math.min(a-r-h,k.maxWidth));
+z=u.computeHorizontalAlignOffset(d.getAlignX()||this.getAlignX(),q,a,r,h);
+if(i>0){if(x){top+=n+t;
+this._renderSeparator(x,{top:top,left:0,height:c,width:a});
+top+=c+t+d.getMarginTop();
+}else{top+=u.collapseMargins(t,n,d.getMarginTop());
+}}d.renderLayout(z,top,q,e);
+top+=e;
+n=d.getMarginBottom();
+}},_computeSizeHint:function(){if(this._invalidChildrenCache){this.__kD();
+}var bc=qx.ui.layout.Util;
+var bk=this.__kC;
+var X=0,bb=0,ba=0;
+var V=0,bd=0;
+var bh,W,bj;
+for(var i=0,l=bk.length;i<l;i+=1){bh=bk[i];
+W=bh.getSizeHint();
+bb+=W.height;
+var bg=this.__kA[i];
+var Y=this.__kz[i];
+
+if(bg){X+=W.minHeight;
+}else if(Y){ba=Math.max(ba,Math.round(W.minHeight/Y));
+}else{X+=W.height;
+}bj=bh.getMarginLeft()+bh.getMarginRight();
+if((W.width+bj)>bd){bd=W.width+bj;
+}if((W.minWidth+bj)>V){V=W.minWidth+bj;
+}}X+=ba;
+var bf=this.getSpacing();
+var bi=this.getSeparator();
+
+if(bi){var be=bc.computeVerticalSeparatorGaps(bk,bf,bi);
+}else{var be=bc.computeVerticalGaps(bk,bf,true);
+}return {minHeight:X+be,height:bb+be,minWidth:V,width:bd};
+}},destruct:function(){this.__kz=this.__kA=this.__kC=null;
+}});
+})();
+(function(){var n="_applyLayoutChange",m="left",k="center",j="top",h="Decorator",g="middle",f="_applyReversed",e="bottom",d="Boolean",c="right",a="Integer",b="qx.ui.layout.HBox";
+qx.Class.define(b,{extend:qx.ui.layout.Abstract,construct:function(u,v,w){qx.ui.layout.Abstract.call(this);
+
+if(u){this.setSpacing(u);
+}
+if(v){this.setAlignX(v);
+}
+if(w){this.setSeparator(w);
+}},properties:{alignX:{check:[m,k,c],init:m,apply:n},alignY:{check:[j,g,e],init:j,apply:n},spacing:{check:a,init:0,apply:n},separator:{check:h,nullable:true,apply:n},reversed:{check:d,init:false,apply:f}},members:{__kE:null,__kF:null,__kG:null,__kH:null,_applyReversed:function(){this._invalidChildrenCache=true;
+this._applyLayoutChange();
+},__kI:function(){var t=this._getLayoutChildren();
+var length=t.length;
+var q=false;
+var o=this.__kE&&this.__kE.length!=length&&this.__kF&&this.__kE;
+var r;
+var p=o?this.__kE:new Array(length);
+var s=o?this.__kF:new Array(length);
+if(this.getReversed()){t=t.concat().reverse();
+}for(var i=0;i<length;i++){r=t[i].getLayoutProperties();
+
+if(r.width!=null){p[i]=parseFloat(r.width)/100;
+}
+if(r.flex!=null){s[i]=r.flex;
+q=true;
+}else{s[i]=0;
+}}if(!o){this.__kE=p;
+this.__kF=s;
+}this.__kG=q;
+this.__kH=t;
+delete this._invalidChildrenCache;
+},verifyLayoutProperty:null,renderLayout:function(M,N){if(this._invalidChildrenCache){this.__kI();
+}var T=this.__kH;
+var length=T.length;
+var bd=qx.ui.layout.Util;
+var bc=this.getSpacing();
+var bg=this.getSeparator();
+
+if(bg){var Q=bd.computeHorizontalSeparatorGaps(T,bc,bg);
+}else{var Q=bd.computeHorizontalGaps(T,bc,true);
+}var i,O,ba,Y;
+var bf=[];
+var U=Q;
+
+for(i=0;i<length;i+=1){Y=this.__kE[i];
+ba=Y!=null?Math.floor((M-Q)*Y):T[i].getSizeHint().width;
+bf.push(ba);
+U+=ba;
+}if(this.__kG&&U!=M){var W={};
+var bb,be;
+
+for(i=0;i<length;i+=1){bb=this.__kF[i];
+
+if(bb>0){V=T[i].getSizeHint();
+W[i]={min:V.minWidth,value:bf[i],max:V.maxWidth,flex:bb};
+}}var R=bd.computeFlexOffsets(W,M,U);
+
+for(i in R){be=R[i].offset;
+bf[i]+=be;
+U+=be;
+}}var bk=T[0].getMarginLeft();
+if(U<M&&this.getAlignX()!=m){bk=M-U;
+
+if(this.getAlignX()===k){bk=Math.round(bk/2);
+}}var V,top,P,ba,S,bi,X;
+var bc=this.getSpacing();
+this._clearSeparators();
+if(bg){var bh=qx.theme.manager.Decoration.getInstance().resolve(bg).getInsets();
+var bj=bh.left+bh.right;
+}for(i=0;i<length;i+=1){O=T[i];
+ba=bf[i];
+V=O.getSizeHint();
+bi=O.getMarginTop();
+X=O.getMarginBottom();
+P=Math.max(V.minHeight,Math.min(N-bi-X,V.maxHeight));
+top=bd.computeVerticalAlignOffset(O.getAlignY()||this.getAlignY(),P,N,bi,X);
+if(i>0){if(bg){bk+=S+bc;
+this._renderSeparator(bg,{left:bk,top:0,width:bj,height:N});
+bk+=bj+bc+O.getMarginLeft();
+}else{bk+=bd.collapseMargins(bc,S,O.getMarginLeft());
+}}O.renderLayout(bk,top,ba,P);
+bk+=ba;
+S=O.getMarginRight();
+}},_computeSizeHint:function(){if(this._invalidChildrenCache){this.__kI();
+}var D=qx.ui.layout.Util;
+var L=this.__kH;
+var x=0,E=0,B=0;
+var A=0,C=0;
+var I,y,K;
+for(var i=0,l=L.length;i<l;i+=1){I=L[i];
+y=I.getSizeHint();
+E+=y.width;
+var H=this.__kF[i];
+var z=this.__kE[i];
+
+if(H){x+=y.minWidth;
+}else if(z){B=Math.max(B,Math.round(y.minWidth/z));
+}else{x+=y.width;
+}K=I.getMarginTop()+I.getMarginBottom();
+if((y.height+K)>C){C=y.height+K;
+}if((y.minHeight+K)>A){A=y.minHeight+K;
+}}x+=B;
+var G=this.getSpacing();
+var J=this.getSeparator();
+
+if(J){var F=D.computeHorizontalSeparatorGaps(L,G,J);
+}else{var F=D.computeHorizontalGaps(L,G,true);
+}return {minWidth:x+F,width:E+F,minHeight:A,height:C};
+}},destruct:function(){this.__kE=this.__kF=this.__kH=null;
+}});
 })();
 (function(){var a="qx.ui.table.IRowRenderer";
 qx.Interface.define(a,{members:{updateDataRowElement:function(e,f){},getRowHeightStyle:function(c){},createRowStyle:function(b){},getRowClass:function(d){}}});
@@ -12861,6 +11169,17 @@ if(c instanceof qx.ui.menubar.Button){a.push(c);
 }}return a;
 }}});
 })();
+(function(){var a="qx.ui.core.Spacer";
+qx.Class.define(a,{extend:qx.ui.core.LayoutItem,construct:function(c,d){qx.ui.core.LayoutItem.call(this);
+this.setWidth(c!=null?c:0);
+this.setHeight(d!=null?d:0);
+},members:{checkAppearanceNeeds:function(){},addChildrenToQueue:function(b){},destroy:function(){if(this.$$disposed){return;
+}var parent=this.$$parent;
+
+if(parent){parent._remove(this);
+}qx.ui.core.queue.Dispose.add(this);
+}}});
+})();
 (function(){var b="toolbar-separator",a="qx.ui.toolbar.Separator";
 qx.Class.define(a,{extend:qx.ui.core.Widget,properties:{appearance:{refine:true,init:b},anonymous:{refine:true,init:true},width:{refine:true,init:0},height:{refine:true,init:0}}});
 })();
@@ -13617,6 +11936,76 @@ if(c.match(/^[0-9A-Fa-f]+$/gi)){b=String.fromCharCode(parseInt(c,16));
 if(c.match(/^\d+$/gi)){b=String.fromCharCode(parseInt(c,10));
 }}}}return b;
 });
+}}});
+})();
+(function(){var b="qx.util.format.IFormat";
+qx.Interface.define(b,{members:{format:function(c){},parse:function(a){}}});
+})();
+(function(){var E="",D="Number",C="-",B="0",A="String",z="changeNumberFormat",y='(',x="g",w="Boolean",v="$",o="NaN",u='([0-9]{1,3}(?:',r='{0,1}[0-9]{3}){0,})',n='\\d+){0,1}',m="qx.util.format.NumberFormat",q="Infinity",p="^",s=".",l="-Infinity",t='([-+]){0,1}';
+qx.Class.define(m,{extend:qx.core.Object,implement:qx.util.format.IFormat,construct:function(k){qx.core.Object.call(this);
+this.__lA=k;
+},statics:{getIntegerInstance:function(){var a=qx.util.format.NumberFormat;
+
+if(a._integerInstance==null){a._integerInstance=new a();
+a._integerInstance.setMaximumFractionDigits(0);
+}return a._integerInstance;
+},getInstance:function(){if(!this._instance){this._instance=new this;
+}return this._instance;
+}},properties:{minimumIntegerDigits:{check:D,init:0},maximumIntegerDigits:{check:D,nullable:true},minimumFractionDigits:{check:D,init:0},maximumFractionDigits:{check:D,nullable:true},groupingUsed:{check:w,init:true},prefix:{check:A,init:E,event:z},postfix:{check:A,init:E,event:z}},members:{__lA:null,format:function(F){switch(F){case Infinity:return q;
+case -Infinity:return l;
+case NaN:return o;
+}var J=(F<0);
+
+if(J){F=-F;
+}
+if(this.getMaximumFractionDigits()!=null){var Q=Math.pow(10,this.getMaximumFractionDigits());
+F=Math.round(F*Q)/Q;
+}var P=String(Math.floor(F)).length;
+var G=E+F;
+var M=G.substring(0,P);
+
+while(M.length<this.getMinimumIntegerDigits()){M=B+M;
+}
+if(this.getMaximumIntegerDigits()!=null&&M.length>this.getMaximumIntegerDigits()){M=M.substring(M.length-this.getMaximumIntegerDigits());
+}var L=G.substring(P+1);
+
+while(L.length<this.getMinimumFractionDigits()){L+=B;
+}
+if(this.getMaximumFractionDigits()!=null&&L.length>this.getMaximumFractionDigits()){L=L.substring(0,this.getMaximumFractionDigits());
+}if(this.getGroupingUsed()){var I=M;
+M=E;
+var O;
+
+for(O=I.length;O>3;O-=3){M=E+qx.locale.Number.getGroupSeparator(this.__lA)+I.substring(O-3,O)+M;
+}M=I.substring(0,O)+M;
+}var K=this.getPrefix()?this.getPrefix():E;
+var H=this.getPostfix()?this.getPostfix():E;
+var N=K+(J?C:E)+M;
+
+if(L.length>0){N+=E+qx.locale.Number.getDecimalSeparator(this.__lA)+L;
+}N+=H;
+return N;
+},parse:function(b){var g=qx.lang.String.escapeRegexpChars(qx.locale.Number.getGroupSeparator(this.__lA)+E);
+var e=qx.lang.String.escapeRegexpChars(qx.locale.Number.getDecimalSeparator(this.__lA)+E);
+var c=new RegExp(p+qx.lang.String.escapeRegexpChars(this.getPrefix())+t+u+g+r+y+e+n+qx.lang.String.escapeRegexpChars(this.getPostfix())+v);
+var f=c.exec(b);
+
+if(f==null){throw new Error("Number string '"+b+"' does not match the number format");
+}var h=(f[1]==C);
+var j=f[2];
+var i=f[3];
+j=j.replace(new RegExp(g,x),E);
+var d=(h?C:E)+j;
+
+if(i!=null&&i.length!=0){i=i.replace(new RegExp(e),E);
+d+=s+i;
+}return parseFloat(d);
+}}});
+})();
+(function(){var d="cldr_number_decimal_separator",c="cldr_number_percent_format",b="qx.locale.Number",a="cldr_number_group_separator";
+qx.Class.define(b,{statics:{getDecimalSeparator:function(f){return qx.locale.Manager.getInstance().localize(d,[],f);
+},getGroupSeparator:function(e){return qx.locale.Manager.getInstance().localize(a,[],e);
+},getPercentFormat:function(g){return qx.locale.Manager.getInstance().localize(c,[],g);
 }}});
 })();
 (function(){var cf="(\\d\\d?)",ce="format",cd="",cc="abbreviated",cb="wide",ca="(",bY=")",bX="|",bW="stand-alone",bV="wildcard",bK="default",bJ="literal",bI="'",bH="hour",bG="(\\d\\d?\\d?)",bF="ms",bE="narrow",bD="-",bC="quoted_literal",bB='a',cm="HH:mm:ss",cn="+",ck="HHmmss",cl="long",ci='z',cj="0",cg="sec",ch="day",co='Z',cp=" ",bO="min",bN="mm",bQ="(\\d+)",bP="h",bS="KK",bR='L',bU="Z",bT="(\\d\\d+)",bM="EEEE",bL="^",C=":",D='y',E="K",F="a",G="([\\+\\-]\\d\\d:?\\d\\d)",H="GMT",I="dd",J="qx.util.format.DateFormat",K="yyy",L="H",ct="YYYY",cs="y",cr="HH",cq="EE",cx='h',cw="S",cv='s',cu='A',cz="yyyyyy",cy="kk",bl="ss",bm='H',bj='S',bk="MMMM",bp='c',bq="d",bn="([a-zA-Z]+)",bo='k',bh="m",bi='Y',T='D',S="yyyyy",V='K',U="hh",P="SSS",O="MM",R="yy",Q="(\\d\\d\\d\\d\\d\\d+)",N="yyyy-MM-dd HH:mm:ss",M="(\\d\\d\\d\\d\\d+)",bv="short",bw='d',bx="unkown",by='m',br="(\\d\\d\\d\\d)",bs="(\\d\\d\\d+)",bt="k",bu='M',bz="(\\d\\d\\d\\d+)",bA="SS",be="MMM",bd="s",bc="M",bb='w',ba="EEE",Y="$",X="?",W='E',bg="z",bf="yyyy";
@@ -18106,45 +16495,1991 @@ J.setColumnWidth(L,K);
 this._disposeObjects(q,v);
 }});
 })();
-(function(){var g="",f="file_tree.selectionChanged",e="LEAF",d="recipientDelete",c="dropnode.RecipientDisplayController",b="delete",a='singleton';
-qx.Class.define(c,{extend:dropnode.Controller,type:a,properties:{file_name:{init:g},name:{init:g},file_id:{init:g},progress:{init:-1},url:{init:g}},members:{_processMessage:function(){if(this.getMessage()==b){this._dispatch(d,{name:this.getName()});
-}},error:function(i){this.getParent().error(i);
-},_addReactors:function(){this._subscribe(f,this._selectionChanged,this);
-},_selectionChanged:function(h){if(h.type==e){this.setName(h.name);
-this.setFile_name(h.file_name);
-this.setFile_id(h.file_id);
-this.setProgress(h.progress);
-this.setUrl(h.url);
+(function(){var o="number",n="object",m="qx.ui.treevirtual.MNode";
+qx.Mixin.define(m,{members:{nodeGet:function(H){if(typeof (H)==n){return H;
+}else if(typeof (H)==o){return this.getTableModel().getData()[H];
+}else{throw new Error("Expected node object or node id");
+}},nodeToggleOpened:function(M){var N;
+var O;
+
+if(typeof (M)==n){N=M;
+O=N.nodeId;
+}else if(typeof (M)==o){O=M;
+N=this.getTableModel().getData()[O];
+}else{throw new Error("Expected node object or node id");
+}this.getTableModel().setState(O,{bOpened:!N.bOpened});
+},nodeSetState:function(p,q){var r;
+
+if(typeof (p)==n){r=p.nodeId;
+}else if(typeof (p)==o){r=p;
+}else{throw new Error("Expected node object or node id");
+}this.getTableModel().setState(r,q);
+},nodeSetLabel:function(w,x){this.nodeSetState(w,{label:x});
+},nodeGetLabel:function(e){var f=this.nodeGet(e);
+return f.label;
+},nodeSetSelected:function(d,b){this.nodeSetState(d,{bSelected:b});
+},nodeGetSelected:function(y){var z=this.nodeGet(y);
+return z.bSelected;
+},nodeSetOpened:function(k,b){var l;
+
+if(typeof (k)==n){l=k;
+}else if(typeof (k)==o){l=this.getTableModel().getData()[k];
+}else{throw new Error("Expected node object or node id");
+}if(b!=l.bOpened){this.nodeToggleOpened(l);
+}},nodeGetOpened:function(i){var j=this.nodeGet(i);
+return j.bOpened;
+},nodeSetHideOpenClose:function(E,b){this.nodeSetState(E,{bHideOpenClose:b});
+},nodeGetHideOpenClose:function(s){var t=this.nodeGet(s);
+return t.bHideOpenClose;
+},nodeSetIcon:function(a,c){this.nodeSetState(a,{icon:c});
+},nodeGetIcon:function(g){var h=this.nodeGet(g);
+return h.icon;
+},nodeSetSelectedIcon:function(I,J){this.nodeSetState(I,{iconSelected:J});
+},nodeGetSelectedIcon:function(A){var B=this.nodeGet(A);
+return B.iconSelected;
+},nodeSetCellStyle:function(F,G){this.nodeSetState(F,{cellStyle:G});
+},nodeGetCellStyle:function(u){var v=this.nodeGet(u);
+return v.cellStyle;
+},nodeSetLabelStyle:function(K,L){this.nodeSetState(K,{labelStyle:L});
+},nodeGetLabelStyle:function(C){var D=this.nodeGet(C);
+return D.cellStyle;
+}}});
+})();
+(function(){var f="function",e="qx.event.message.Bus",d="*",c="undefined",b="string",a="singleton";
+qx.Class.define(e,{type:a,extend:qx.core.Object,statics:{getSubscriptions:function(){return this.getInstance().getSubscriptions();
+},subscribe:function(l,m,n){return this.getInstance().subscribe(l,m,n);
+},checkSubscription:function(L,M,N){return this.getInstance().checkSubscription(L,M,N);
+},unsubscribe:function(B,C,D){return this.getInstance().unsubscribe(B,C,D);
+},dispatch:function(S){return this.getInstance().dispatch.apply(this.getInstance(),arguments);
+},dispatchByName:function(name,K){return this.getInstance().dispatchByName.apply(this.getInstance(),arguments);
+}},construct:function(){this.__ku={};
+},members:{__ku:null,getSubscriptions:function(){return this.__ku;
+},subscribe:function(O,P,Q){if(!O||typeof P!=f){this.error("Invalid parameters! "+[O,P,Q]);
+return false;
+}var R=this.getSubscriptions();
+
+if(this.checkSubscription(O)){if(this.checkSubscription(O,P,Q)){this.warn("Object method already subscribed to "+O);
+return false;
+}R[O].push({subscriber:P,context:Q||null});
+return true;
+}else{R[O]=[{subscriber:P,context:Q||null}];
+return true;
+}},checkSubscription:function(E,F,G){var H=this.getSubscriptions();
+
+if(!H[E]||H[E].length===0){return false;
+}
+if(F){for(var i=0;i<H[E].length;i++){if(H[E][i].subscriber===F&&H[E][i].context===(G||null)){return true;
+}}return false;
+}return true;
+},unsubscribe:function(v,w,x){var z=this.getSubscriptions();
+var y=z[v];
+
+if(y){if(!x){x=null;
+}var i=y.length;
+var A;
+
+do{A=y[--i];
+
+if(A.subscriber===w&&A.context===x){y.splice(i,1);
+
+if(y.length===0){z[v]=null;
+delete z[v];
+}return true;
+}}while(i);
+}return false;
+},dispatch:function(o){if(typeof o==b){{};
+var t=typeof arguments[1]!=c?arguments[1]:true;
+o=new qx.event.message.Message(o,t);
+}var p=this.getSubscriptions();
+var q=o.getName();
+var r=false;
+
+for(var u in p){var s=u.indexOf(d);
+
+if(s>-1){if(s===0||u.substr(0,s)===q.substr(0,s)){this.__kv(p[u],o);
+r=true;
+}}else{if(u===q){this.__kv(p[q],o);
+r=true;
+}}}return r;
+},dispatchByName:function(name,I){var J=new qx.event.message.Message(name,I);
+return this.dispatch(J);
+},__kv:function(g,h){for(var i=0;i<g.length;i++){var j=g[i].subscriber;
+var k=g[i].context;
+if(k&&k.isDisposed){if(k.isDisposed()){g.splice(i,1);
+i--;
+}else{j.call(k,h);
+}}else{j.call(k,h);
+}}}}});
+})();
+(function(){var d="Object",c="qx.event.message.Message",b="String";
+qx.Class.define(c,{extend:qx.core.Object,construct:function(name,a){qx.core.Object.call(this);
+
+if(name!=null){this.setName(name);
+}
+if(a!=null){this.setData(a);
+}},properties:{name:{check:b},data:{init:null,nullable:true},sender:{check:d}}});
+})();
+(function(){var c="_processMessage",b="dropnode.Controller";
+qx.Class.define(b,{extend:qx.core.Object,properties:{ui:{nullable:true},event_bus:{nullable:true},type:{nullable:true},message:{nullable:true,apply:c},parent:{nullable:true},children:{init:new Array()}},members:{initialize:function(h,i){this.setEvent_bus(h);
+this.setUi(i);
+this.setChildren(new qx.data.Array());
+this.getUi().initialize(this.getEvent_bus());
+this.getUi().init_gui();
+this._addReactors();
+this._addListeners();
+this._addBindings();
+},error:function(a){this.getUi().error(a);
+},add:function(f){this.getUi().add(f.getUi().getBase_container());
+f.setParent(this);
+var g=this.getChildren();
+g.push(f);
+this.setChildren(g);
+},_dispatch:function(d,e){this.getEvent_bus().getInstance().dispatch(new qx.event.message.Message(d,e));
+},_subscribe:function(l,m,n){this.getEvent_bus().subscribe(l,function(j){var k=qx.lang.Function.bind(m,n);
+k(j.getData());
+},n);
+},_processMessage:function(){this.debug("Controller's message : "+this.getMessage());
+},_addListeners:function(){},_addReactors:function(){},_addBindings:function(){}}});
+})();
+(function(){var i="name",h="execute",g="changeName",f="dropnode.DeleteDialogController",d="okDelete",c='singleton',b="delete",a="fileTree.delete";
+qx.Class.define(f,{extend:dropnode.Controller,type:c,properties:{name:{nullable:true,event:g},id:{nullable:true}},members:{_cancel:function(){this.debug("delete cancelled");
+},_delete:function(){dropnode.Utilities.withReq({"request":b,"type":this.getDelete_type(),"id":this.id()},dropnode.Utilities.makeCallback(this._notifyChange,this),dropnode.Utilities.makeCallback(this.error,this));
+this._notifyChange(null);
+},_fileDelete:function(k){this.setName(k.name),this.getUi().open();
+},_notifyChange:function(j){this._dispatch(d,{name:this.getName(),id:this.getId()});
+},_addReactors:function(){this._subscribe(a,this._fileDelete,this);
+},_addBindings:function(){arguments.callee.base.apply(this,arguments);
+this.bind(i,this.getUi(),i);
+},_addListeners:function(){this.getUi().getOk().addListener(h,function(e){this._delete();
+},this);
+this.getUi().getCancel().addListener(h,function(e){this._cancel();
+},this);
+}}});
+})();
+(function(){var h="[",g="]",f=".",d="idBubble",c="changeBubble",b="qx.data.marshal.MEventBubbling",a="qx.event.type.Data";
+qx.Mixin.define(b,{events:{"changeBubble":a},members:{_applyEventPropagation:function(m,n,name){this.fireDataEvent(c,{value:m,name:name,old:n});
+this._registerEventChaining(m,n,name);
+},_registerEventChaining:function(i,j,name){if((i instanceof qx.core.Object)&&qx.Class.hasMixin(i.constructor,qx.data.marshal.MEventBubbling)){var k=qx.lang.Function.bind(this.__kw,this,name);
+var l=i.addListener(c,k,this);
+i.setUserData(d,l);
+}if(j!=null&&j.getUserData&&j.getUserData(d)!=null){j.removeListenerById(j.getUserData(d));
+}},__kw:function(name,e){var v=e.getData();
+var r=v.value;
+var p=v.old;
+if(qx.Class.hasInterface(e.getTarget().constructor,qx.data.IListData)){if(v.name.indexOf){var u=v.name.indexOf(f)!=-1?v.name.indexOf(f):v.name.length;
+var s=v.name.indexOf(h)!=-1?v.name.indexOf(h):v.name.length;
+
+if(u<s){var o=v.name.substring(0,u);
+var t=v.name.substring(u+1,v.name.length);
+
+if(t[0]!=h){t=f+t;
+}var q=name+h+o+g+t;
+}else if(s<u){var o=v.name.substring(0,s);
+var t=v.name.substring(s,v.name.length);
+var q=name+h+o+g+t;
+}else{var q=name+h+v.name+g;
+}}else{var q=name+h+v.name+g;
+}}else{var q=name+f+v.name;
+}this.fireDataEvent(c,{value:r,name:q,old:p});
+}}});
+})();
+(function(){var q="change",p="add",o="remove",n="order",m="qx.event.type.Data",l="",k="qx.data.Array",j="?",h="changeBubble",g="number",f="changeLength";
+qx.Class.define(k,{extend:qx.core.Object,include:qx.data.marshal.MEventBubbling,implement:[qx.data.IListData],construct:function(H){qx.core.Object.call(this);
+if(H==undefined){this.__kx=[];
+}else if(arguments.length>1){this.__kx=[];
+
+for(var i=0;i<arguments.length;i++){this.__kx.push(arguments[i]);
+}}else if(typeof H==g){this.__kx=new Array(H);
+}else if(H instanceof Array){this.__kx=qx.lang.Array.clone(H);
+}else{this.__kx=[];
+throw new Error("Type of the parameter not supported!");
+}for(var i=0;i<this.__kx.length;i++){this._applyEventPropagation(this.__kx[i],null,i);
+}this.__ky();
+},events:{"change":m,"changeLength":m},members:{__kx:null,concat:function(bd){if(bd){var be=this.__kx.concat(bd);
+}else{var be=this.__kx.concat();
+}return new qx.data.Array(be);
+},join:function(I){return this.__kx.join(I);
+},pop:function(){var w=this.__kx.pop();
+this.__ky();
+this._applyEventPropagation(null,w,this.length-1);
+this.fireDataEvent(q,{start:this.length-1,end:this.length-1,type:o,items:[w]},null);
+return w;
+},push:function(b){for(var i=0;i<arguments.length;i++){this.__kx.push(arguments[i]);
+this.__ky();
+this._applyEventPropagation(arguments[i],null,this.length-1);
+this.fireDataEvent(q,{start:this.length-1,end:this.length-1,type:p,items:[arguments[i]]},null);
+}return this.length;
+},reverse:function(){this.__kx.reverse();
+this.fireDataEvent(q,{start:0,end:this.length-1,type:n,items:null},null);
+},shift:function(){var v=this.__kx.shift();
+this.__ky();
+this._applyEventPropagation(null,v,this.length-1);
+this.fireDataEvent(q,{start:0,end:this.length-1,type:o,items:[v]},null);
+return v;
+},slice:function(W,X){return new qx.data.Array(this.__kx.slice(W,X));
+},splice:function(K,L,M){var S=this.__kx.length;
+var P=this.__kx.splice.apply(this.__kx,arguments);
+if(this.__kx.length!=S){this.__ky();
+}var Q=L>0;
+var N=arguments.length>2;
+var O=null;
+
+if(Q||N){if(this.__kx.length>S){var R=p;
+}else if(this.__kx.length<S){var R=o;
+O=P;
+}else{var R=n;
+}this.fireDataEvent(q,{start:K,end:this.length-1,type:R,items:O},null);
+}for(var i=2;i<arguments.length;i++){this._registerEventChaining(arguments[i],null,K+i);
+}this.fireDataEvent(h,{value:this,name:j,old:P});
+for(var i=0;i<P.length;i++){this._applyEventPropagation(null,P[i],i);
+}return (new qx.data.Array(P));
+},sort:function(B){this.__kx.sort.apply(this.__kx,arguments);
+this.fireDataEvent(q,{start:0,end:this.length-1,type:n,items:null},null);
+},unshift:function(bc){for(var i=arguments.length-1;i>=0;i--){this.__kx.unshift(arguments[i]);
+this.__ky();
+this._applyEventPropagation(arguments[i],null,0);
+this.fireDataEvent(q,{start:0,end:this.length-1,type:p,items:[arguments[i]]},null);
+}return this.length;
+},toArray:function(){return this.__kx;
+},getItem:function(d){return this.__kx[d];
+},setItem:function(r,s){var t=this.__kx[r];
+this.__kx[r]=s;
+this._applyEventPropagation(s,t,r);
+if(this.length!=this.__kx.length){this.__ky();
+}this.fireDataEvent(q,{start:r,end:r,type:p,items:[s]},null);
+},getLength:function(){return this.length;
+},indexOf:function(u){return this.__kx.indexOf(u);
+},toString:function(){if(this.__kx!=null){return this.__kx.toString();
+}return l;
+},contains:function(J){return this.__kx.indexOf(J)!==-1;
+},copy:function(){return this.concat();
+},insertAt:function(bf,bg){this.splice(bf,0,bg);
+},insertBefore:function(C,D){var E=this.indexOf(C);
+
+if(E==-1){this.push(D);
+}else{this.splice(E,0,D);
+}},insertAfter:function(Y,ba){var bb=this.indexOf(Y);
+
+if(bb==-1||bb==(this.length-1)){this.push(ba);
+}else{this.splice(bb+1,0,ba);
+}},removeAt:function(a){return this.splice(a,1)[0];
+},removeAll:function(){for(var i=0;i<this.__kx.length;i++){this._applyEventPropagation(null,this.__kx[i],i);
+}var z=this.getLength();
+var y=this.__kx.concat();
+this.__kx.length=0;
+this.__ky();
+this.fireDataEvent(q,{start:0,end:z-1,type:o,items:y},null);
+},append:function(bh){if(bh instanceof qx.data.Array){bh=bh.toArray();
+}{};
+for(var i=0;i<bh.length;i++){this._applyEventPropagation(bh[i],null,this.__kx.length+i);
+}Array.prototype.push.apply(this.__kx,bh);
+var bi=this.length;
+this.__ky();
+this.fireDataEvent(q,{start:bi,end:this.length-1,type:p,items:bh},null);
+},remove:function(F){var G=this.indexOf(F);
+
+if(G!=-1){this.splice(G,1);
+return F;
+}},equals:function(e){if(this.length!==e.length){return false;
+}
+for(var i=0;i<this.length;i++){if(this.getItem(i)!==e.getItem(i)){return false;
+}}return true;
+},sum:function(){var A=0;
+
+for(var i=0;i<this.length;i++){A+=this.getItem(i);
+}return A;
+},max:function(){var c=this.getItem(0);
+
+for(var i=1;i<this.length;i++){if(this.getItem(i)>c){c=this.getItem(i);
+}}return c===undefined?null:c;
+},min:function(){var T=this.getItem(0);
+
+for(var i=1;i<this.length;i++){if(this.getItem(i)<T){T=this.getItem(i);
+}}return T===undefined?null:T;
+},forEach:function(U,V){for(var i=0;i<this.__kx.length;i++){U.call(V,this.__kx[i]);
+}},__ky:function(){var x=this.length;
+this.length=this.__kx.length;
+this.fireDataEvent(f,this.length,x);
+}},destruct:function(){for(var i=0;i<this.__kx.length;i++){this._applyEventPropagation(null,this.__kx[i],i);
+}this.__kx=null;
+}});
+})();
+(function(){var i="null",h="dropnode.Utilities",g="JSONParseError",f="completed",d="GET",c="localhost";
+qx.Class.define(h,{statics:{server:c,makeCallback:function(u,v){return qx.lang.Function.bind(u,v);
+},makeReq:function(a){var b=new qx.io.remote.Request(dropnode.Utilites.server,d);
+},withReq:function(j,k,l){var n=dropnode.Utilites.makeReq(j);
+var m=k;
+var o=this;
+n.addListener(f,function(e){var w=new qx.util.Json.parseQx(e.getContent());
+var y={name:w.error,message:w.error};
+
+if(y.name!=null){l(y);
+}else{try{k(qx.util.Json.parseQx(w.result));
+}catch(x){l({name:g,message:w.result});
+}}});
+},withMockReq:function(p,q,r,s){var t={name:s.error,message:s.error};
+
+if(t.name!=i){q(s);
+}else{r(s.error);
 }}}});
 })();
-(function(){var i="",h="delete",g="Url :",f="dropnode.RecipientDisplayUI",d="Delete",c="Progress :",b="execute",a="Name :";
-qx.Class.define(f,{extend:qx.core.Object,properties:{file_name:{nullable:true},name:{init:i},file_id:{nullable:true},progress:{nullable:true},recipient_view_container:{nullable:true},url:{nullable:true},event_bus:{nullable:true},base_container:{nullable:true},message:{nullable:true}},members:{initialize:function(m){this.setEvent_bus(m);
-},init_gui:function(){this.setBase_container(new qx.ui.container.Composite(new qx.ui.layout.VBox()));
-this.getBase_container().setPadding(4,4,4,4);
-this.setRecipient_view_container(new qx.ui.container.Composite(new qx.ui.layout.VBox(2)));
-var k=new qx.ui.container.Composite(new qx.ui.layout.Grid());
-k.setPaddingLeft(6);
-k.setBackgroundColor(qx.util.ColorUtil.rgbToRgbString([255,255,234]));
-var l=new qx.ui.container.Composite(new qx.ui.layout.HBox());
-l.setPaddingLeft(6);
-l.setBackgroundColor(qx.util.ColorUtil.rgbToRgbString([255,255,234]));
-var j=new qx.ui.form.Button(d);
-j.addListener(b,function(e){this.setMessage(i);
-this.setMessage(h);
-},this);
-l.add(new qx.ui.basic.Label(this.getName()));
-l.add(new qx.ui.core.Spacer,{flex:1});
-l.add(j);
-k.add(new qx.ui.basic.Label(a),{row:0,column:0});
-k.add(new qx.ui.basic.Label(this.getFile_name()),{row:0,column:1});
-k.add(new qx.ui.basic.Label(g),{row:1,column:0});
-k.add(new qx.ui.basic.Label(this.getUrl()),{row:1,column:1});
-k.add(new qx.ui.basic.Label(c),{row:2,column:0});
-k.add(new qx.ui.basic.Label(this.getProgress()),{row:2,column:1});
-this.getRecipient_view_container().add(l);
-this.getRecipient_view_container().add(k);
-this.getBase_container().add(this.getRecipient_view_container());
+(function(){var H="Boolean",G="qx.event.type.Event",F="queued",E="String",D="sending",C="receiving",B="aborted",A="failed",z="nocache",y="completed",bm="qx.io.remote.Response",bl="POST",bk="configured",bj="timeout",bi="GET",bh="Pragma",bg="no-url-params-on-post",bf="PUT",be="no-cache",bd="Cache-Control",O="Content-Type",P="text/plain",M="application/xml",N="application/json",K="text/html",L="application/x-www-form-urlencoded",I="qx.io.remote.Exchange",J="Integer",Q="X-Qooxdoo-Response-Type",R="HEAD",U="qx.io.remote.Request",T="_applyResponseType",W="_applyState",V="text/javascript",Y="changeState",X="_applyProhibitCaching",S="",bc="_applyMethod",bb="DELETE",ba="boolean";
+qx.Class.define(U,{extend:qx.core.Object,construct:function(n,o,p){qx.core.Object.call(this);
+this.__kT={};
+this.__kU={};
+this.__kV={};
+this.__kW={};
+
+if(n!==undefined){this.setUrl(n);
+}
+if(o!==undefined){this.setMethod(o);
+}
+if(p!==undefined){this.setResponseType(p);
+}this.setProhibitCaching(true);
+this.__kX=++qx.io.remote.Request.__kX;
+},events:{"created":G,"configured":G,"sending":G,"receiving":G,"completed":bm,"aborted":G,"failed":bm,"timeout":bm},statics:{__kX:0,methodAllowsRequestBody:function(q){return (q==bl)||(q==bf);
+}},properties:{url:{check:E,init:S},method:{check:[bi,bl,bf,R,bb],apply:bc,init:bi},asynchronous:{check:H,init:true},data:{check:E,nullable:true},username:{check:E,nullable:true},password:{check:E,nullable:true},state:{check:[bk,F,D,C,y,B,bj,A],init:bk,apply:W,event:Y},responseType:{check:[P,V,N,M,K],init:P,apply:T},timeout:{check:J,nullable:true},prohibitCaching:{check:function(v){return typeof v==ba||v===bg;
+},init:true,apply:X},crossDomain:{check:H,init:false},fileUpload:{check:H,init:false},transport:{check:I,nullable:true},useBasicHttpAuth:{check:H,init:false},parseJson:{check:H,init:true}},members:{__kT:null,__kU:null,__kV:null,__kW:null,__kX:null,send:function(){qx.io.remote.RequestQueue.getInstance().add(this);
+},abort:function(){qx.io.remote.RequestQueue.getInstance().abort(this);
+},reset:function(){switch(this.getState()){case D:case C:this.error("Aborting already sent request!");
+case F:this.abort();
+break;
+}},isConfigured:function(){return this.getState()===bk;
+},isQueued:function(){return this.getState()===F;
+},isSending:function(){return this.getState()===D;
+},isReceiving:function(){return this.getState()===C;
+},isCompleted:function(){return this.getState()===y;
+},isAborted:function(){return this.getState()===B;
+},isTimeout:function(){return this.getState()===bj;
+},isFailed:function(){return this.getState()===A;
+},__kY:function(e){var m=e.clone();
+m.setTarget(this);
+this.dispatchEvent(m);
+},_onqueued:function(e){this.setState(F);
+this.__kY(e);
+},_onsending:function(e){this.setState(D);
+this.__kY(e);
+},_onreceiving:function(e){this.setState(C);
+this.__kY(e);
+},_oncompleted:function(e){this.setState(y);
+this.__kY(e);
+this.dispose();
+},_onaborted:function(e){this.setState(B);
+this.__kY(e);
+this.dispose();
+},_ontimeout:function(e){this.setState(bj);
+this.__kY(e);
+this.dispose();
+},_onfailed:function(e){this.setState(A);
+this.__kY(e);
+this.dispose();
+},_applyState:function(g,h){{};
+},_applyProhibitCaching:function(bn,bo){if(!bn){this.removeParameter(z);
+this.removeRequestHeader(bh);
+this.removeRequestHeader(bd);
+return;
+}if(bn!==bg||this.getMethod()!=bl){this.setParameter(z,new Date().valueOf());
+}else{this.removeParameter(z);
+}this.setRequestHeader(bh,be);
+this.setRequestHeader(bd,be);
+},_applyMethod:function(j,k){if(qx.io.remote.Request.methodAllowsRequestBody(j)){this.setRequestHeader(O,L);
+}else{this.removeRequestHeader(O);
+}var l=this.getProhibitCaching();
+this._applyProhibitCaching(l,l);
+},_applyResponseType:function(d,f){this.setRequestHeader(Q,d);
+},setRequestHeader:function(r,s){this.__kT[r]=s;
+},removeRequestHeader:function(a){delete this.__kT[a];
+},getRequestHeader:function(b){return this.__kT[b]||null;
+},getRequestHeaders:function(){return this.__kT;
+},setParameter:function(t,u,w){if(w){this.__kV[t]=u;
+}else{this.__kU[t]=u;
+}},removeParameter:function(bp,bq){if(bq){delete this.__kV[bp];
+}else{delete this.__kU[bp];
+}},getParameter:function(br,bs){if(bs){return this.__kV[br]||null;
+}else{return this.__kU[br]||null;
+}},getParameters:function(x){return (x?this.__kV:this.__kU);
+},setFormField:function(bt,bu){this.__kW[bt]=bu;
+},removeFormField:function(c){delete this.__kW[c];
+},getFormField:function(i){return this.__kW[i]||null;
+},getFormFields:function(){return this.__kW;
+},getSequenceNumber:function(){return this.__kX;
+}},destruct:function(){this.setTransport(null);
+this.__kT=this.__kU=this.__kV=this.__kW=null;
+}});
+})();
+(function(){var b=".",a="qx.bom.client.Transport";
+qx.Class.define(a,{statics:{getMaxConcurrentRequestCount:function(){var h;
+var c=qx.bom.client.Engine;
+var g=c.FULLVERSION.split(b);
+var e=0;
+var d=0;
+var f=0;
+if(g[0]){e=g[0];
+}if(g[1]){d=g[1];
+}if(g[2]){f=g[2];
+}if(window.maxConnectionsPerServer){h=window.maxConnectionsPerServer;
+}else if(c.OPERA){h=8;
+}else if(c.WEBKIT){h=4;
+}else if(c.GECKO&&((e>1)||((e==1)&&(d>9))||((e==1)&&(d==9)&&(f>=1)))){h=6;
+}else{h=2;
+}return h;
 }}});
+})();
+(function(){var D="Integer",C="aborted",B="_onaborted",A="_on",z="_applyEnabled",y="Boolean",x="sending",w="interval",v="__lb",u="failed",p="qx.io.remote.RequestQueue",t="timeout",s="completed",o="queued",n="__ld",r="receiving",q="singleton";
+qx.Class.define(p,{type:q,extend:qx.core.Object,construct:function(){qx.core.Object.call(this);
+this.__la=[];
+this.__lb=[];
+this.__lc=0;
+this.__ld=new qx.event.Timer(500);
+this.__ld.addListener(w,this._oninterval,this);
+},properties:{enabled:{init:true,check:y,apply:z},maxTotalRequests:{check:D,nullable:true},maxConcurrentRequests:{check:D,init:qx.bom.client.Transport.getMaxConcurrentRequestCount()},defaultTimeout:{check:D,init:5000}},members:{__la:null,__lb:null,__lc:null,__ld:null,getRequestQueue:function(){return this.__la;
+},getActiveQueue:function(){return this.__lb;
+},_debug:function(){var a;
+{};
+},_check:function(){this._debug();
+if(this.__lb.length==0&&this.__la.length==0){this.__ld.stop();
+}if(!this.getEnabled()){return;
+}if(this.__la.length==0||(this.__la[0].isAsynchronous()&&this.__lb.length>=this.getMaxConcurrentRequests())){return;
+}if(this.getMaxTotalRequests()!=null&&this.__lc>=this.getMaxTotalRequests()){return;
+}var E=this.__la.shift();
+var F=new qx.io.remote.Exchange(E);
+this.__lc++;
+this.__lb.push(F);
+this._debug();
+F.addListener(x,this._onsending,this);
+F.addListener(r,this._onreceiving,this);
+F.addListener(s,this._oncompleted,this);
+F.addListener(C,this._oncompleted,this);
+F.addListener(t,this._oncompleted,this);
+F.addListener(u,this._oncompleted,this);
+F._start=(new Date).valueOf();
+F.send();
+if(this.__la.length>0){this._check();
+}},_remove:function(N){qx.lang.Array.remove(this.__lb,N);
+N.dispose();
+this._check();
+},__le:0,_onsending:function(e){{};
+e.getTarget().getRequest()._onsending(e);
+},_onreceiving:function(e){e.getTarget().getRequest()._onreceiving(e);
+},_oncompleted:function(e){{};
+var d=e.getTarget().getRequest();
+var c=A+e.getType();
+try{if(d[c]){d[c](e);
+}}catch(J){var b=qx.dev.StackTrace.getStackTraceFromError(J);
+this.error("Request "+d+" handler "+c+" threw an error: "+J+"\nStack Trace:\n"+b);
+try{if(d[B]){var event=qx.event.Registration.createEvent(C,qx.event.type.Event);
+d[B](event);
+}}catch(G){}}finally{this._remove(e.getTarget());
+}},_oninterval:function(e){var m=this.__lb;
+
+if(m.length==0){this.__ld.stop();
+return;
+}var g=(new Date).valueOf();
+var k;
+var h;
+var l=this.getDefaultTimeout();
+var j;
+var f;
+
+for(var i=m.length-1;i>=0;i--){k=m[i];
+h=k.getRequest();
+
+if(h.isAsynchronous()){j=h.getTimeout();
+if(j==0){continue;
+}
+if(j==null){j=l;
+}f=g-k._start;
+
+if(f>j){this.warn("Timeout: transport "+k.toHashCode());
+this.warn(f+"ms > "+j+"ms");
+k.timeout();
+}}}},_applyEnabled:function(L,M){if(L){this._check();
+}this.__ld.setEnabled(L);
+},add:function(K){K.setState(o);
+
+if(K.isAsynchronous()){this.__la.push(K);
+}else{this.__la.unshift(K);
+}this._check();
+
+if(this.getEnabled()){this.__ld.start();
+}},abort:function(H){var I=H.getTransport();
+
+if(I){I.abort();
+}else if(qx.lang.Array.contains(this.__la,H)){qx.lang.Array.remove(this.__la,H);
+}}},destruct:function(){this._disposeArray(v);
+this._disposeObjects(n);
+this.__la=null;
+}});
+})();
+(function(){var v="failed",u="sending",t="completed",s="receiving",r="aborted",q="timeout",p="qx.event.type.Event",o="Connection dropped",n="qx.io.remote.Response",m="configured",bw="Unknown status code. ",bv="=",bu="qx.io.remote.transport.XmlHttp",bt="qx.io.remote.transport.Abstract",bs="Request-URL too large",br="MSHTML-specific HTTP status code",bq="Not available",bp="Precondition failed",bo="Server error",bn="Moved temporarily",C="&",D="qx.io.remote.Exchange",A="Possibly due to a cross-domain request?",B="Bad gateway",y="Gone",z="See other",w="Partial content",x="Server timeout",I="qx.io.remote.transport.Script",J="HTTP version not supported",S="Unauthorized",P="Possibly due to application URL using 'file:' protocol?",bb="Multiple choices",V="Payment required",bj="Not implemented",bg="Proxy authentication required",L="Length required",bm="_applyState",bl="changeState",bk="Not modified",K="qx.io.remote.Request",N="Connection closed by server",O="Moved permanently",R="_applyImplementation",T="Method not allowed",W="Forbidden",bd="Use proxy",bi="Ok",E="Conflict",F="Not found",M="Not acceptable",ba="Request time-out",Y="Bad request",X="No content",bf="file:",be="qx.io.remote.transport.Iframe",U="Request entity too large",bc="Unknown status code",k="Unsupported media type",bh="Gateway time-out",G="created",H="Out of resources",Q="undefined";
+qx.Class.define(D,{extend:qx.core.Object,construct:function(d){qx.core.Object.call(this);
+this.setRequest(d);
+d.setTransport(this);
+},events:{"sending":p,"receiving":p,"completed":n,"aborted":p,"failed":n,"timeout":n},statics:{typesOrder:[bu,be,I],typesReady:false,typesAvailable:{},typesSupported:{},registerType:function(bD,bE){qx.io.remote.Exchange.typesAvailable[bE]=bD;
+},initTypes:function(){if(qx.io.remote.Exchange.typesReady){return;
+}
+for(var bS in qx.io.remote.Exchange.typesAvailable){var bR=qx.io.remote.Exchange.typesAvailable[bS];
+
+if(bR.isSupported()){qx.io.remote.Exchange.typesSupported[bS]=bR;
+}}qx.io.remote.Exchange.typesReady=true;
+
+if(qx.lang.Object.isEmpty(qx.io.remote.Exchange.typesSupported)){throw new Error("No supported transport types were found!");
+}},canHandle:function(f,g,h){if(!qx.lang.Array.contains(f.handles.responseTypes,h)){return false;
+}
+for(var j in g){if(!f.handles[j]){return false;
+}}return true;
+},_nativeMap:{0:G,1:m,2:u,3:s,4:t},wasSuccessful:function(a,b,c){if(c){switch(a){case null:case 0:return true;
+case -1:return b<4;
+default:return typeof a===Q;
+}}else{switch(a){case -1:{};
+return b<4;
+case 200:case 304:return true;
+case 201:case 202:case 203:case 204:case 205:return true;
+case 206:{};
+return b!==4;
+case 300:case 301:case 302:case 303:case 305:case 400:case 401:case 402:case 403:case 404:case 405:case 406:case 407:case 408:case 409:case 410:case 411:case 412:case 413:case 414:case 415:case 500:case 501:case 502:case 503:case 504:case 505:{};
+return false;
+case 12002:case 12007:case 12029:case 12030:case 12031:case 12152:case 13030:{};
+return false;
+default:if(a>206&&a<300){return true;
+}qx.log.Logger.debug(this,"Unknown status code: "+a+" ("+b+")");
+return false;
+}}},statusCodeToString:function(bO){switch(bO){case -1:return bq;
+case 0:var bP=window.location.href;
+if(qx.lang.String.startsWith(bP.toLowerCase(),bf)){return (bw+P);
+}else{return (bw+A);
+}break;
+case 200:return bi;
+case 304:return bk;
+case 206:return w;
+case 204:return X;
+case 300:return bb;
+case 301:return O;
+case 302:return bn;
+case 303:return z;
+case 305:return bd;
+case 400:return Y;
+case 401:return S;
+case 402:return V;
+case 403:return W;
+case 404:return F;
+case 405:return T;
+case 406:return M;
+case 407:return bg;
+case 408:return ba;
+case 409:return E;
+case 410:return y;
+case 411:return L;
+case 412:return bp;
+case 413:return U;
+case 414:return bs;
+case 415:return k;
+case 500:return bo;
+case 501:return bj;
+case 502:return B;
+case 503:return H;
+case 504:return bh;
+case 505:return J;
+case 12002:return x;
+case 12029:return o;
+case 12030:return o;
+case 12031:return o;
+case 12152:return N;
+case 13030:return br;
+default:return bc;
+}}},properties:{request:{check:K,nullable:true},implementation:{check:bt,nullable:true,apply:R},state:{check:[m,u,s,t,r,q,v],init:m,event:bl,apply:bm}},members:{send:function(){var bI=this.getRequest();
+
+if(!bI){return this.error("Please attach a request object first");
+}qx.io.remote.Exchange.initTypes();
+var bG=qx.io.remote.Exchange.typesOrder;
+var bF=qx.io.remote.Exchange.typesSupported;
+var bK=bI.getResponseType();
+var bL={};
+
+if(bI.getAsynchronous()){bL.asynchronous=true;
+}else{bL.synchronous=true;
+}
+if(bI.getCrossDomain()){bL.crossDomain=true;
+}
+if(bI.getFileUpload()){bL.fileUpload=true;
+}for(var bJ in bI.getFormFields()){bL.programaticFormFields=true;
+break;
+}var bM,bH;
+
+for(var i=0,l=bG.length;i<l;i++){bM=bF[bG[i]];
+
+if(bM){if(!qx.io.remote.Exchange.canHandle(bM,bL,bK)){continue;
+}
+try{{};
+bH=new bM;
+this.setImplementation(bH);
+bH.setUseBasicHttpAuth(bI.getUseBasicHttpAuth());
+bH.send();
+return true;
+}catch(bQ){this.error("Request handler throws error");
+this.error(bQ);
+return;
+}}}this.error("There is no transport implementation available to handle this request: "+bI);
+},abort:function(){var bN=this.getImplementation();
+
+if(bN){{};
+bN.abort();
+}else{{};
+this.setState(r);
+}},timeout:function(){var bT=this.getImplementation();
+
+if(bT){this.warn("Timeout: implementation "+bT.toHashCode());
+bT.timeout();
+}else{this.warn("Timeout: forcing state to timeout");
+this.setState(q);
+}this.__lf();
+},__lf:function(){var bC=this.getRequest();
+
+if(bC){bC.setTimeout(0);
+}},_onsending:function(e){this.setState(u);
+},_onreceiving:function(e){this.setState(s);
+},_oncompleted:function(e){this.setState(t);
+},_onabort:function(e){this.setState(r);
+},_onfailed:function(e){this.setState(v);
+},_ontimeout:function(e){this.setState(q);
+},_applyImplementation:function(bV,bW){if(bW){bW.removeListener(u,this._onsending,this);
+bW.removeListener(s,this._onreceiving,this);
+bW.removeListener(t,this._oncompleted,this);
+bW.removeListener(r,this._onabort,this);
+bW.removeListener(q,this._ontimeout,this);
+bW.removeListener(v,this._onfailed,this);
+}
+if(bV){var bY=this.getRequest();
+bV.setUrl(bY.getUrl());
+bV.setMethod(bY.getMethod());
+bV.setAsynchronous(bY.getAsynchronous());
+bV.setUsername(bY.getUsername());
+bV.setPassword(bY.getPassword());
+bV.setParameters(bY.getParameters(false));
+bV.setFormFields(bY.getFormFields());
+bV.setRequestHeaders(bY.getRequestHeaders());
+if(bV instanceof qx.io.remote.transport.XmlHttp){bV.setParseJson(bY.getParseJson());
+}var cc=bY.getData();
+
+if(cc===null){var cd=bY.getParameters(true);
+var cb=[];
+
+for(var bX in cd){var ca=cd[bX];
+
+if(ca instanceof Array){for(var i=0;i<ca.length;i++){cb.push(encodeURIComponent(bX)+bv+encodeURIComponent(ca[i]));
+}}else{cb.push(encodeURIComponent(bX)+bv+encodeURIComponent(ca));
+}}
+if(cb.length>0){bV.setData(cb.join(C));
+}}else{bV.setData(cc);
+}bV.setResponseType(bY.getResponseType());
+bV.addListener(u,this._onsending,this);
+bV.addListener(s,this._onreceiving,this);
+bV.addListener(t,this._oncompleted,this);
+bV.addListener(r,this._onabort,this);
+bV.addListener(q,this._ontimeout,this);
+bV.addListener(v,this._onfailed,this);
+}},_applyState:function(bx,by){{};
+
+switch(bx){case u:this.fireEvent(u);
+break;
+case s:this.fireEvent(s);
+break;
+case t:case r:case q:case v:var bA=this.getImplementation();
+
+if(!bA){break;
+}this.__lf();
+
+if(this.hasListener(bx)){var bB=qx.event.Registration.createEvent(bx,qx.io.remote.Response);
+
+if(bx==t){var bz=bA.getResponseContent();
+bB.setContent(bz);
+if(bz===null){{};
+bx=v;
+}}else if(bx==v){bB.setContent(bA.getResponseContent());
+}bB.setStatusCode(bA.getStatusCode());
+bB.setResponseHeaders(bA.getResponseHeaders());
+this.dispatchEvent(bB);
+}this.setImplementation(null);
+bA.dispose();
+break;
+}}},settings:{"qx.ioRemoteDebug":false,"qx.ioRemoteDebugData":false},destruct:function(){var bU=this.getImplementation();
+
+if(bU){this.setImplementation(null);
+bU.dispose();
+}this.setRequest(null);
+}});
+})();
+(function(){var q="qx.event.type.Event",p="String",o="failed",n="timeout",m="created",l="aborted",k="sending",j="configured",i="receiving",h="completed",c="Object",g="Boolean",f="abstract",b="_applyState",a="GET",e="changeState",d="qx.io.remote.transport.Abstract";
+qx.Class.define(d,{type:f,extend:qx.core.Object,construct:function(){qx.core.Object.call(this);
+this.setRequestHeaders({});
+this.setParameters({});
+this.setFormFields({});
+},events:{"created":q,"configured":q,"sending":q,"receiving":q,"completed":q,"aborted":q,"failed":q,"timeout":q},properties:{url:{check:p,nullable:true},method:{check:p,nullable:true,init:a},asynchronous:{check:g,nullable:true,init:true},data:{check:p,nullable:true},username:{check:p,nullable:true},password:{check:p,nullable:true},state:{check:[m,j,k,i,h,l,n,o],init:m,event:e,apply:b},requestHeaders:{check:c,nullable:true},parameters:{check:c,nullable:true},formFields:{check:c,nullable:true},responseType:{check:p,nullable:true},useBasicHttpAuth:{check:g,nullable:true}},members:{send:function(){throw new Error("send is abstract");
+},abort:function(){{};
+this.setState(l);
+},timeout:function(){{};
+this.setState(n);
+},failed:function(){{};
+this.setState(o);
+},setRequestHeader:function(r,s){throw new Error("setRequestHeader is abstract");
+},getResponseHeader:function(t){throw new Error("getResponseHeader is abstract");
+},getResponseHeaders:function(){throw new Error("getResponseHeaders is abstract");
+},getStatusCode:function(){throw new Error("getStatusCode is abstract");
+},getStatusText:function(){throw new Error("getStatusText is abstract");
+},getResponseText:function(){throw new Error("getResponseText is abstract");
+},getResponseXml:function(){throw new Error("getResponseXml is abstract");
+},getFetchedLength:function(){throw new Error("getFetchedLength is abstract");
+},_applyState:function(u,v){{};
+
+switch(u){case m:this.fireEvent(m);
+break;
+case j:this.fireEvent(j);
+break;
+case k:this.fireEvent(k);
+break;
+case i:this.fireEvent(i);
+break;
+case h:this.fireEvent(h);
+break;
+case l:this.fireEvent(l);
+break;
+case o:this.fireEvent(o);
+break;
+case n:this.fireEvent(n);
+break;
+}return true;
+}},destruct:function(){this.setRequestHeaders(null);
+this.setParameters(null);
+this.setFormFields(null);
+}});
+})();
+(function(){var x="=",w="&",v="application/xml",u="application/json",t="text/html",s="qx.client",r="textarea",q="none",p="text/plain",o="text/javascript",R="",Q="completed",P="?",O="qx.io.remote.transport.Iframe",N="gecko",M="frame_",L="aborted",K="_data_",J="pre",I="javascript:void(0)",E="sending",F="form",C="failed",D='<iframe name="',A="mshtml",B="form_",y='"></iframe>',z="iframe",G="timeout",H="qx/static/blank.gif";
+qx.Class.define(O,{extend:qx.io.remote.transport.Abstract,construct:function(){qx.io.remote.transport.Abstract.call(this);
+var U=(new Date).valueOf();
+var V=M+U;
+var W=B+U;
+if(qx.core.Variant.isSet(s,A)){this.__lg=document.createElement(D+V+y);
+}else{this.__lg=document.createElement(z);
+}this.__lg.src=I;
+this.__lg.id=this.__lg.name=V;
+this.__lg.onload=qx.lang.Function.bind(this._onload,this);
+this.__lg.style.display=q;
+document.body.appendChild(this.__lg);
+this.__lh=document.createElement(F);
+this.__lh.target=V;
+this.__lh.id=this.__lh.name=W;
+this.__lh.style.display=q;
+document.body.appendChild(this.__lh);
+this.__li=document.createElement(r);
+this.__li.id=this.__li.name=K;
+this.__lh.appendChild(this.__li);
+this.__lg.onreadystatechange=qx.lang.Function.bind(this._onreadystatechange,this);
+},statics:{handles:{synchronous:false,asynchronous:true,crossDomain:false,fileUpload:true,programaticFormFields:true,responseTypes:[p,o,u,v,t]},isSupported:function(){return true;
+},_numericMap:{"uninitialized":1,"loading":2,"loaded":2,"interactive":3,"complete":4}},members:{__li:null,__lj:0,__lh:null,__lg:null,send:function(){var b=this.getMethod();
+var d=this.getUrl();
+var j=this.getParameters(false);
+var h=[];
+
+for(var c in j){var f=j[c];
+
+if(f instanceof Array){for(var i=0;i<f.length;i++){h.push(encodeURIComponent(c)+x+encodeURIComponent(f[i]));
+}}else{h.push(encodeURIComponent(c)+x+encodeURIComponent(f));
+}}
+if(h.length>0){d+=(d.indexOf(P)>=0?w:P)+h.join(w);
+}if(this.getData()===null){var j=this.getParameters(true);
+var h=[];
+
+for(var c in j){var f=j[c];
+
+if(f instanceof Array){for(var i=0;i<f.length;i++){h.push(encodeURIComponent(c)+x+encodeURIComponent(f[i]));
+}}else{h.push(encodeURIComponent(c)+x+encodeURIComponent(f));
+}}
+if(h.length>0){this.setData(h.join(w));
+}}var a=this.getFormFields();
+
+for(var c in a){var g=document.createElement(r);
+g.name=c;
+g.appendChild(document.createTextNode(a[c]));
+this.__lh.appendChild(g);
+}this.__lh.action=d;
+this.__lh.method=b;
+this.__li.appendChild(document.createTextNode(this.getData()));
+this.__lh.submit();
+this.setState(E);
+},_onload:qx.event.GlobalError.observeMethod(function(e){if(this.__lh.src){return;
+}this._switchReadyState(qx.io.remote.transport.Iframe._numericMap.complete);
+}),_onreadystatechange:qx.event.GlobalError.observeMethod(function(e){this._switchReadyState(qx.io.remote.transport.Iframe._numericMap[this.__lg.readyState]);
+}),_switchReadyState:function(n){switch(this.getState()){case Q:case L:case C:case G:this.warn("Ignore Ready State Change");
+return;
+}while(this.__lj<n){this.setState(qx.io.remote.Exchange._nativeMap[++this.__lj]);
+}},setRequestHeader:function(X,Y){},getResponseHeader:function(ba){return null;
+},getResponseHeaders:function(){return {};
+},getStatusCode:function(){return 200;
+},getStatusText:function(){return R;
+},getIframeWindow:function(){return qx.bom.Iframe.getWindow(this.__lg);
+},getIframeDocument:function(){return qx.bom.Iframe.getDocument(this.__lg);
+},getIframeBody:function(){return qx.bom.Iframe.getBody(this.__lg);
+},getIframeTextContent:function(){var m=this.getIframeBody();
+
+if(!m){return null;
+}
+if(!m.firstChild){return R;
+}if(m.firstChild.tagName&&m.firstChild.tagName.toLowerCase()==J){return m.firstChild.innerHTML;
+}else{return m.innerHTML;
+}},getIframeHtmlContent:function(){var k=this.getIframeBody();
+return k?k.innerHTML:null;
+},getFetchedLength:function(){return 0;
+},getResponseContent:function(){if(this.getState()!==Q){{};
+return null;
+}{};
+var l=this.getIframeTextContent();
+
+switch(this.getResponseType()){case p:{};
+return l;
+break;
+case t:l=this.getIframeHtmlContent();
+{};
+return l;
+break;
+case u:l=this.getIframeHtmlContent();
+{};
+
+try{return l&&l.length>0?qx.util.Json.parse(l,false):null;
+}catch(T){return this.error("Could not execute json: ("+l+")",T);
+}case o:l=this.getIframeHtmlContent();
+{};
+
+try{return l&&l.length>0?window.eval(l):null;
+}catch(S){return this.error("Could not execute javascript: ("+l+")",S);
+}case v:l=this.getIframeDocument();
+{};
+return l;
+default:this.warn("No valid responseType specified ("+this.getResponseType()+")!");
+return null;
+}}},defer:function(){qx.io.remote.Exchange.registerType(qx.io.remote.transport.Iframe,O);
+},destruct:function(){if(this.__lg){this.__lg.onload=null;
+this.__lg.onreadystatechange=null;
+if(qx.core.Variant.isSet(s,N)){this.__lg.src=qx.util.ResourceManager.getInstance().toUri(H);
+}document.body.removeChild(this.__lg);
+}
+if(this.__lh){document.body.removeChild(this.__lh);
+}this.__lg=this.__lh=this.__li=null;
+}});
+})();
+(function(){var i="qx.event.handler.Iframe",h="load",g="iframe";
+qx.Class.define(i,{extend:qx.core.Object,implement:qx.event.IEventHandler,statics:{PRIORITY:qx.event.Registration.PRIORITY_NORMAL,SUPPORTED_TYPES:{load:1},TARGET_CHECK:qx.event.IEventHandler.TARGET_DOMNODE,IGNORE_CAN_HANDLE:false,onevent:qx.event.GlobalError.observeMethod(function(j){qx.event.Registration.fireEvent(j,h);
+})},members:{canHandleEvent:function(k,l){return k.tagName.toLowerCase()===g;
+},registerEvent:function(a,b,c){},unregisterEvent:function(d,e,f){}},defer:function(m){qx.event.Registration.addHandler(m);
+}});
+})();
+(function(){var i="qx.client",h="webkit",g="body",f="iframe",e="qx.bom.Iframe";
+qx.Class.define(e,{statics:{DEFAULT_ATTRIBUTES:{onload:"qx.event.handler.Iframe.onevent(this)",frameBorder:0,frameSpacing:0,marginWidth:0,marginHeight:0,hspace:0,vspace:0,border:0,allowTransparency:true},create:function(j,k){var j=j?qx.lang.Object.clone(j):{};
+var l=qx.bom.Iframe.DEFAULT_ATTRIBUTES;
+
+for(var m in l){if(j[m]==null){j[m]=l[m];
+}}return qx.bom.Element.create(f,j,k);
+},getWindow:qx.core.Variant.select(i,{"mshtml|gecko":function(C){try{return C.contentWindow;
+}catch(n){return null;
+}},"default":function(A){try{var B=this.getDocument(A);
+return B?B.defaultView:null;
+}catch(r){return null;
+}}}),getDocument:qx.core.Variant.select(i,{"mshtml":function(c){try{var d=this.getWindow(c);
+return d?d.document:null;
+}catch(s){return null;
+}},"default":function(q){try{return q.contentDocument;
+}catch(D){return null;
+}}}),getBody:function(o){try{var p=this.getDocument(o);
+return p?p.getElementsByTagName(g)[0]:null;
+}catch(b){return null;
+}},setSource:function(u,v){try{if(this.getWindow(u)&&qx.dom.Hierarchy.isRendered(u)){try{if(qx.core.Variant.isSet(i,h)&&qx.bom.client.Platform.MAC){var w=this.getContentWindow();
+
+if(w){w.stop();
+}}this.getWindow(u).location.replace(v);
+}catch(x){u.src=v;
+}}else{u.src=v;
+}}catch(t){qx.log.Logger.warn("Iframe source could not be set!");
+}},queryCurrentUrl:function(y){var z=this.getDocument(y);
+
+try{if(z&&z.location){return z.location.href;
+}}catch(a){}return null;
+}}});
+})();
+(function(){var P=",",O="",N="string",M="null",L="new Date(Date.UTC(",K='"',J="))",I=':',H="qx.jsonDebugging",G='-',br='\\u00',bq="__lw",bp='\\\\',bo='\\f',bn="__ln",bm='\\"',bl='Z',bk='T',bj="}",bi='(',W='.',X="{",U='\\r',V=":",S="__lp",T='\\t',Q="The default returned parsed date format will change. Use the CONVERT_DATES flag to change the behavior.",R="]",Y="__lm",ba="[",bd="__lo",bc="__lx",bf="qx.jsonEncodeUndefined",be='\\b',bh="qx.util.Json",bg=')',bb='\\n';
+qx.Class.define(bh,{statics:{__lk:null,BEAUTIFYING_INDENT:"  ",BEAUTIFYING_LINE_END:"\n",CONVERT_DATES:null,__ll:{"function":Y,"boolean":bn,"number":bd,"string":S,"object":bq,"undefined":bc},__lm:function(bs,bt){return String(bs);
+},__ln:function(bx,by){return String(bx);
+},__lo:function(C,D){return isFinite(C)?String(C):M;
+},__lp:function(e,f){var g;
+
+if(/["\\\x00-\x1f]/.test(e)){g=e.replace(/([\x00-\x1f\\"])/g,qx.util.Json.__lr);
+}else{g=e;
+}return K+g+K;
+},__lq:{'\b':be,'\t':T,'\n':bb,'\f':bo,'\r':U,'"':bm,'\\':bp},__lr:function(a,b){var bD=qx.util.Json.__lq[b];
+
+if(bD){return bD;
+}bD=b.charCodeAt();
+return br+Math.floor(bD/16).toString(16)+(bD%16).toString(16);
+},__ls:function(v,w){var y=[],B=true,A,x;
+var z=qx.util.Json.__lz;
+y.push(ba);
+
+if(z){qx.util.Json.__lt+=qx.util.Json.BEAUTIFYING_INDENT;
+y.push(qx.util.Json.__lt);
+}
+for(var i=0,l=v.length;i<l;i++){x=v[i];
+A=this.__ll[typeof x];
+
+if(A){x=this[A](x,i+O);
+
+if(typeof x==N){if(!B){y.push(P);
+
+if(z){y.push(qx.util.Json.__lt);
+}}y.push(x);
+B=false;
+}}}
+if(z){qx.util.Json.__lt=qx.util.Json.__lt.substring(0,qx.util.Json.__lt.length-qx.util.Json.BEAUTIFYING_INDENT.length);
+y.push(qx.util.Json.__lt);
+}y.push(R);
+return y.join(O);
+},__lu:function(q,r){if(qx.util.Json.CONVERT_DATES===null){qx.log.Logger.deprecatedMethodWarning(arguments.callee,Q);
+var t=q.getUTCFullYear()+P+q.getUTCMonth()+P+q.getUTCDate()+P+q.getUTCHours()+P+q.getUTCMinutes()+P+q.getUTCSeconds()+P+q.getUTCMilliseconds();
+return L+t+J;
+}else if(!qx.util.Json.CONVERT_DATES){if(q.toJSON){return q.toJSON();
+}var s=qx.util.format.NumberFormat.getInstance();
+s.setMinimumIntegerDigits(2);
+var u=q.getUTCFullYear()+G+s.format(q.getUTCMonth()+1)+G+s.format(q.getUTCDate())+bk+s.format(q.getUTCHours())+I+s.format(q.getUTCMinutes())+I+s.format(q.getUTCSeconds())+W;
+s.setMinimumIntegerDigits(3);
+return u+s.format(q.getUTCMilliseconds())+bl;
+}else{var t=q.getUTCFullYear()+P+q.getUTCMonth()+P+q.getUTCDate()+P+q.getUTCHours()+P+q.getUTCMinutes()+P+q.getUTCSeconds()+P+q.getUTCMilliseconds();
+return L+t+J;
+}},__lv:function(h,j){var n=[],p=true,m,k;
+var o=qx.util.Json.__lz;
+n.push(X);
+
+if(o){qx.util.Json.__lt+=qx.util.Json.BEAUTIFYING_INDENT;
+n.push(qx.util.Json.__lt);
+}
+for(var j in h){k=h[j];
+m=this.__ll[typeof k];
+
+if(m){k=this[m](k,j);
+
+if(typeof k==N){if(!p){n.push(P);
+
+if(o){n.push(qx.util.Json.__lt);
+}}n.push(this.__lp(j),V,k);
+p=false;
+}}}
+if(o){qx.util.Json.__lt=qx.util.Json.__lt.substring(0,qx.util.Json.__lt.length-qx.util.Json.BEAUTIFYING_INDENT.length);
+n.push(qx.util.Json.__lt);
+}n.push(bj);
+return n.join(O);
+},__lw:function(E,F){if(E){if(qx.lang.Type.isFunction(E.toJSON)&&E.toJSON!==this.__lk){return this.__ly(E.toJSON(F),F);
+}else if(qx.lang.Type.isDate(E)){return this.__lu(E,F);
+}else if(qx.lang.Type.isArray(E)){return this.__ls(E,F);
+}else if(qx.lang.Type.isObject(E)){return this.__lv(E,F);
+}return O;
+}return M;
+},__lx:function(c,d){if(qx.core.Setting.get(bf)){return M;
+}},__ly:function(bA,bB){return this[this.__ll[typeof bA]](bA,bB);
+},stringify:function(bE,bF){this.__lz=bF;
+this.__lt=this.BEAUTIFYING_LINE_END;
+var bG=this.__ly(bE,O);
+
+if(typeof bG!=N){bG=null;
+}if(qx.core.Setting.get(H)){qx.log.Logger.debug(this,"JSON request: "+bG);
+}return bG;
+},parse:function(bu,bv){if(bv===undefined){bv=true;
+}
+if(qx.core.Setting.get(H)){qx.log.Logger.debug(this,"JSON response: "+bu);
+}
+if(bv){if(/[^,:{}\[\]0-9.\-+Eaeflnr-u \n\r\t]/.test(bu.replace(/"(\\.|[^"\\])*"/g,O))){throw new Error("Could not parse JSON string!");
+}}
+try{var bw=(bu&&bu.length>0)?eval(bi+bu+bg):null;
+return bw;
+}catch(bz){throw new Error("Could not evaluate JSON string: "+bz.message);
+}}},settings:{"qx.jsonEncodeUndefined":true,"qx.jsonDebugging":false},defer:function(bC){bC.__lk=Date.prototype.toJSON;
+}});
+})();
+(function(){var A="&",z="=",y="?",x="application/json",w="completed",v="text/plain",u="text/javascript",t="qx.io.remote.transport.Script",s="",r="_ScriptTransport_data",m="script",q="timeout",p="_ScriptTransport_",l="_ScriptTransport_id",k="aborted",o="utf-8",n="failed";
+qx.Class.define(t,{extend:qx.io.remote.transport.Abstract,construct:function(){qx.io.remote.transport.Abstract.call(this);
+var B=++qx.io.remote.transport.Script.__lB;
+
+if(B>=2000000000){qx.io.remote.transport.Script.__lB=B=1;
+}this.__lC=null;
+this.__lB=B;
+},statics:{__lB:0,_instanceRegistry:{},ScriptTransport_PREFIX:p,ScriptTransport_ID_PARAM:l,ScriptTransport_DATA_PARAM:r,handles:{synchronous:false,asynchronous:true,crossDomain:true,fileUpload:false,programaticFormFields:false,responseTypes:[v,u,x]},isSupported:function(){return true;
+},_numericMap:{"uninitialized":1,"loading":2,"loaded":2,"interactive":3,"complete":4},_requestFinished:qx.event.GlobalError.observeMethod(function(C,content){var D=qx.io.remote.transport.Script._instanceRegistry[C];
+
+if(D==null){{};
+}else{D._responseContent=content;
+D._switchReadyState(qx.io.remote.transport.Script._numericMap.complete);
+}})},members:{__lD:0,__lC:null,__lB:null,send:function(){var e=this.getUrl();
+e+=(e.indexOf(y)>=0?A:y)+qx.io.remote.transport.Script.ScriptTransport_ID_PARAM+z+this.__lB;
+var h=this.getParameters();
+var g=[];
+
+for(var d in h){if(d.indexOf(qx.io.remote.transport.Script.ScriptTransport_PREFIX)==0){this.error("Illegal parameter name. The following prefix is used internally by qooxdoo): "+qx.io.remote.transport.Script.ScriptTransport_PREFIX);
+}var f=h[d];
+
+if(f instanceof Array){for(var i=0;i<f.length;i++){g.push(encodeURIComponent(d)+z+encodeURIComponent(f[i]));
+}}else{g.push(encodeURIComponent(d)+z+encodeURIComponent(f));
+}}
+if(g.length>0){e+=A+g.join(A);
+}var c=this.getData();
+
+if(c!=null){e+=A+qx.io.remote.transport.Script.ScriptTransport_DATA_PARAM+z+encodeURIComponent(c);
+}qx.io.remote.transport.Script._instanceRegistry[this.__lB]=this;
+this.__lC=document.createElement(m);
+this.__lC.charset=o;
+this.__lC.src=e;
+{};
+document.body.appendChild(this.__lC);
+},_switchReadyState:function(b){switch(this.getState()){case w:case k:case n:case q:this.warn("Ignore Ready State Change");
+return;
+}while(this.__lD<b){this.setState(qx.io.remote.Exchange._nativeMap[++this.__lD]);
+}},setRequestHeader:function(E,F){},getResponseHeader:function(a){return null;
+},getResponseHeaders:function(){return {};
+},getStatusCode:function(){return 200;
+},getStatusText:function(){return s;
+},getFetchedLength:function(){return 0;
+},getResponseContent:function(){if(this.getState()!==w){{};
+return null;
+}{};
+
+switch(this.getResponseType()){case v:case x:case u:{};
+var j=this._responseContent;
+return (j===0?0:(j||null));
+default:this.warn("No valid responseType specified ("+this.getResponseType()+")!");
+return null;
+}}},defer:function(){qx.io.remote.Exchange.registerType(qx.io.remote.transport.Script,t);
+},destruct:function(){if(this.__lC){delete qx.io.remote.transport.Script._instanceRegistry[this.__lB];
+document.body.removeChild(this.__lC);
+}this.__lC=this._responseContent=null;
+}});
+})();
+(function(){var M="failed",L="completed",K="=",J="aborted",I="",H="sending",G="&",F="configured",E="timeout",D="application/xml",bj="qx.io.remote.transport.XmlHttp",bi="application/json",bh="text/html",bg="qx.client",bf="receiving",be="text/plain",bd="text/javascript",bc="?",bb="created",ba="Boolean",T='Referer',U='Basic ',R="\n</pre>",S="string",P='Authorization',Q="<pre>Could not execute json: \n",N="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",O=':',V="parseerror",W="file:",Y="webkit",X="object";
+qx.Class.define(bj,{extend:qx.io.remote.transport.Abstract,statics:{handles:{synchronous:true,asynchronous:true,crossDomain:false,fileUpload:false,programaticFormFields:false,responseTypes:[be,bd,bi,D,bh]},requestObjects:[],requestObjectCount:0,createRequestObject:qx.core.Variant.select(bg,{"default":function(){return new XMLHttpRequest;
+},"mshtml":function(){if(window.ActiveXObject&&qx.xml.Document.XMLHTTP){return new ActiveXObject(qx.xml.Document.XMLHTTP);
+}
+if(window.XMLHttpRequest){return new XMLHttpRequest;
+}}}),isSupported:function(){return !!this.createRequestObject();
+}},properties:{parseJson:{check:ba,init:true}},members:{__lE:false,__lF:0,__lG:null,getRequest:function(){if(this.__lG===null){this.__lG=qx.io.remote.transport.XmlHttp.createRequestObject();
+this.__lG.onreadystatechange=qx.lang.Function.bind(this._onreadystatechange,this);
+}return this.__lG;
+},send:function(){this.__lF=0;
+var bE=this.getRequest();
+var bA=this.getMethod();
+var bH=this.getAsynchronous();
+var bG=this.getUrl();
+var bC=(window.location.protocol===W&&!(/^http(s){0,1}\:/.test(bG)));
+this.__lE=bC;
+var bK=this.getParameters(false);
+var bI=[];
+
+for(var bB in bK){var bF=bK[bB];
+
+if(bF instanceof Array){for(var i=0;i<bF.length;i++){bI.push(encodeURIComponent(bB)+K+encodeURIComponent(bF[i]));
+}}else{bI.push(encodeURIComponent(bB)+K+encodeURIComponent(bF));
+}}
+if(bI.length>0){bG+=(bG.indexOf(bc)>=0?G:bc)+bI.join(G);
+}if(this.getData()===null){var bK=this.getParameters(true);
+var bI=[];
+
+for(var bB in bK){var bF=bK[bB];
+
+if(bF instanceof Array){for(var i=0;i<bF.length;i++){bI.push(encodeURIComponent(bB)+K+encodeURIComponent(bF[i]));
+}}else{bI.push(encodeURIComponent(bB)+K+encodeURIComponent(bF));
+}}
+if(bI.length>0){this.setData(bI.join(G));
+}}var bJ=function(j){var p=N;
+var u=I;
+var n,m,k;
+var q,r,t,o;
+var i=0;
+
+do{n=j.charCodeAt(i++);
+m=j.charCodeAt(i++);
+k=j.charCodeAt(i++);
+q=n>>2;
+r=((n&3)<<4)|(m>>4);
+t=((m&15)<<2)|(k>>6);
+o=k&63;
+
+if(isNaN(m)){t=o=64;
+}else if(isNaN(k)){o=64;
+}u+=p.charAt(q)+p.charAt(r)+p.charAt(t)+p.charAt(o);
+}while(i<j.length);
+return u;
+};
+try{if(this.getUsername()){if(this.getUseBasicHttpAuth()){bE.open(bA,bG,bH);
+bE.setRequestHeader(P,U+bJ(this.getUsername()+O+this.getPassword()));
+}else{bE.open(bA,bG,bH,this.getUsername(),this.getPassword());
+}}else{bE.open(bA,bG,bH);
+}}catch(z){this.error("Failed with exception: "+z);
+this.failed();
+return;
+}if(!qx.core.Variant.isSet(bg,Y)){bE.setRequestHeader(T,window.location.href);
+}var bD=this.getRequestHeaders();
+
+for(var bB in bD){bE.setRequestHeader(bB,bD[bB]);
+}try{{};
+bE.send(this.getData());
+}catch(A){if(bC){this.failedLocally();
+}else{this.error("Failed to send data: "+A,"send");
+this.failed();
+}return;
+}if(!bH){this._onreadystatechange();
+}},failedLocally:function(){if(this.getState()===M){return;
+}this.warn("Could not load from file: "+this.getUrl());
+this.failed();
+},_onreadystatechange:qx.event.GlobalError.observeMethod(function(e){switch(this.getState()){case L:case J:case M:case E:{};
+return;
+}var f=this.getReadyState();
+
+if(f==4){if(!qx.io.remote.Exchange.wasSuccessful(this.getStatusCode(),f,this.__lE)){if(this.getState()===F){this.setState(H);
+}this.failed();
+return;
+}}while(this.__lF<f){this.setState(qx.io.remote.Exchange._nativeMap[++this.__lF]);
+}}),getReadyState:function(){var bk=null;
+
+try{bk=this.getRequest().readyState;
+}catch(bm){}return bk;
+},setRequestHeader:function(bO,bP){this.getRequestHeaders()[bO]=bP;
+},getResponseHeader:function(bn){var bo=null;
+
+try{bo=this.getRequest().getResponseHeader(bn)||null;
+}catch(bu){}return bo;
+},getStringResponseHeaders:function(){var by=null;
+
+try{var bx=this.getRequest().getAllResponseHeaders();
+
+if(bx){by=bx;
+}}catch(bl){}return by;
+},getResponseHeaders:function(){var x=this.getStringResponseHeaders();
+var y={};
+
+if(x){var v=x.split(/[\r\n]+/g);
+
+for(var i=0,l=v.length;i<l;i++){var w=v[i].match(/^([^:]+)\s*:\s*(.+)$/i);
+
+if(w){y[w[1]]=w[2];
+}}}return y;
+},getStatusCode:function(){var b=-1;
+
+try{b=this.getRequest().status;
+}catch(bw){}return b;
+},getStatusText:function(){var a=I;
+
+try{a=this.getRequest().statusText;
+}catch(c){}return a;
+},getResponseText:function(){var B=null;
+
+try{B=this.getRequest().responseText;
+}catch(bq){B=null;
+}return B;
+},getResponseXml:function(){var bN=null;
+var bL=this.getStatusCode();
+var bM=this.getReadyState();
+
+if(qx.io.remote.Exchange.wasSuccessful(bL,bM,this.__lE)){try{bN=this.getRequest().responseXML;
+}catch(bp){}}if(typeof bN==X&&bN!=null){if(!bN.documentElement){var s=String(this.getRequest().responseText).replace(/<\?xml[^\?]*\?>/,I);
+bN.loadXML(s);
+}if(!bN.documentElement){throw new Error("Missing Document Element!");
+}
+if(bN.documentElement.tagName==V){throw new Error("XML-File is not well-formed!");
+}}else{throw new Error("Response was not a valid xml document ["+this.getRequest().responseText+"]");
+}return bN;
+},getFetchedLength:function(){var C=this.getResponseText();
+return typeof C==S?C.length:0;
+},getResponseContent:function(){var br=this.getState();
+
+if(br!==L&&br!=M){{};
+return null;
+}{};
+var bt=this.getResponseText();
+
+if(br==M){{};
+return bt;
+}
+switch(this.getResponseType()){case be:case bh:{};
+return bt;
+case bi:{};
+
+try{if(bt&&bt.length>0){var bs;
+
+if(this.getParseJson()){bs=qx.util.Json.parse(bt,false);
+bs=(bs===0?0:(bs||null));
+}else{bs=bt;
+}return bs;
+}else{return null;
+}}catch(bv){this.error("Could not execute json: ["+bt+"]",bv);
+return Q+bt+R;
+}case bd:{};
+
+try{if(bt&&bt.length>0){var bs=window.eval(bt);
+return (bs===0?0:(bs||null));
+}else{return null;
+}}catch(bz){this.error("Could not execute javascript: ["+bt+"]",bz);
+return null;
+}case D:bt=this.getResponseXml();
+{};
+return (bt===0?0:(bt||null));
+default:this.warn("No valid responseType specified ("+this.getResponseType()+")!");
+return null;
+}},_applyState:function(g,h){{};
+
+switch(g){case bb:this.fireEvent(bb);
+break;
+case F:this.fireEvent(F);
+break;
+case H:this.fireEvent(H);
+break;
+case bf:this.fireEvent(bf);
+break;
+case L:this.fireEvent(L);
+break;
+case M:this.fireEvent(M);
+break;
+case J:this.getRequest().abort();
+this.fireEvent(J);
+break;
+case E:this.getRequest().abort();
+this.fireEvent(E);
+break;
+}}},defer:function(){qx.io.remote.Exchange.registerType(qx.io.remote.transport.XmlHttp,bj);
+},destruct:function(){var d=this.getRequest();
+
+if(d){d.onreadystatechange=qx.lang.Function.empty;
+switch(d.readyState){case 1:case 2:case 3:d.abort();
+}}this.__lG=null;
+}});
+})();
+(function(){var c="Integer",b="Object",a="qx.io.remote.Response";
+qx.Class.define(a,{extend:qx.event.type.Event,properties:{state:{check:c,nullable:true},statusCode:{check:c,nullable:true},content:{nullable:true},responseHeaders:{check:b,nullable:true}},members:{clone:function(f){var g=qx.event.type.Event.prototype.clone.call(this,f);
+g.setType(this.getType());
+g.setState(this.getState());
+g.setStatusCode(this.getStatusCode());
+g.setContent(this.getContent());
+g.setResponseHeaders(this.getResponseHeaders());
+return g;
+},getResponseHeader:function(d){var e=this.getResponseHeaders();
+
+if(e){return e[d]||null;
+}return null;
+}}});
+})();
+(function(){var m="nameChanged",l="Delete",k="execute",j="?",i="dropnode.DeleteDialogUI",h="Are you sure you want to delete ",g="Cancel";
+qx.Class.define(i,{extend:qx.core.Object,properties:{ok:{nullable:true},cancel:{nullable:true},name:{nullable:true,event:m},type:{nullable:true},base_container:{nullable:true},event_bus:{nullable:true}},members:{nameChanged:function(){this.debug("Name changed to "+this.getName());
+},initialize:function(f){this.setEvent_bus(f);
+},init_gui:function(){var n=new qx.ui.window.Window(l);
+n.setLayout(new qx.ui.layout.VBox());
+n.setShowStatusbar(false);
+n.setEnabled(true);
+n.setModal(true);
+n.setMovable(false);
+n.setShowClose(false);
+n.setShowMaximize(false);
+n.setShowMinimize(false);
+n.add(this.dialog());
+this.setBase_container(n);
+this.getOk().addListener(k,function(e){this.getBase_container().close();
+},this);
+this.getCancel().addListener(k,function(e){this.getBase_container().close();
+},this);
+},open:function(){this.getBase_container().center();
+this.getBase_container().open();
+},dialog:function(){var b=new qx.ui.layout.VBox();
+var c=new qx.ui.container.Composite(b);
+b.setSpacing(4);
+var a=new qx.ui.container.Composite(new qx.ui.layout.HBox());
+this.setOk(new qx.ui.form.Button(l));
+this.setCancel(new qx.ui.form.Button(g));
+a.add(this.getOk());
+a.add(this.getCancel());
+var d=new qx.ui.basic.Label();
+this.addListener(m,function(e){d.setValue(h+this.getName()+j);
+});
+c.add(d);
+c.add(a);
+return c;
+}}});
+})();
+(function(){var b="dropnode.BaseUIController",a='singleton';
+qx.Class.define(b,{type:a,extend:dropnode.Controller});
+})();
+(function(){var d="Sharer Dashboard",c="app-header",b="DropNode 0.1",a="dropnode.BaseUI";
+qx.Class.define(a,{extend:qx.core.Object,properties:{event_bus:{nullable:true},base_container:{nullable:true},app_container:{nullable:true}},members:{initialize:function(e){this.setEvent_bus(e);
+},init_gui:function(){this.base_container=new qx.ui.container.Composite(new qx.ui.layout.VBox());
+this.base_container.add(this.main_header());
+this.app_container=new qx.ui.container.Composite(new qx.ui.layout.VBox());
+this.base_container.add(this.app_container);
+},main_header:function(){var i=new qx.ui.layout.HBox();
+var g=new qx.ui.container.Composite(i);
+g.setAppearance(c);
+var j=new qx.ui.basic.Label(d);
+var h=new qx.ui.basic.Label(b);
+g.add(j);
+g.add(new qx.ui.core.Spacer,{flex:1});
+g.add(h);
+return g;
+},add:function(f){this.app_container.add(f);
+},error:function(){}}});
+})();
+(function(){var b="dropnode.FileDashboardController",a='singleton';
+qx.Class.define(b,{extend:dropnode.Controller,type:a,members:{_processMessage:function(){this.debug("File Dashboard Controller "+this.getMessage());
+},error:function(c){this.getParent().error(c);
+}}});
+})();
+(function(){var c="horizontal",b="changeMessage",a="dropnode.FileDashboardUI";
+qx.Class.define(a,{extend:qx.core.Object,properties:{message:{nullable:true,event:b},base_container:{nullable:true},event_bus:{nullable:true}},members:{initialize:function(d){this.setEvent_bus(d);
+},init_gui:function(){this.setBase_container(new qx.ui.splitpane.Pane(c).set({width:350,height:100}));
+},add:function(e){if(this.getBase_container().getChildren().length==0){this.getBase_container().add(e,3);
+}else{this.getBase_container().add(e,5);
+}}}});
+})();
+(function(){var bh="splitter",bg="slider",bf="mousedown",be="mouseout",bd="mousemove",bc="mouseup",bb="losecapture",ba="active",Y="horizontal",X="vertical",bx="knob",bw="Integer",bv="height",bu="row-resize",bt="move",bs="maxHeight",br="width",bq="_applyOrientation",bp="mouseover",bo="splitpane",bm="qx.ui.splitpane.Pane",bn="_applyOffset",bk="minHeight",bl="minWidth",bi="col-resize",bj="maxWidth";
+qx.Class.define(bm,{extend:qx.ui.core.Widget,construct:function(P){qx.ui.core.Widget.call(this);
+this.__kJ=[];
+if(P){this.setOrientation(P);
+}else{this.initOrientation();
+}this.addListener(bf,this._onMouseDown);
+this.addListener(bc,this._onMouseUp);
+this.addListener(bd,this._onMouseMove);
+this.addListener(be,this._onMouseOut);
+this.addListener(bb,this._onMouseUp);
+},properties:{appearance:{refine:true,init:bo},offset:{check:bw,init:6,apply:bn},orientation:{init:Y,check:[Y,X],apply:bq}},members:{__kK:null,__kL:false,__kM:null,__kN:null,__kO:null,__kP:null,__kQ:null,__kJ:null,_createChildControlImpl:function(bA){var bB;
+
+switch(bA){case bg:bB=new qx.ui.splitpane.Slider(this);
+bB.exclude();
+this._add(bB,{type:bA});
+break;
+case bh:bB=new qx.ui.splitpane.Splitter(this);
+this._add(bB,{type:bA});
+bB.addListener(bt,this._onSplitterMove,this);
+if(qx.bom.client.Engine.OPERA){bB.addListener(bp,this._onSplitterMouseOver,bB);
+}break;
+}return bB||qx.ui.core.Widget.prototype._createChildControlImpl.call(this,bA);
+},_applyOrientation:function(G,H){var I=this.getChildControl(bg);
+var L=this.getChildControl(bh);
+this.__kO=G===Y;
+var K=this._getLayout();
+
+if(K){K.dispose();
+}var J=G===X?new qx.ui.splitpane.VLayout:new qx.ui.splitpane.HLayout;
+this._setLayout(J);
+L.removeState(H);
+L.addState(G);
+L.getChildControl(bx).removeState(H);
+L.getChildControl(bx).addState(G);
+I.removeState(H);
+I.addState(G);
+},_applyOffset:function(D,E){var F=this.getChildControl(bh);
+
+if(E===0){F.removeListener(bf,this._onMouseDown,this);
+F.removeListener(bd,this._onMouseMove,this);
+F.removeListener(be,this._onMouseOut,this);
+F.removeListener(bc,this._onMouseUp,this);
+F.removeListener(bb,this._onMouseUp,this);
+this.addListener(bf,this._onMouseDown);
+this.addListener(bc,this._onMouseUp);
+this.addListener(bd,this._onMouseMove);
+this.addListener(be,this._onMouseOut);
+this.addListener(bb,this._onMouseUp);
+}
+if(D===0){this.removeListener(bf,this._onMouseDown);
+this.removeListener(bc,this._onMouseUp);
+this.removeListener(bd,this._onMouseMove);
+this.removeListener(be,this._onMouseOut);
+this.removeListener(bb,this._onMouseUp);
+F.addListener(bf,this._onMouseDown,this);
+F.addListener(bd,this._onMouseMove,this);
+F.addListener(be,this._onMouseOut,this);
+F.addListener(bc,this._onMouseUp,this);
+F.addListener(bb,this._onMouseUp,this);
+}},add:function(B,C){if(C==null){this._add(B);
+}else{this._add(B,{flex:C});
+}this.__kJ.push(B);
+},remove:function(r){this._remove(r);
+qx.lang.Array.remove(this.__kJ,r);
+},getChildren:function(){return this.__kJ;
+},_onMouseDown:function(e){if(!e.isLeftPressed()||!this._isNear()){return;
+}var a=this.getChildControl(bh);
+var c=a.getContainerLocation();
+var b=this.getContentLocation();
+this.__kK=this.__kO?e.getDocumentLeft()-c.left+b.left:e.getDocumentTop()-c.top+b.top;
+var f=this.getChildControl(bg);
+var d=a.getBounds();
+f.setUserBounds(d.left,d.top,d.width,d.height);
+f.setZIndex(a.getZIndex()+1);
+f.show();
+this.__kL=true;
+e.getCurrentTarget().capture();
+e.stop();
+},_onMouseMove:function(e){this._setLastMousePosition(e.getDocumentLeft(),e.getDocumentTop());
+if(this.__kL){this.__kS();
+var by=this.getChildControl(bg);
+var bz=this.__kP;
+
+if(this.__kO){by.setDomLeft(bz);
+}else{by.setDomTop(bz);
+}e.stop();
+}else{this.__kR();
+}},_onMouseOut:function(e){this._setLastMousePosition(-100,-100);
+this.__kR();
+},_onMouseUp:function(e){if(!this.__kL){return;
+}this._finalizeSizes();
+var g=this.getChildControl(bg);
+g.exclude();
+this.__kL=false;
+this.releaseCapture();
+this.__kR();
+e.stop();
+},_onSplitterMove:function(){this.__kR();
+},_onSplitterMouseOver:function(){this.addState(ba);
+},_finalizeSizes:function(){var T=this.__kP;
+var Q=this.__kQ;
+
+if(T==null){return;
+}var V=this._getChildren();
+var U=V[2];
+var R=V[3];
+var S=U.getLayoutProperties().flex;
+var W=R.getLayoutProperties().flex;
+if((S!=0)&&(W!=0)){U.setLayoutProperties({flex:T});
+R.setLayoutProperties({flex:Q});
+}else{if(this.__kO){U.setWidth(T);
+R.setWidth(Q);
+}else{U.setHeight(T);
+R.setHeight(Q);
+}}},_isNear:function(){var s=this.getChildControl(bh);
+var u=s.getBounds();
+var w=s.getContainerLocation();
+var t=this.getOffset();
+if(!w){return;
+}var z=this.__kM;
+var A=u.width;
+var v=w.left;
+
+if(A<t){v-=Math.floor((t-A)/2);
+A=t;
+}
+if(z<v||z>(v+A)){return false;
+}var z=this.__kN;
+var A=u.height;
+var v=w.top;
+
+if(A<t){v-=Math.floor((t-A)/2);
+A=t;
+}
+if(z<v||z>(v+A)){return false;
+}return true;
+},__kR:function(){var N=this.getChildControl(bh);
+var O=this.getApplicationRoot();
+if(this.__kL||this._isNear()){var M=this.__kO?bi:bu;
+this.setCursor(M);
+O.setGlobalCursor(M);
+N.addState(ba);
+}else if(N.hasState(ba)){this.resetCursor();
+O.resetGlobalCursor();
+N.removeState(ba);
+}},__kS:function(){if(this.__kO){var j=bl,q=br,k=bj,o=this.__kM;
+}else{var j=bk,q=bv,k=bs,o=this.__kN;
+}var p=this._getChildren();
+var h=p[2].getSizeHint();
+var m=p[3].getSizeHint();
+var n=p[2].getBounds()[q]+p[3].getBounds()[q];
+var l=o-this.__kK;
+var i=n-l;
+if(l<h[j]){i-=h[j]-l;
+l=h[j];
+}else if(i<m[j]){l-=m[j]-i;
+i=m[j];
+}if(l>h[k]){i+=l-h[k];
+l=h[k];
+}else if(i>m[k]){l+=i-m[k];
+i=m[k];
+}this.__kP=l;
+this.__kQ=i;
+},_isActiveDragSession:function(){return this.__kL;
+},_setLastMousePosition:function(x,y){this.__kM=x;
+this.__kN=y;
+}},destruct:function(){this.__kJ=null;
+}});
+})();
+(function(){var a="qx.ui.splitpane.Slider";
+qx.Class.define(a,{extend:qx.ui.core.Widget,properties:{allowShrinkX:{refine:true,init:false},allowShrinkY:{refine:true,init:false}}});
+})();
+(function(){var f="center",e="knob",d="middle",c="qx.ui.splitpane.Splitter",b="vertical";
+qx.Class.define(c,{extend:qx.ui.core.Widget,construct:function(a){qx.ui.core.Widget.call(this);
+if(a.getOrientation()==b){this._setLayout(new qx.ui.layout.HBox(0,f));
+this._getLayout().setAlignY(d);
+}else{this._setLayout(new qx.ui.layout.VBox(0,d));
+this._getLayout().setAlignX(f);
+}this._createChildControl(e);
+},properties:{allowShrinkX:{refine:true,init:false},allowShrinkY:{refine:true,init:false}},members:{_createChildControlImpl:function(g){var h;
+
+switch(g){case e:h=new qx.ui.basic.Image;
+this._add(h);
+break;
+}return h||qx.ui.core.Widget.prototype._createChildControlImpl.call(this,g);
+}}});
+})();
+(function(){var c="slider",b="splitter",a="qx.ui.splitpane.VLayout";
+qx.Class.define(a,{extend:qx.ui.layout.Abstract,members:{verifyLayoutProperty:null,renderLayout:function(o,p){var F=this._getLayoutChildren();
+var length=F.length;
+var B,E;
+var r,q,z,s;
+
+for(var i=0;i<length;i++){B=F[i];
+E=B.getLayoutProperties().type;
+
+if(E===b){q=B;
+}else if(E===c){z=B;
+}else if(!r){r=B;
+}else{s=B;
+}}
+if(r&&s){var H=r.getLayoutProperties().flex;
+var u=s.getLayoutProperties().flex;
+
+if(H==null){H=1;
+}
+if(u==null){u=1;
+}var G=r.getSizeHint();
+var x=q.getSizeHint();
+var y=s.getSizeHint();
+var t=G.height;
+var C=x.height;
+var D=y.height;
+
+if(H>0&&u>0){var v=H+u;
+var w=p-C;
+var t=Math.round((w/v)*H);
+var D=w-t;
+var A=qx.ui.layout.Util.arrangeIdeals(G.minHeight,t,G.maxHeight,y.minHeight,D,y.maxHeight);
+t=A.begin;
+D=A.end;
+}else if(H>0){t=p-C-D;
+
+if(t<G.minHeight){t=G.minHeight;
+}
+if(t>G.maxHeight){t=G.maxHeight;
+}}else if(u>0){D=p-t-C;
+
+if(D<y.minHeight){D=y.minHeight;
+}
+if(D>y.maxHeight){D=y.maxHeight;
+}}r.renderLayout(0,0,o,t);
+q.renderLayout(0,t,o,C);
+s.renderLayout(0,t+C,o,D);
+}else{q.renderLayout(0,0,0,0);
+if(r){r.renderLayout(0,0,o,p);
+}else if(s){s.renderLayout(0,0,o,p);
+}}},_computeSizeHint:function(){var n=this._getLayoutChildren();
+var length=n.length;
+var f,e,m;
+var g=0,j=0,h=0;
+var k=0,l=0,d=0;
+
+for(var i=0;i<length;i++){f=n[i];
+m=f.getLayoutProperties();
+if(m.type===c){continue;
+}e=f.getSizeHint();
+g+=e.minHeight;
+j+=e.height;
+h+=e.maxHeight;
+
+if(e.minWidth>k){k=e.minWidth;
+}
+if(e.width>l){l=e.width;
+}
+if(e.maxWidth>d){d=e.maxWidth;
+}}return {minHeight:g,height:j,maxHeight:h,minWidth:k,width:l,maxWidth:d};
+}}});
+})();
+(function(){var x="slider",w="splitter",v="qx.ui.splitpane.HLayout";
+qx.Class.define(v,{extend:qx.ui.layout.Abstract,members:{verifyLayoutProperty:null,renderLayout:function(a,b){var s=this._getLayoutChildren();
+var length=s.length;
+var p,r;
+var d,c,m,e;
+
+for(var i=0;i<length;i++){p=s[i];
+r=p.getLayoutProperties().type;
+
+if(r===w){c=p;
+}else if(r===x){m=p;
+}else if(!d){d=p;
+}else{e=p;
+}}
+if(d&&e){var u=d.getLayoutProperties().flex;
+var f=e.getLayoutProperties().flex;
+
+if(u==null){u=1;
+}
+if(f==null){f=1;
+}var t=d.getSizeHint();
+var j=c.getSizeHint();
+var l=e.getSizeHint();
+var q=t.width;
+var o=j.width;
+var n=l.width;
+
+if(u>0&&f>0){var g=u+f;
+var h=a-o;
+var q=Math.round((h/g)*u);
+var n=h-q;
+var k=qx.ui.layout.Util.arrangeIdeals(t.minWidth,q,t.maxWidth,l.minWidth,n,l.maxWidth);
+q=k.begin;
+n=k.end;
+}else if(u>0){q=a-o-n;
+
+if(q<t.minWidth){q=t.minWidth;
+}
+if(q>t.maxWidth){q=t.maxWidth;
+}}else if(f>0){n=a-q-o;
+
+if(n<l.minWidth){n=l.minWidth;
+}
+if(n>l.maxWidth){n=l.maxWidth;
+}}d.renderLayout(0,0,q,b);
+c.renderLayout(q,0,o,b);
+e.renderLayout(q+o,0,n,b);
+}else{c.renderLayout(0,0,0,0);
+if(d){d.renderLayout(0,0,a,b);
+}else if(e){e.renderLayout(0,0,a,b);
+}}},_computeSizeHint:function(){var H=this._getLayoutChildren();
+var length=H.length;
+var A,z,G;
+var E=0,F=0,y=0;
+var B=0,D=0,C=0;
+
+for(var i=0;i<length;i++){A=H[i];
+G=A.getLayoutProperties();
+if(G.type===x){continue;
+}z=A.getSizeHint();
+E+=z.minWidth;
+F+=z.width;
+y+=z.maxWidth;
+
+if(z.minHeight>B){B=z.minHeight;
+}
+if(z.height>D){D=z.height;
+}
+if(z.maxHeight>C){C=z.maxHeight;
+}}return {minWidth:E,width:F,maxWidth:y,minHeight:B,height:D,maxHeight:C};
+}}});
+})();
+(function(){var G="func",F="-",E="dropnode.FileTreeController",D="*",C="",B="allfiles",A="gray",z="details",y="]",w="%",r=" ",v="fileTree.delete",u="[",q="changeSelection",p="delete",t="100%",s='singleton';
+qx.Class.define(E,{type:s,extend:dropnode.Controller,properties:{currentSelection:{nullable:true},name:{nullable:true},fileId:{nullable:true},nodeId:{nullable:true}},members:{map:[],url:null,initialize:function(x){arguments.callee.base.apply(this,arguments);
+dropnode.Utilities.withMockReq({"request":B},dropnode.Utilities.makeCallback(this._create_data_model,this),dropnode.Utilities.makeCallback(this.error,this),dropnode.TestUsers.shared_files);
+},error:function(o){this.getParent().error(o);
+},_create_data_model:function(R){this._to_url_map(R);
+var U=this.getUi().getFile_tree().getDataModel();
+var T=R.length;
+
+for(var i=0;i<T;i++){var W=R[i].encodedName;
+var S=R[i].recipients;
+var X=U.addBranch(null,R[i].name,false);
+U.setColumnData(X,1,R[i].url);
+U.setColumnData(X,2,R[i].recipients.length);
+
+for(var j=0;j<S.length;j++){var V=U.addLeaf(X,C,null,null);
+U.setColumnData(V,1,this.ascii_progress_bar(100,S[j].progress,40)+r+S[j].progress+w);
+}}U.setData();
+},_to_url_map:function(l){var m={};
+
+for(var i=0;i<l.length;i++){m[l[i].url]=l[i];
+}this.map=m;
+},ascii_progress_bar:function(c,d,f){var h=d/c;
+var k=Math.floor(h*f);
+var g=u;
+
+for(var i=0;i<f;i++){if(i<=k&&k!=0){g=g+D;
+}else{g=g+F;
+}}g=g+y;
+return g;
+},_addListeners:function(){this.getUi().getFile_tree().addListener(q,function(e){var n=e.getData()[0];
+this.setNodeId(n.nodeId);
+
+if(n.type==2){this.url=n.columnData[1];
+}else if(n.type==1){this.url=this.getUi().getFile_tree().nodeGet(n.parentNodeId).columnData[1];
+}},this);
+},_addReactors:function(){this._subscribe(z,this._relay_details,this);
+this._subscribe(p,this._relay_delete,this);
+},_relay_delete:function(){this._dispatch(v,this.map[this.url]);
+},_addBindings:function(){},_is_branch:function(a){var b=this.getUi().getFile_tree().nodeGet(a).type;
+
+if(b==qx.ui.treevirtual.SimpleTreeDataModel.Type.BRANCH){return true;
+}else return false;
+},_is_leaf:function(H){if(!(this.is_branch(H))){return true;
+}else return false;
+},testProgressive:function(){var N=0;
+var K=[];
+
+for(var Q=0;Q<50;Q++){K.push({renderer:G,data:function(){return null;
+}});
+}var M=new qx.ui.progressive.renderer.table.Widths(1);
+M.setWidth(0,t);
+var J=new qx.ui.progressive.headfoot.Progress(M);
+var P=new qx.ui.progressive.structure.Default(null,J);
+var I=new qx.ui.progressive.Progressive(P);
+var L=new qx.ui.progressive.model.Default();
+L.addElements(K);
+I.setDataModel(L);
+var O=new qx.ui.progressive.renderer.FunctionCaller();
+I.addRenderer(G,O);
+I.set({height:10,width:200,zIndex:99999,backgroundColor:A,opacity:0.86,batchSize:1});
+return I;
+}}});
+})();
+(function(){var g="1.com",f="2.com",e="abcdef",d="dropnode.TestUsers",c="ghijkl",b="TestFile2.jpeg",a="TestFile.jpeg";
+qx.Class.define(d,{extend:qx.core.Object,statics:{shared_files:[{name:a,encodedName:e,url:g,recipients:[{progress:10},{progress:50},{progress:0}]},{name:b,encodedName:c,url:f,recipients:[{progress:15},{progress:100}]}]}});
+})();
+(function(){var e="maxWidth",d="qx.ui.progressive.renderer.table.Widths",c="minWidth",b="width";
+qx.Class.define(d,{extend:qx.core.Object,construct:function(a){qx.core.Object.call(this);
+this.__xn=[];
+
+for(var i=0;i<a;i++){this.__xn[i]=new qx.ui.core.ColumnData();
+}},members:{__xn:null,getData:function(){return this.__xn;
+},set:function(f,g){for(var h in g){switch(h){case b:this.setWidth(f,g[h]);
+break;
+case c:this.setMinWidth(f,g[h]);
+break;
+case e:this.setMaxWidth(f,g[h]);
+break;
+default:throw new Error("Unrecognized key: "+h);
+}}},setWidth:function(l,m){if(l>this.__xn.length-1||l<0){throw new Error("Column number out of range");
+}this.__xn[l].setColumnWidth(m);
+},setMinWidth:function(j,k){if(j>this.__xn.length-1||j<0){throw new Error("Column number out of range");
+}this.__xn[j].setMinWidth(k);
+},setMaxWidth:function(n,o){if(n>this.__xn.length-1||n<0){throw new Error("Column number out of range");
+}this.__xn[n].setMaxWidth(o);
+}}});
+})();
+(function(){var b="qx.ui.progressive.headfoot.Abstract",a="abstract";
+qx.Class.define(b,{type:a,extend:qx.ui.container.Composite,construct:function(){qx.ui.container.Composite.call(this,new qx.ui.layout.HBox());
+},members:{__xo:null,join:function(c){this.__xo=c;
+}},destruct:function(){this.__xo=null;
+}});
+})();
+(function(){var n="progressive-progressbar-indicator-undone",m="__xq",l="progress",k="%",j="progressive-progressbar-indicator-done",i="progressive-progressbar-percent-text",h="renderStart",g="progressive-progressbar-background",f="0%",d="__xr",a="qx.ui.progressive.headfoot.Progress",c="progressive-progressbar-percent-background",b="renderEnd";
+qx.Class.define(a,{extend:qx.ui.progressive.headfoot.Abstract,construct:function(s,t){qx.ui.progressive.headfoot.Abstract.call(this);
+this.setHeight(16);
+this.setPadding(0);
+this.__xp={};
+var u=qx.theme.manager.Color.getInstance();
+this.__xp.background=u.resolve(g);
+this.__xp.indicatorDone=u.resolve(j);
+this.__xp.indicatorUndone=u.resolve(n);
+this.__xp.percentBackground=u.resolve(c);
+this.__xp.percentText=u.resolve(i);
+this.set({backgroundColor:this.__xp.background});
+this.__xq=new qx.ui.core.Widget();
+this.__xq.set({width:0,backgroundColor:this.__xp.indicatorDone});
+this.add(this.__xq);
+var v=new qx.ui.core.Widget();
+v.set({backgroundColor:this.__xp.indicatorUndone});
+this.add(v,{flex:1});
+this.__xr=new qx.ui.basic.Atom(f);
+this.__xr.set({width:100,backgroundColor:this.__xp.percentBackground,textColor:this.__xp.percentText});
+this.add(this.__xr);
+this.exclude();
+},members:{__xs:null,__xp:null,__xq:null,__xr:null,join:function(w){qx.ui.progressive.headfoot.Abstract.prototype.join.call(this,w);
+w.addListener(h,function(e){this.__xs=e.getData().initial;
+this.show();
+},this);
+w.addListener(l,function(e){var q=1.0-(e.getData().remaining/this.__xs);
+var r=this.getBounds();
+
+if(r){var o=Math.floor((r.width-this.__xr.getBounds().width)*q);
+var p=Math.floor(q*100)+k;
+
+if(!isNaN(o)){this.__xq.setMinWidth(o);
+this.__xr.setLabel(p);
+}}},this);
+w.addListener(b,function(e){this.exclude();
+},this);
+}},destruct:function(){this.__xp=null;
+this._disposeObjects(m,d);
+}});
+})();
+(function(){var d="abstract",c="qx.ui.progressive.structure.Abstract",b="overflowY",a="auto";
+qx.Class.define(c,{type:d,extend:qx.core.Object,construct:function(f){qx.core.Object.call(this);
+if(!f){this.__xt=new qx.ui.core.Widget();
+this.__xu=this.__xt;
+}else{this.__xt=null;
+this.__xu=f;
+}this.__xu.getContentElement().setStyle(b,a);
+},members:{__xt:null,__xu:null,applyStructure:function(e){throw new Error("applyStructure() is abstract");
+},getPane:function(){return this.__xu;
+}},destruct:function(){if(this.__xt){this.__xt.dispose();
+}this.__xt=this.__xu=null;
+}});
+})();
+(function(){var a="qx.ui.progressive.structure.Default";
+qx.Class.define(a,{extend:qx.ui.progressive.structure.Abstract,construct:function(c,d,e){qx.ui.progressive.structure.Abstract.call(this,e);
+if(!c){this.__xv=new qx.ui.progressive.headfoot.Null();
+this.__xw=this.__xv;
+}else{this.__xv=null;
+this.__xw=c;
+}if(!d){this.__xx=new qx.ui.progressive.headfoot.Null();
+this.__xy=this.__xx;
+}else{this.__xx=null;
+this.__xy=d;
+}},members:{__xw:null,__xy:null,__xv:null,__xx:null,applyStructure:function(b){this.__xw.join(b);
+this.__xy.join(b);
+b.add(this.__xw);
+b.add(this.getPane(),{flex:1});
+b.add(this.__xy);
+},getHeader:function(){return this.__xw;
+},getFooter:function(){return this.__xy;
+}},destruct:function(){if(this.__xv){this.__xv.dispose();
+this.__xv=null;
+}
+if(this.__xx){this.__xx.dispose();
+this.__xx=null;
+}this.__xw=this.__xy=null;
+}});
+})();
+(function(){var a="qx.ui.progressive.headfoot.Null";
+qx.Class.define(a,{extend:qx.ui.progressive.headfoot.Abstract,construct:function(){qx.ui.progressive.headfoot.Abstract.call(this);
+this.exclude();
+}});
+})();
+(function(){var o="qx.event.type.Data",n="dataAvailable",m="renderStart",l="Integer",k="_applyDataModel",j="Boolean",h="qx.ui.progressive.model.Abstract",g="progress",f="white",d="qx.ui.progressive.Progressive",b="progressDetail",c="renderEnd";
+qx.Class.define(d,{extend:qx.ui.container.Composite,construct:function(x){qx.ui.container.Composite.call(this,new qx.ui.layout.VBox());
+this.__xz={};
+this.set({backgroundColor:f});
+if(!x){x=new qx.ui.progressive.structure.Default();
+}this.__xA=x;
+x.applyStructure(this);
+this.__xB=false;
+this.__xC=false;
+this.__xD=0;
+},events:{"renderStart":o,"renderEnd":o,"progress":o,"progressDetail":o},properties:{dataModel:{check:h,apply:k},batchSize:{check:l,init:20},flushWidgetQueueAfterBatch:{check:j,init:false},interElementTimeout:{check:l,init:0}},members:{__xz:null,__xC:null,__xE:null,__xD:null,__xB:null,__xA:null,getStructure:function(){return this.__xA;
+},addRenderer:function(name,p){this.__xz[name]=p;
+p.join(this,name);
+},removeRenderer:function(name){if(!this.__xz[name]){throw new Error("No existing renderer named "+name);
+}delete this.__xz[name];
+},render:function(){if(this.__xC){return;
+}this.__xC=true;
+var q=new qx.ui.progressive.State({progressive:this,model:this.getDataModel(),pane:this.__xA.getPane(),batchSize:this.getBatchSize(),rendererData:this.__xG(),userData:{}});
+this.__xE=new Date();
+if(this.__xB){this.__xD=q.getModel().getElementCount();
+this.fireDataEvent(m,{state:q,initial:this.__xD});
+this.__xF(q);
+}else{qx.event.Timer.once(function(){this.__xD=q.getModel().getElementCount();
+this.fireDataEvent(m,{state:q,initial:this.__xD});
+this.__xF(q);
+this.__xB=true;
+},this,10);
+}},_applyDataModel:function(r,s){if(s){s.removeListener(n,this.__xH,this);
+s.dispose();
+}r.addListener(n,this.__xH,this);
+},__xF:function(t){var u;
+var w;
+var v;
+
+for(var i=t.getBatchSize();i>0;i--){u=t.getModel().getNextElement();
+
+if(!u){this.debug("Render time: "+(new Date()-this.__xE)+"ms");
+this.__xC=false;
+this.fireDataEvent(c,t);
+t.dispose();
+return ;
+}w=u.element;
+v=this.__xz[w.renderer];
+v.render(t,w);
+this.fireDataEvent(b,{initial:this.__xD,remaining:u.remaining,element:w});
+}this.fireDataEvent(g,{initial:this.__xD,remaining:u.remaining});
+if(this.getFlushWidgetQueueAfterBatch()){qx.ui.core.queue.Manager.flush();
+}qx.event.Timer.once(function(){this.__xF(t);
+},this,this.getInterElementTimeout());
+},__xG:function(){var a={};
+
+for(var name in this.__xz){a[name]={};
+}return a;
+},__xH:function(e){this.__xD=e.getData();
+this.render();
+}},destruct:function(){for(var name in this.__xz){this.__xz[name].dispose();
+}this.__xE=this.__xz=this.__xA=null;
+}});
+})();
+(function(){var a="qx.ui.progressive.State";
+qx.Class.define(a,{extend:qx.core.Object,construct:function(b){qx.core.Object.call(this);
+this.setProgressive(b.progressive);
+this.setModel(b.model);
+this.setPane(b.pane);
+this.setBatchSize(b.batchSize);
+this.setRendererData(b.rendererData);
+this.setUserData(b.userData);
+},properties:{progressive:{nullable:true},model:{nullable:true},pane:{nullable:true},batchSize:{},rendererData:{},userData:{}},destruct:function(){this.setProgressive(null);
+this.setModel(null);
+this.setPane(null);
+}});
+})();
+(function(){var c="abstract",b="qx.ui.progressive.model.Abstract",a="qx.event.type.Data";
+qx.Class.define(b,{type:c,extend:qx.core.Object,events:{"dataAvailable":a},members:{getElementCount:function(){throw new Error("getElementCount() is abstract");
+},getNextElement:function(){throw new Error("getNextElement() is abstract");
+}}});
+})();
+(function(){var b="dataAvailable",a="qx.ui.progressive.model.Default";
+qx.Class.define(a,{extend:qx.ui.progressive.model.Abstract,construct:function(){qx.ui.progressive.model.Abstract.call(this);
+this.__xI=[];
+},members:{__xI:null,addElements:function(c){this.__xI=this.__xI.concat(c);
+this.fireDataEvent(b,this.__xI.length);
+},addElement:function(d){this.__xI.push(d);
+this.fireDataEvent(b,this.__xI.length);
+},getElementCount:function(){return this.__xI.length;
+},getNextElement:function(){if(this.__xI.length>0){return ({element:this.__xI.shift(),remaining:this.__xI.length});
+}return null;
+}},destruct:function(){this.__xI=null;
+}});
+})();
+(function(){var b="qx.ui.progressive.renderer.Abstract",a="abstract";
+qx.Class.define(b,{type:a,extend:qx.core.Object,members:{render:function(c,d){throw new Error("render() is abstract");
+},join:function(e,name){}}});
+})();
+(function(){var a="qx.ui.progressive.renderer.FunctionCaller";
+qx.Class.define(a,{extend:qx.ui.progressive.renderer.Abstract,members:{render:function(b,c){c.data(b.getUserData());
+}}});
+})();
+(function(){var u="value",t="execute",s="dropnode.FileTreeUI",q="name",p="Empty row count in tree",o="delete",n="changeMessage",m="File Name",l="details",k="type",f="Negative row index",j="Show Details",i="icon/22/actions/list-remove.png",d="icon/22/status/dialog-information.png",c="Downloads",h="Delete",g="URL";
+qx.Class.define(s,{extend:qx.core.Object,properties:{message:{nullable:true,event:n},file_tree:{nullable:true},base_container:{nullable:true},event_bus:{nullable:true},name:{nullable:true},type:{nullable:true}},members:{initialize:function(v){this.setEvent_bus(v);
+},_addBindings:function(){arguments.callee.base.apply(this,arguments);
+this.bind(q,this.getUi().getName(),u);
+this.bind(k,this.getUi().getType(),u);
+},init_gui:function(){this.setBase_container(new qx.ui.container.Composite(new qx.ui.layout.VBox()));
+var toolbar=new qx.ui.toolbar.ToolBar();
+var a=new qx.ui.toolbar.Button(j,d);
+var b=new qx.ui.toolbar.Button(h,i);
+toolbar.add(a);
+toolbar.add(b);
+a.addListener(t,function(e){this.getEvent_bus().getInstance().dispatch(new qx.event.message.Message(l,null));
+},this);
+b.addListener(t,function(e){this.getEvent_bus().getInstance().dispatch(new qx.event.message.Message(o,null));
+},this);
+this.setFile_tree(new qx.ui.treevirtual.TreeVirtual([m,g,c]));
+this.getFile_tree().setFocusCellOnMouseMove(false);
+this.getBase_container().add(toolbar);
+this.getBase_container().add(this.getFile_tree());
+},goToFocusedRow:function(){this.goToRow(this.getFile_tree().getFocusedRow());
+},goToRow:function(w){var z=this;
+var x=function(r){if(r>=0){if(z.getFile_tree().getDataModel().getRowCount()>0){if(r<=(z.getFile_tree().getDataModel().getRowCount()-1)){return true;
+}else return false;
+}else throw p;
+}else throw f;
+};
+
+if(x(w)){var y=this.getFile_tree().getDataModel().getNodeFromRow(w);
+this.getFile_tree().getSelectionModel().setSelectionInterval(w,w);
+}else{this.goToRow(w-1);
+}}}});
+})();
+(function(){var e="inherit",d="toolbar-button",c="keydown",b="qx.ui.toolbar.Button",a="keyup";
+qx.Class.define(b,{extend:qx.ui.form.Button,construct:function(f,g,h){qx.ui.form.Button.call(this,f,g,h);
+this.removeListener(c,this._onKeyDown);
+this.removeListener(a,this._onKeyUp);
+},properties:{appearance:{refine:true,init:d},show:{refine:true,init:e},focusable:{refine:true,init:false}}});
 })();
 (function(){var a="dropnode.theme.Color";
 qx.Theme.define(a,{extend:qx.theme.modern.Color,colors:{}});
