@@ -3,7 +3,7 @@ $(function(){
   // verify that they support it
   typeof FileReader == 'undefined'?
     (function(){
-      $('#content').html("<div id='step'>Your browser does not support FileReader.</div>")
+      $('#content').html("<div id='step'>Your browser does not support FileReader. Check the <a href='/browsers'>supported browsers</a></div>")
     })()
     :
     (function(){
