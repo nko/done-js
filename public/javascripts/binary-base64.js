@@ -1,3 +1,6 @@
+/*
+ * Adapted from jquery.base64
+ */
 var binary = new Object();
 
 binary.base64Encode = function(input) {
