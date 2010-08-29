@@ -25,22 +25,24 @@ function handleDragAndDrop(dropbox){
   document.addEventListener('drop', noop, false);
   document.addEventListener('dragenter', function(e){
     $('#step').text(steps[1]);
-    //$('#dropbox').addClass('activeBox');
+    $('#dropbox').addClass('around');
     noop.apply(this, arguments)
   }, false);
   document.addEventListener('dragexit', function(e){
     $('#step').text(steps[0]);
+    $('#dropbox').removeClass('above').removeClass('around');
     noop.apply(this, arguments)
   }, false)
 
   var drop = function(e){
     noop.apply(this, arguments)
+    $('#dropbox').removeClass('above').removeClass('around');
     var files = e.dataTransfer.files
     $('body').trigger('uploadfile', [files]);
     
     $('#step').text("Shared " + files[0].name + " of type " + files[0].type+"!")
     setTimeout(function(){
-      $('#step').fadeOut(4000, function(){
+      $('#step').fadeOut(3000, function(){
         $('#step')
           .text(steps[0])
           .fadeIn(2000)
@@ -49,14 +51,15 @@ function handleDragAndDrop(dropbox){
   }
   
 
- dropbox.addEventListener("drop", drop, false);
- dropbox.addEventListener("dragexit", noop, false);
- dropbox.addEventListener("dragover", noop, false);
- dropbox.addEventListener("dragenter", function(e){
-   $('#step').text(steps[2]);
-   e.stopPropagation();
-   e.preventDefault();
- }, false);
+  dropbox.addEventListener("drop", drop, false);
+  dropbox.addEventListener("dragexit", noop, false);
+  dropbox.addEventListener("dragover", noop, false);
+  dropbox.addEventListener("dragenter", function(e){
+    $('#step').text(steps[2]);
+    $('#dropbox').addClass('above').removeClass('around');
+    e.stopPropagation();
+    e.preventDefault();
+  }, false);
 }
 
 function noop(e) {
