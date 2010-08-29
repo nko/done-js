@@ -25,7 +25,7 @@ function handleDragAndDrop(dropbox){
   document.addEventListener('drop', noop, false);
   document.addEventListener('dragenter', function(e){
     $('#step').text(steps[1]);
-    //$('#dropbox').addClass('activeBox');
+    $('#dropbox').addClass('activeBox');
     noop.apply(this, arguments)
   }, false);
   document.addEventListener('dragexit', function(e){
@@ -35,12 +35,13 @@ function handleDragAndDrop(dropbox){
 
   var drop = function(e){
     noop.apply(this, arguments)
+    $('#dropbox').removeClass('activeBox');
     var files = e.dataTransfer.files
     $('body').trigger('uploadfile', [files]);
     
     $('#step').text("Shared " + files[0].name + " of type " + files[0].type+"!")
     setTimeout(function(){
-      $('#step').fadeOut(4000, function(){
+      $('#step').fadeOut(3000, function(){
         $('#step')
           .text(steps[0])
           .fadeIn(2000)
