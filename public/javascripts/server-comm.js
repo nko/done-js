@@ -1,5 +1,5 @@
 function wsConnect(wsurl) {
-  console.log('Opening socket to ' + wsurl);
+  var fileBuffer = {}
   var socket = new WebSocket(wsurl);
   socket.onopen = function() {
     console.log('Socket open to ' + wsurl );
@@ -14,14 +14,54 @@ function wsConnect(wsurl) {
     */
   };
   socket.onmessage = function(msg) {
-    console.log('Received: ' + msg.data);
+    var res = JSON.parse(msg.data);
+    console.log(res)
+    $('body').trigger('url-recvd', [res])
   }
+  
+  $('body').bind('url-recvd', function(e, server){
+    var file = fileBuffer[server.name]
+    typeof FileReader != 'undefined'?
+      (function(){
+        var reader = new FileReader()
+        reader.onload = function(e){ 
+          console.log("PUT'ing to " + server.url)
+          $.ajax({
+            type: 'PUT',
+            url: server.url,
+            data: e.target.result,
+            dataType: file.type,
+            success:function(){
+              alert("sent \n"+e.target.result)
+            }
+          });
+        }
+        reader.readAsBinaryString(file)
+      })()
+      :
+      (function(){
+        alert('SHIT! Your browser doesnt support FileReader.')
+      })()
+    
+  });
   
   $('body').bind('uploadfile', function(e, files){
     for(var i = 0; i < files.length; i++){
       var request = files[i];
+      fileBuffer[request.name] = request
       request.request = 'share-file'
       socket.send(JSON.stringify(request))      
     }
   })
 }
+
+
+jQuery.extend({
+    put: function(url, data, callback, type) {
+        return _ajax_request(url, data, callback, type, 'PUT');
+    },
+    delete_: function(url, data, callback, type) {
+        return _ajax_request(url, data, callback, type, 'DELETE');
+    }
+});
+
