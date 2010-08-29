@@ -50,14 +50,14 @@ function handleDragAndDrop(dropbox){
   }
   
 
- dropbox.addEventListener("drop", drop, false);
- dropbox.addEventListener("dragexit", noop, false);
- dropbox.addEventListener("dragover", noop, false);
- dropbox.addEventListener("dragenter", function(e){
-   $('#step').text(steps[2]);
-   e.stopPropagation();
-   e.preventDefault();
- }, false);
+  dropbox.addEventListener("drop", drop, false);
+  dropbox.addEventListener("dragexit", noop, false);
+  dropbox.addEventListener("dragover", noop, false);
+  dropbox.addEventListener("dragenter", function(e){
+    $('#step').text(steps[2]);
+    e.stopPropagation();
+    e.preventDefault();
+  }, false);
 }
 
 function noop(e) {
