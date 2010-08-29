@@ -22,7 +22,7 @@ function wsConnect(wsurl) {
       $('#shortenedUrlDisplay').val(url)
       $("#shareDialog").dialog('open');
       
-      $("#fileList").append('<li><a target="_blank" href="'+url+'">'+res.name+'</li>');
+      $("#fileList").append('<li><a target="_blank" href="'+url+'">'+res.name+'</a> ('+res.sizeDisplay+')</li>');
       $("#fileListBox").show('slow');
 
     }else if(res.request && res.request == 'get'){
