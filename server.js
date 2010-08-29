@@ -42,18 +42,6 @@ var wsserver = websocket.createServer();
 wsserver.listen(settings.resourceman.wsPort);
 var resourceman = new ResourceMan(wsserver, settings.baseUrl);
 
-app.get("/file/:token", function(req, res){
-  var token = req.params.token;
-  console.log("GET request for " + token);
-  resourceman.handleHttpGet(token, res);
-});
-
-app.put("/file/:token", function(req, res){
-  var token = req.params.token;
-  console.log("PUT for " + token);
-  resourceman.handleHttpPut(token, req.rawBody, res);
-});
-
 // Routes
 routes.wire(app, settings, resourceman);
 
