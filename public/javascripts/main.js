@@ -1,13 +1,13 @@
 $(function(){
+  wsConnect('ws://'+location.hostname+':3081');
   handleDragAndDrop($('#dropbox').get(0))
 
   $("#shareButton").click(function(){
     shortenUrl("abc"); //TODO dynamically create this
     $("#shareDialog").dialog('open');
   });
-  $('#connectButton').click(function() {
-    wsConnect('ws://localhost:3081');
-  });
+  
+  
   $("#twitterDMButton").click(function(){
     tweetToken("abc"); //TODO dynamically create this
   });
@@ -35,6 +35,8 @@ function handleDragAndDrop(dropbox){
   var drop = function(e){
     noop.apply(this, arguments)
     var files = e.dataTransfer.files
+    $('body').trigger('uploadfile', [files]);
+    
     $('#step2').text("Shared " + files[0].name + " of type " + files[0].type+"!")
     setTimeout(function(){
       $('#step2').fadeOut(2000, function(){
@@ -97,23 +99,4 @@ function shortenUrl(token){
 }
 
 // Trivial example of WebSocket connection
-function wsConnect(wsurl) {
-  console.log('Opening socket to ' + wsurl);
-  var socket = new WebSocket(wsurl);
-  socket.onopen = function() {
-    console.log('Socket open to ' + wsurl + '; sending share request');
 
-    var sharemsg = { 'request' : 'share-file',
-		     'name' : 'my-file.txt',
-		     'size' : '128',
-		     'type' : 'application/text'
-		   };
-    socket.send(JSON.stringify(sharemsg));
-  };
-  socket.onmessage = function(msg) {
-    console.log('Received: ' + msg.data);
-  }
-
-
-  socket
-}
