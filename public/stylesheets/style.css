@@ -80,3 +80,6 @@ footer {
   border: 1px solid #000;
   font-weight: bold;
 }
+input#shortenedUrlDisplay {
+  font-size: 0.8em;
+}
