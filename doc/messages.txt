@@ -21,6 +21,22 @@ server -> sharer
 
 ----------------------------------------
 
+revoke file notification
+sharer -> server
+{
+  'request' : 'revoke-share',
+  'url' : '${server_URL}'
+}
+
+server -> sharer
+{
+  'response' : 'revoked'
+  'name' : '${file_name}'
+  'url' : '${server_URL}'
+}
+
+----------------------------------------
+
 file request
 
 server -> sharer
