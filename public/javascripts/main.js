@@ -9,7 +9,7 @@ $(function(){
   });
   $("#shareDialog").dialog(
     {  width: 400,
-       height: 140,
+       height: 160,
        modal: true,
        autoOpen: false
     });
@@ -18,45 +18,49 @@ $(function(){
 })
 
 function handleDragAndDrop(dropbox){
+  var steps = ["1. Drag File Into Browser",
+               "2. Drop File Here",
+               "3. DROP!"]
+
   document.addEventListener('drop', noop, false);
   document.addEventListener('dragenter', function(e){
-    $('#step1').removeClass('active')
-    $('#step2').addClass('active')
+    $('#step').text(steps[1]);
+    $('#dropbox').addClass('around');
     noop.apply(this, arguments)
   }, false);
   document.addEventListener('dragexit', function(e){
-    $('#step2').removeClass('active')
-    $('#step1').addClass('active')
+    $('#step').text(steps[0]);
+    $('#dropbox').removeClass('above').removeClass('around');
     noop.apply(this, arguments)
   }, false)
 
   var drop = function(e){
     noop.apply(this, arguments)
+    $('#dropbox').removeClass('above').removeClass('around');
     var files = e.dataTransfer.files
     $('body').trigger('uploadfile', [files]);
     
-    $('#step2').text("Shared " + files[0].name + " of type " + files[0].type+"!")
+    //$('#step').text("Shared " + files[0].name + " of type " + files[0].type+"!")
+    $('#step').text("Shared")
     setTimeout(function(){
-      $('#step2').fadeOut(2000, function(){
-        $('#step2')
-          .removeClass('active')
-          .text('2. Drop File(s) Here')
+      $('#step').fadeOut(1000, function(){
+        $('#step')
+          .text(steps[0])
           .fadeIn(2000)
-        $('#step1').addClass('active')
-        
       })
     }, 2000)
   }
   
 
- dropbox.addEventListener("drop", drop, false);
- dropbox.addEventListener("dragexit", noop, false);
- dropbox.addEventListener("dragover", noop, false);
- dropbox.addEventListener("dragenter", function(e){
-   $('#step2').text('3. DROP!')
-   e.stopPropagation();
-   e.preventDefault();
- }, false);
+  dropbox.addEventListener("drop", drop, false);
+  dropbox.addEventListener("dragexit", noop, false);
+  dropbox.addEventListener("dragover", noop, false);
+  dropbox.addEventListener("dragenter", function(e){
+    $('#step').text(steps[2]);
+    $('#dropbox').addClass('above').removeClass('around');
+    e.stopPropagation();
+    e.preventDefault();
+  }, false);
 }
 
 function noop(e) {

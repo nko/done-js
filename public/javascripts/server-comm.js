@@ -17,24 +17,30 @@ function wsConnect(wsurl) {
   socket.onmessage = function(msg) {
     var res = JSON.parse(msg.data);
     if(res.response && res.response == "ok"){
-      $('#shortenedUrlDisplay').val(res.url.replace(/file/g, "preview"))
+      var url = res.url.replace(/file/g, "preview");
+      $('#shortenedUrlDisplay').val(url)
       $("#shareDialog").dialog('open');
+      
+      $("#fileList").append('<li><a target="_blank" href="'+url+'">'+res.name+'</a> ('+res.sizeDisplay+')</li>');
+      $("#instructions").hide();
+      $("#fileListBox").show('slow');
+
+
     }else if(res.request && res.request == 'get'){
       $('body').trigger('url-recvd', [res])
     }
   }
   
   $('body').bind('url-recvd', function(e, server){
-    var file = fileBuffer[server.name]
+    var file = fileBuffer[server.name];
     typeof FileReader != 'undefined'?
       (function(){
-        var reader = new FileReader()
-        reader.onload = function(e){ 
-          console.log("PUT'ing to " + server.url)
+        var reader = new FileReader();
+        reader.onloadend = function(e){ 
           $.ajax({
             type: 'PUT',
             url: server.url,
-            data: e.target.result,
+            data: binary.base64Encode(e.target.result),
             dataType: file.type,
             success:function(){
               console.log("data sent")
@@ -46,8 +52,7 @@ function wsConnect(wsurl) {
       :
       (function(){
         alert('Your browser doesnt support FileReader.')
-      })()
-    
+      })();
   });
   
   $('body').bind('uploadfile', function(e, files){

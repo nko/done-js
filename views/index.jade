@@ -1,10 +1,18 @@
-#step1.active 1. Drag File(s) Into Browser
+script(src='/javascripts/main.js', type='text/javascript')
+script(src='/javascripts/binary-base64.js', type='text/javascript')
+script(src='/javascripts/server-comm.js', type='text/javascript')
+
 #dropbox
-  #step2 2. Drop File(s) Here
+  #step 1. Drag File Into Browser
+#fileListBox
+  h2 Shared Files
+  ul(id:"fileList")
 
-button(id:"shareButton") Share
-button(id:"connectButton") Connect
+p#instructions
+  | Drag a file that you want to share into the box and we will create a unique URL. You 
+  | can share that URL with friends or use it on another computer to transfer the file.
 
+br
 div(id:"shareDialog", title:"Share File")
-  p Pass this url out to your friends
+  p Pass this URL to your friends
   input#shortenedUrlDisplay(type="text", value="Loading...", size="68", readonly="readonly") 
