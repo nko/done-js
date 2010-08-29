@@ -1,20 +1,29 @@
 $(function(){
-  wsConnect('ws://'+location.hostname+':3081');
-  handleDragAndDrop($('#dropbox').get(0))
-  $('#shortenedUrlDisplay').click(function(){
-    $(this).select()
-  })
-  $("#twitterDMButton").click(function(){
-    tweetToken("abc"); //TODO dynamically create this
-  });
-  $("#shareDialog").dialog(
-    {  width: 400,
-       height: 160,
-       modal: true,
-       autoOpen: false
-    });
 
-  warnOnUnload();
+  // verify that they support it
+  typeof FileReader == 'undefined'?
+    (function(){
+      $('#step').text("Your browser does not support FileReader.")
+    })()
+    :
+    (function(){
+      wsConnect('ws://'+location.hostname+':3081');
+      handleDragAndDrop($('#dropbox').get(0))
+      $('#shortenedUrlDisplay').click(function(){
+        $(this).select()
+      })
+      $("#twitterDMButton").click(function(){
+        tweetToken("abc"); //TODO dynamically create this
+      });
+      $("#shareDialog").dialog(
+        {  width: 400,
+           height: 160,
+           modal: true,
+           autoOpen: false
+        });
+
+      warnOnUnload();
+    })()
 })
 
 function handleDragAndDrop(dropbox){
