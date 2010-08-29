@@ -11,7 +11,8 @@ $(function(){
     {  width: 400,
        height: 160,
        modal: true,
-       autoOpen: false
+       autoOpen: false,
+       position: ['center', 20]
     });
 
   warnOnUnload();
@@ -37,7 +38,7 @@ function handleDragAndDrop(dropbox){
     
     $('#step2').text("Shared " + files[0].name + " of type " + files[0].type+"!")
     setTimeout(function(){
-      $('#step2').fadeOut(2000, function(){
+      $('#step2').fadeOut(4000, function(){
         $('#step2')
           .removeClass('active')
           .text('2. Drop File(s) Here')

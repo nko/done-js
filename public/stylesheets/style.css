@@ -66,7 +66,9 @@ footer {
   display: block;
 }
 #step1, #step2 {
-  font-size: 4em;
+  font-size: 3em;
+  font-family: Verdana, Verdana, Geneva, sans-serif;
+  font-weight: bold;
   text-align: center;
   margin: 10px;
   color: #aaa;
