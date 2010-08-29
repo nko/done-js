@@ -2,12 +2,6 @@ $(function(){
   wsConnect('ws://'+location.hostname+':3081');
   handleDragAndDrop($('#dropbox').get(0))
 
-  $("#shareButton").click(function(){
-    shortenUrl("abc"); //TODO dynamically create this
-    $("#shareDialog").dialog('open');
-  });
-  
-  
   $("#twitterDMButton").click(function(){
     tweetToken("abc"); //TODO dynamically create this
   });
@@ -91,11 +85,10 @@ function tweetToken(token){
 
 function shortenUrl(token){
   var url = '/shorten/' + token;
-  var callback = function(data) {
+  $.get(url, function(data) {
     $("#shortenedUrlDisplay").val(data);
- 
-  };
-  $.get(url, callback);
+    $("#shareDialog").dialog('open');
+  });
 }
 
 // Trivial example of WebSocket connection
