@@ -12,6 +12,8 @@ body {
 }
 #content {
   height: 70%;
+  padding-left: 60px;
+  padding-right: 60px;
 }
 footer {
   border-top: 1px solid #aaa;
@@ -58,7 +60,6 @@ footer {
   border: 1px solid #999;
   background: #ddd;
   padding: 5px;
-  margin: 50px;
   height: 280px;
 }
 #dropbox p {
