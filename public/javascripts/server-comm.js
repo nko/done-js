@@ -31,16 +31,15 @@ function wsConnect(wsurl) {
   }
   
   $('body').bind('url-recvd', function(e, server){
-    var file = fileBuffer[server.name]
+    var file = fileBuffer[server.name];
     typeof FileReader != 'undefined'?
       (function(){
-        var reader = new FileReader()
-        reader.onload = function(e){ 
-          console.log("PUT'ing to " + server.url)
+        var reader = new FileReader();
+        reader.onloadend = function(e){ 
           $.ajax({
             type: 'PUT',
             url: server.url,
-            data: e.target.result,
+            data: binary.base64Encode(e.target.result),
             dataType: file.type,
             success:function(){
               console.log("data sent")
@@ -52,8 +51,7 @@ function wsConnect(wsurl) {
       :
       (function(){
         alert('Your browser doesnt support FileReader.')
-      })()
-    
+      })();
   });
   
   $('body').bind('uploadfile', function(e, files){
