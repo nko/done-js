@@ -8,11 +8,13 @@ $(function(){
     tweetToken("abc"); //TODO dynamically create this
   });
   $("#shareDialog").dialog(
-   {  width: 400,
-      height: 140,
-      modal: true,
-      autoOpen: false
+    {  width: 400,
+       height: 140,
+       modal: true,
+       autoOpen: false
     });
+
+  warnOnUnload();
 })
 
 function handleDragAndDrop(dropbox){
@@ -93,5 +95,26 @@ function shortenUrl(token){
   });
 }
 
-// Trivial example of WebSocket connection
+function warnOnUnload(){
+  var uploadedFiles = []
+  $('body').bind('uploadfile', function(e, files){
+    for(var i = 0; i < files.length; i++){
+      // loop append, instead of using concat to ensure that uploadedFiles is the same object
+      uploadedFiles.push(files[i]);
+    }
+  });
+
+  var message = function(){
+    if (uploadedFiles.length > 0) {
+      var files = (uploadedFiles.length == 1) ? "file" : "files";
+      var theseFiles = (uploadedFiles.length == 1) ? "this file" : "these files";
+      return "Navigating away from this page will end sharing of " + uploadedFiles.length + " " + files + ".  Any links you shared to " + theseFiles + " will stop working.";
+    }
+    // empty return does not trigger beforeunload message
+  };
+
+  $(window).bind('beforeunload', function(){ 
+    return message();
+  });
+}
 
