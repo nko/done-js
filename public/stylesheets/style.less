@@ -1,11 +1,13 @@
 body {
   padding: 20px;
   font: 14px "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
-  background-color:#25404D;
+  background-color:#43768e;
 }
 #votenodeko{
+  position: fixed;
+  top:5px;
+  right: 5px;
   border: 0px;
-  float: right
 }
 
 #content {
@@ -25,21 +27,26 @@ footer{
   padding: 10px;
   margin: 5px 100px;
   color: #555;
-  height:600px;
   h1{
-    width: 319px;
-    height: 197px;
-    background-image: url(/images/dropnode-medium);
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 200px;
+    height: 200px;
+    background-image: url(/images/dropnode-medium.png);
     text-indent:-6000px;
+  }
+  .navlink{ 
+    float: right;
   }
 }
 
 #dropbox{
   border: 1px solid #999;
   background: #ddd;
-  passing: 5px;
-  margin: 10px;
-  height: 90%; 
+  padding: 5px;
+  margin: 50px;
+  height: 280px; 
   p{
     display:block;
 
