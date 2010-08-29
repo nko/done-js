@@ -1,4 +1,5 @@
 function wsConnect(wsurl) {
+  var urls = {}
   var fileBuffer = {}
   var socket = new WebSocket(wsurl);
   socket.onopen = function() {
@@ -15,8 +16,11 @@ function wsConnect(wsurl) {
   };
   socket.onmessage = function(msg) {
     var res = JSON.parse(msg.data);
-    console.log(res)
-    $('body').trigger('url-recvd', [res])
+    if(res.response && res.response == "ok"){
+      alert('url: ' + res.url)
+    }else if(res.request && res.request == 'get'){
+      $('body').trigger('url-recvd', [res])
+    }
   }
   
   $('body').bind('url-recvd', function(e, server){
