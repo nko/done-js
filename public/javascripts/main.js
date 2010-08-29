@@ -11,23 +11,25 @@ $(function(){
     {  width: 400,
        height: 160,
        modal: true,
-       autoOpen: false,
-       position: ['center', 20]
+       autoOpen: false
     });
 
   warnOnUnload();
 })
 
 function handleDragAndDrop(dropbox){
+  var steps = ["1. Drag File Into Browser",
+               "2. Drop File Here",
+               "3. DROP!"]
+
   document.addEventListener('drop', noop, false);
   document.addEventListener('dragenter', function(e){
-    $('#step1').removeClass('active')
-    $('#step2').addClass('active')
+    $('#step').text(steps[1]);
+    //$('#dropbox').addClass('activeBox');
     noop.apply(this, arguments)
   }, false);
   document.addEventListener('dragexit', function(e){
-    $('#step2').removeClass('active')
-    $('#step1').addClass('active')
+    $('#step').text(steps[0]);
     noop.apply(this, arguments)
   }, false)
 
@@ -36,15 +38,12 @@ function handleDragAndDrop(dropbox){
     var files = e.dataTransfer.files
     $('body').trigger('uploadfile', [files]);
     
-    $('#step2').text("Shared " + files[0].name + " of type " + files[0].type+"!")
+    $('#step').text("Shared " + files[0].name + " of type " + files[0].type+"!")
     setTimeout(function(){
-      $('#step2').fadeOut(4000, function(){
-        $('#step2')
-          .removeClass('active')
-          .text('2. Drop File(s) Here')
+      $('#step').fadeOut(4000, function(){
+        $('#step')
+          .text(steps[0])
           .fadeIn(2000)
-        $('#step1').addClass('active')
-        
       })
     }, 2000)
   }
@@ -54,7 +53,7 @@ function handleDragAndDrop(dropbox){
  dropbox.addEventListener("dragexit", noop, false);
  dropbox.addEventListener("dragover", noop, false);
  dropbox.addEventListener("dragenter", function(e){
-   $('#step2').text('3. DROP!')
+   $('#step').text(steps[2]);
    e.stopPropagation();
    e.preventDefault();
  }, false);
