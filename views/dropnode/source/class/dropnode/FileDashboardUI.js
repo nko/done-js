@@ -20,7 +20,7 @@ qx.Class.define("dropnode.FileDashboardUI",
     init_gui : function () {
       this.setBase_container(new qx.ui.splitpane.Pane("horizontal").set({
                                                                           width : 350,
-                                                                          height : 300
+                                                                          height : 100
                                                                         }));
     },
     add : function (container) {

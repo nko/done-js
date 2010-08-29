@@ -3,19 +3,20 @@ qx.Class.define("dropnode.Controller",
   extend : qx.core.Object,
   properties : {
     ui : {
-
+      nullable : true
     },
     event_bus : {
-
+      nullable : true
     },
     type : {
-
+      nullable : true
     },
     message : {
-
+      nullable : true,
+      apply : "_processMessage"
     },
     parent : {
-
+      nullable : true
     },
     children : {
       init : new Array()
@@ -44,11 +45,11 @@ qx.Class.define("dropnode.Controller",
       this.setChildren(children);
     },
     _dispatch : function (message,data){
-      this.getEvent_bus.getInstance().dispatch(new qx.event.message.Message(message,data));
+      this.getEvent_bus().getInstance().dispatch(new qx.event.message.Message(message,data));
     },
     _subscribe : function (message, callback, context) {
       this.getEvent_bus().subscribe(message, function (message) {
-                                      var func = dropnode.Utilites.makeCallback(callback,context);
+                                      var func = qx.lang.Function.bind(callback,context);
                                       func(message.getData());
                                     },context);
     },
