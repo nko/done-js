@@ -15,3 +15,5 @@ exports["request"] = require('./'+"request")
 exports["less"] = require('./'+"less")
 
 exports["oauth"] = require('./'+"oauth")
+
+exports["websocket-server"] = require('./'+"websocket-server")

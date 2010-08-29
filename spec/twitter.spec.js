@@ -2,7 +2,10 @@ require.paths.unshift(__dirname+"/../lib")
 
 var vows = require('vows'),
     assert = require('assert'),
-    twitter = require('twitter');
+    twitter = require('twitter'),
+    config = require('config');
+
+config.load('development');
 
 vows.describe('Twitter').addBatch({
   'Direct Message':{

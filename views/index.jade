@@ -3,3 +3,11 @@ p Welcome to #{title}, the easy one stop way to drag and drop a file to share in
 #step1.active 1. Drag File(s) Into Browser
 #dropbox
   #step2 2. Drop File(s) Here
+
+button(id:"shareButton") Share
+button(id:"connectButton") Connect
+
+div(id:"shareDialog", title:"Share File")
+  input(id:"shortenedUrlDisplay", type:"text", value:"loading...")
+  input(id:"twitterHandle", type:"text")
+  button(id:"twitterDMButton") Twitter DM

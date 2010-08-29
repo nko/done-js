@@ -1,0 +1,17 @@
+{
+  "resourceman": {
+    "wsPort": 3081
+  },
+  "bitly": {
+    "key": "R_662058d252606f03a5dc03aad930d7ec",
+    "user": "donejs",
+    "host": "api.bit.ly",
+    "path": "/v3/shorten"
+  },
+  "twitter": {
+    "consumerKey": "CtnW8VEyOmQgAPaneG7LEg",
+    "consumerSecret": "NShimerdjQGNSkKnug3xmdRFB7Ph2AOofOwRW1zYI",
+    "accessToken": "184072309-cqQy93sPURhI2ITlQDyhxvGPovjrDIDdlI1IAIrh",
+    "accessTokenSecret": "90Z0nAIEy37OdJ03hUIzrYARDdX7yjMHaMNtCti6ZG4"
+  }
+}

@@ -1,0 +1,55 @@
+h2 what is #{title}
+
+p
+  #{title} is the easiest way to quickly and anonymously share a file to you 
+  people you know.
+
+h2 how #{title} works
+
+h3 in english
+
+p 
+  | Simply drag a file onto the #{title} web page, then share the unique link to 
+  | that file via twitter or email to your friends.  As soon as your friends 
+  | open the link, the file will be copied from your computer to their computers.  
+  | Once you close your web browser or navigate away from the #{title} page, all 
+  | ongoing downloads will be disconnected and the unique link dies--avery simple 
+  | kill switch.
+
+h3 in geek
+
+p 
+  | Using the new 
+  a(href="http://www.w3.org/TR/FileAPI/") HTML File API
+  | , you can indicate to your browser that you want to
+  | share a file.  The browser communicates to the #{title} server via a 
+  a(href="http://dev.w3.org/html5/websockets/") websocket
+  | , indicating that it is willing to share the file.  The server 
+  | generates a random, unique, URL to identify the file.  
+
+p
+  | You can then share this unique URL with anyone.  We offer to send a Twitter 
+  | user a Direct Message, if that user is following 
+  a(href="http://twitter.com/donejs") donejs
+
+p
+  | When a user clicks on the unique URL, the websocket communication channel
+  | tells your computer to HTTP PUT the file to the #{title} server.  So the file
+  | does not leave your computer until the first time someone requests it.
+  | As your computer PUTs the file to the server, the server begins sending
+  | the file to the other user's computer.
+
+p
+  | The #{title} server is built using 
+  a(href="http://nodejs.org/") node.js
+  |  and is hosted by 
+  a(href="http://www.joyent.com/2010/07/joyent-is-proud-to-be-the-node-js-knockout-hq/") Joyent
+  | .
+  
+
+h2 why is #{title} unique?
+
+ul
+  li Avoid email attachment size limits.  
+  li Share only with your frieds
+  li So easy, grandma could use it

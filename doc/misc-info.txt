@@ -1,0 +1,2 @@
+* always "rm -rf vendor && npm bundle ./vendor" when adding a new dep
+* env variables can be set on server in ~/node-services/profile

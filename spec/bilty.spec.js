@@ -2,7 +2,10 @@ require.paths.unshift(__dirname+"/../lib")
 
 var vows = require('vows'),
     assert = require('assert'),
-    bitly = require('bitly');
+    bitly = require('bitly'),
+    config = require('config');
+
+config.load('development');
 
 vows.describe('Bit.ly Shortener').addBatch({
   'shorten':{
