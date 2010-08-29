@@ -8,8 +8,7 @@ $(function(){
     tweetToken("abc"); //TODO dynamically create this
   });
   $("#shareDialog").dialog(
-   {
-      width: 400,
+   {  width: 400,
       height: 140,
       modal: true,
       autoOpen: false
