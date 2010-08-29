@@ -1,7 +1,7 @@
 h2 what is #{title}
 
 p
-  #{title} is the easiest way to quickly and anonymously share a file to you 
+  #{title} is the easiest way to quickly and anonymously share a file to the 
   people you know.
 
 h2 how #{title} works
@@ -13,7 +13,7 @@ p
   | that file via twitter or email to your friends.  As soon as your friends 
   | open the link, the file will be copied from your computer to their computers.  
   | Once you close your web browser or navigate away from the #{title} page, all 
-  | ongoing downloads will be disconnected and the unique link dies--avery simple 
+  | ongoing downloads will be disconnected and the unique link dies--a very simple 
   | kill switch.
 
 h3 in geek
@@ -28,16 +28,15 @@ p
   | generates a random, unique, URL to identify the file.  
 
 p
-  | You can then share this unique URL with anyone.  We offer to send a Twitter 
-  | user a Direct Message, if that user is following 
-  a(href="http://twitter.com/donejs") donejs
-
-p
   | When a user clicks on the unique URL, the websocket communication channel
   | tells your computer to HTTP PUT the file to the #{title} server.  So the file
   | does not leave your computer until the first time someone requests it.
   | As your computer PUTs the file to the server, the server begins sending
   | the file to the other user's computer.
+
+p
+  | We do not store the file on the #{title} server, we only proxy the data
+  | from your computer to another computer.
 
 p
   | The #{title} server is built using 
@@ -50,6 +49,10 @@ p
 h2 why is #{title} unique?
 
 ul
-  li Avoid email attachment size limits.  
-  li Share only with your frieds
-  li So easy, grandma could use it
+  li It is extremely simple to transfer a file
+  li No registration
+  li Avoid email attachment size limits  
+  li Share only with your friends
+  li You control when the file is no longer available
+  li Avoid overly restrictive firewalls
+
