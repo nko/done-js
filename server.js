@@ -12,9 +12,6 @@ var express = require('express'),
   ResourceMan = require('resourceman'),
   config = require('config');
 
-var BASE_URL = 'http://done-js.no.de:3000'
-var WS_PORT = 3081;
-
 var app = express.createServer();
 // Configuration
 
@@ -36,7 +33,7 @@ app.configure('production', function(){
 });
 
 // Custom config management
-config.load(app.settings['env']);
+var settings = config.load(app.settings['env']);
 
 // Routes
 
@@ -65,8 +62,7 @@ app.put("/file/:token", function(req, res){
 
 
 var shorten = function(token, callback){
-  // FIXME detect the host & port
-  var url = "http://done-js.no.de/file/" + token;
+  var url = settings.baseUrl + "file/" + token;
   bitly.shorten(url, callback);
 };
 
@@ -100,5 +96,5 @@ app.listen(parseInt(process.env.PORT) || 3000, null, function(){
 });
 
 var wsserver = websocket.createServer();
-wsserver.listen(WS_PORT);
-var resourceman = new ResourceMan(wsserver, BASE_URL);
+wsserver.listen(settings.resourceman.wsPort);
+var resourceman = new ResourceMan(wsserver, settings.baseUrl);

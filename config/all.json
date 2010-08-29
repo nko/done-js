@@ -1,4 +1,7 @@
 {
+  "resourceman": {
+    "wsPort": 3081
+  },
   "bitly": {
     "key": "R_662058d252606f03a5dc03aad930d7ec",
     "user": "donejs",
